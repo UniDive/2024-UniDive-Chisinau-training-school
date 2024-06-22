@@ -7,8 +7,9 @@ We expect you to fulfill the pre-requisites for **at least** Course 1 or Course 
 ### Necessary prerequisites 
 These prerequisites should be ready by the **1st of July**:
 1. Create a [Github](https://github.com/signup) **and** [Gitlab](https://gitlab.com/users/sign_up) account if you don’t have one already
-2. If you start a **new UD treebank** (see Course 3), think about the name following [these instructions](https://universaldependencies.org/release_checklist.html#new-language-or-treebank). **Send** the Github login, the name of the language, and a proposal of the name of the treebank to [Daniel Zeman](https://ufal.mff.cuni.cz/daniel-zeman) (no later the the 1st of July).
-3. Prepare you corpus to annotate: 
+2. Install and configure **Git** on your laptop following [this guide](https://github.com/UniDive/2024-UniDive-Chisinau-training-school/blob/main/Course-3-corpus-annotation-infrastructure/git-tutorial.pdf)
+3. If you start a **new UD treebank** (see Course 3), think about the name following [these instructions](https://universaldependencies.org/release_checklist.html#new-language-or-treebank). **Send** the Github login, the name of the language, and a proposal of the name of the treebank to [Daniel Zeman](https://ufal.mff.cuni.cz/daniel-zeman) (no later the the 1st of July).
+4. Prepare you corpus to annotate: 
     * If you start a corpus **from scratch** - see the instructions [how to prepare new data](#how-to-prepare-new-data-to-annotate) to annotate
     * If you already have an **on-going annotation** project, see [how to adapt your data](#how-to-adapt-existing-data-to-annotate) for the Training School
   
