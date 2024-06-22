@@ -37,17 +37,17 @@ If you want to make the most of the Training School, you may also read the publi
     * If you have data in other formats (like ELAN or equivalent), please contact Bruno.Guillaume@loria.fr and skahane@parisnanterre.fr as soon as possible; we will try to help you convert your data into a format suitable for annotation
 4. Corpus for **Course 2** on MWE annotation 
     * Prepare a text of approximately **5 pages** (some 2500 words); literature is recommended but not compulsory
-    * It would preferably concern a new language, a new dialect, or a new genre; by /new/ we mean not already covered in the [[https://gitlab.com/parseme/corpora/-/wikis/home#languages|PARSEME 1.3 corpus]]
+    * It would preferably concern a new language, a new dialect, or a new genre; by _new_ we mean not already covered in the [[https://gitlab.com/parseme/corpora/-/wikis/home#languages|PARSEME 1.3 corpus]]
     * It does not have to be the same text as for Course 1
     * It should be in the [CoNLL-U](https://universaldependencies.org/format.html) or [CUPT](https://multiword.sourceforge.net/cupt-format) format 
     * If you have just raw text, you may easily convert it to CoNLL-U by the following procedure
       * Go to the [UDPipe](https://lindat.mff.cuni.cz/services/udpipe/) service
       * Select a model for your language (if any), or for a close language (if any) or for a language with the same writing system
-      * Paste your text, untick /Tag and Lemmatize/ and tick /Parse/, to only produce segmentation.
-      * Click /Process Input/
-      * Click /Save output file/ and save the file on your computer
+      * Paste your text, untick _Tag and Lemmatize_ and _Parse_, to only produce segmentation.
+      * Click _Process Input_
+      * Click _Save output file_ and save the file on your computer
     * Go to the [FLAT](https://flat.lisn.upsaclay.fr/) annotation platform 
-    * Select /PILOT UNIDIVE 2024/ configuration
+    * Select _PILOT UNIDIVE 2024_ configuration
     * Enter the login and the password; they have been sent to you in a separate email 
     * [Upload the file](https://docs.google.com/document/d/1nLoyptr686FIJozdHJH9iJqwB5PgaZSTOlTKkuGeqcI/edit#heading=h.lih6ef6xum5x) to FLAT
 
@@ -58,7 +58,7 @@ If you want to make the most of the Training School, you may also read the publi
 2. Corpus for **Course 2**
     * If you wish to work on an already existing PARSEME corpus, you will have to **update its tagset**, so as to allow for annotating MWEs of all syntactic types (not only verbal ones)
     * If your corpus is in the `.cupt` format
-      * Log in to FLAT using the /PILOT UNIDIVE 2024/ configuration
+      * Log in to FLAT using the _PILOT UNIDIVE 2024_ configuration
       * Create a new folder, e.g. `UniDive-Training-School`
       * [Upload the file](https://docs.google.com/document/d/1nLoyptr686FIJozdHJH9iJqwB5PgaZSTOlTKkuGeqcI/edit#heading=h.lih6ef6xum5x) your `.cupt` file to this folder
     * If your corpus is already on FLAT
