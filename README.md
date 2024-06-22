@@ -22,15 +22,15 @@ If you want to make the most of the Training School, you may also read the publi
     * Ideally such data would come from [public domain](https://en.wikipedia.org/wiki/Public_domain)
     * Legal issues concerning copyright vary from one country to another, so we can only give you hints but no universal rules
     * Good candidates for source texts are:
-      * Texts published explicitly under [Creative Commons](https://search.creativecommons.org/), like Wikipedia
-      * Literary texts written by authors who died at least 70 years ago. If you use translation of such texts, the same period applies also to the translator.
+      * Texts published explicitly under [Creative Commons](https://creativecommons.org/), like Wikipedia
+      * Literary texts written by authors who died at least 70 years ago; if you use translation of such texts, the same period applies also to the translator
       * Already published corpora, with a known open license
-2. Source data selection - **running text**\\
+2. Source data selection - **running text**<br>
    If you wish to select only one or a few fragments of a larger text, choose sentences which **follow each other** (rather than randomly selected sentences), so that a larger context is available for each sentence.
 3. Corpus for **Course 1** on dependency syntax
-    * Prepare a text of about **10 sentences** is enough; no particular genre required
+    * Prepare a text of about **10 sentences**; no particular genre is required
     * The corpus should include **translations** and **glosses**, so that discussion with the trainers and other trainees is feasible; some [morphological information](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) can also be provided for a start
-    * It should be in the format illustrated in the [example spreadsheet](https://docs.google.com/spreadsheets/d/160pxZ33jGheBOSbJspDaXSbrWuW52nU49Y2aov7o8DU) (see the /Example sheet/)
+    * It should be in the format illustrated in the [example spreadsheet](https://docs.google.com/spreadsheets/d/160pxZ33jGheBOSbJspDaXSbrWuW52nU49Y2aov7o8DU) (see the _Example sheet_)
     * It should be provided it in one of the two alternative ways:
       * adding a new sheet to the [example spreadsheet](https://docs.google.com/spreadsheets/d/160pxZ33jGheBOSbJspDaXSbrWuW52nU49Y2aov7o8DU)
       * preparing a .csv or .tsv file following the same instructions (see [examples](https://github.com/UniDive/2024-UniDive-Chisinau-training-school/tree/main/Course-1-dependency-syntax/1-prerequisites))
