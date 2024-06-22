@@ -1,0 +1,30 @@
+# student = Bruno Guillaume			
+# language = pcm (Naija, Nigerian Pidgin), fr (French)			
+# description = This is an example of the format we expect for data provided by students for the UniDive training school. 			
+# For each sentence, "# sent_id', "# text" and "# text_en" are required, any other field can be added			
+# For each token: col1 = token in the language, col2 = English translation or Gloss, col3 (optional) = POS, col4 (optional) = comment			
+			
+# sent_id = 1			
+# text = oya no wahala			
+# text_en = Alright, no problem			
+# lang = pcm			
+oya	come_on		
+no	NEG		
+wahala	trouble		
+			
+# sent_id = 2			
+# text = ayah na network			
+# text_en = It's the network			
+# lang = pcm			
+ayah	surprise	INTJ	
+na	be	PART	
+network	network	NOUN	
+			
+# sent_id = 3			
+# text = parce qu'il dort			
+# text_en = because he sleeps			
+# lang = fr			
+parce	because		A gloss can be linked to several words: fr "parce que" = en 'because"
+qu'	_		In this case, the second gloss is empty (coded with "_")
+il	he		
+dort	sleep		
