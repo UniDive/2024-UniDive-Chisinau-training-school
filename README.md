@@ -48,8 +48,8 @@ If you want to make the most of the Training School, you may also read the publi
       * Click _Process Input_
       * Click _Save output file_ and save the file on your computer
     * Go to the [FLAT](https://flat.lisn.upsaclay.fr/) annotation platform 
-    * Select _PILOT UNIDIVE 2024_ configuration
-    * Enter the login and the password; they have been sent to you in a separate email 
+    * Select the _PILOT UNIDIVE 2024_ configuration
+    * Enter the login and the password; they will been sent to you in a separate email 
     * [Upload the file](https://docs.google.com/document/d/1nLoyptr686FIJozdHJH9iJqwB5PgaZSTOlTKkuGeqcI/edit#heading=h.lih6ef6xum5x) to FLAT
 
 ### How to adapt existing data to annotate?
@@ -61,9 +61,9 @@ If you want to make the most of the Training School, you may also read the publi
     * If your corpus is in the [CUPT](https://multiword.sourceforge.net/cupt-format) format
       * Log in to FLAT using the _PILOT UNIDIVE 2024_ configuration
       * Create a new folder, e.g. `UniDive-Training-School`
-      * [Upload the file](https://docs.google.com/document/d/1nLoyptr686FIJozdHJH9iJqwB5PgaZSTOlTKkuGeqcI/edit#heading=h.lih6ef6xum5x) your `.cupt` file to this folder
+      * [Upload](https://docs.google.com/document/d/1nLoyptr686FIJozdHJH9iJqwB5PgaZSTOlTKkuGeqcI/edit#heading=h.lih6ef6xum5x) your CUPT file to this folder
     * If your corpus is already on FLAT
-     * export it to the [CUPT](https://multiword.sourceforge.net/cupt-format) format, log out from FLAT, before logging in again and uploading the file, as explained above
+      * Export it to the [CUPT](https://multiword.sourceforge.net/cupt-format) format, log out from FLAT, before logging in again and uploading the file, as explained above
 
 ### If you cannot come with your own data
 We will prepare text samples for you in English and Naija (a pidgin Creole, close to English). 
