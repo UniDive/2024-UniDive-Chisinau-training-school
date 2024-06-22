@@ -1,8 +1,8 @@
 # UniDive 1st Training School in Chișinău, Moldova
 This is the repositrory for the [UniDive 1st Training School](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school) in Chișinău, Moldova, held on 8-12 July 2024. 
 
-## Pre-requisites for the courses
-We expect you to fulfill the pre-requisites for **at least** Course 1 or Course 2. 
+## Prerequisites for the courses
+We expect you to fulfill the prerequisites for **at least** Course 1 or Course 2. 
 
 ### Necessary prerequisites 
 These prerequisites should be ready by the **1st of July**:
