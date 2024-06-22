@@ -27,15 +27,15 @@ If you want to make the most of the Training School, you may also read the publi
       * Already published corpora, with a known open license
 2. Source data selection - **running text**<br>
    If you wish to select only one or a few fragments of a larger text, choose sentences which **follow each other** (rather than randomly selected sentences), so that a larger context is available for each sentence.
-3. Corpus for **Course 1** on dependency syntax
+3. Corpus for **Course 1** on **dependency syntax**
     * Prepare a text of about **10 sentences**; no particular genre is required
     * The corpus should include **translations** and **glosses**, so that discussion with the trainers and other trainees is feasible; some [morphological information](https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf) can also be provided for a start
     * It should be in the format illustrated in the [example spreadsheet](https://docs.google.com/spreadsheets/d/160pxZ33jGheBOSbJspDaXSbrWuW52nU49Y2aov7o8DU) (see the _Example sheet_)
-    * It should be provided it in one of the two alternative ways:
+    * It should be provided in one of the two alternative ways:
       * adding a new sheet to the [example spreadsheet](https://docs.google.com/spreadsheets/d/160pxZ33jGheBOSbJspDaXSbrWuW52nU49Y2aov7o8DU)
       * preparing a .csv or .tsv file following the same instructions (see [examples](https://github.com/UniDive/2024-UniDive-Chisinau-training-school/tree/main/Course-1-dependency-syntax/1-prerequisites))
     * If you have data in other formats (like ELAN or equivalent), please contact Bruno.Guillaume@loria.fr and skahane@parisnanterre.fr as soon as possible; we will try to help you convert your data into a format suitable for annotation
-4. Corpus for **Course 2** on MWE annotation 
+4. Corpus for **Course 2** on **MWE annotation**
     * Prepare a text of approximately **5 pages** (some 2500 words); literature is recommended but not compulsory
     * It would preferably concern a new language, a new dialect, or a new genre; by _new_ we mean not already covered in the [[https://gitlab.com/parseme/corpora/-/wikis/home#languages|PARSEME 1.3 corpus]]
     * It does not have to be the same text as for Course 1
