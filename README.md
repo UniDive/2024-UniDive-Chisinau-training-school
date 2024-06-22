@@ -67,6 +67,6 @@ If you want to make the most of the Training School, you may also read the publi
       * Export it to the [CUPT](https://multiword.sourceforge.net/cupt-format) format, log out from FLAT, before logging in again and uploading the file, as explained above
 
 ### If you cannot come with your own data
-If for some reason you do not wish to work on your own data, you can use samples which we prepared for [English samples](https://github.com/UniDive/2023-unidive-webinar/tree/main/parseme-tutorial) and Naija.
+If for some reason you do not wish to work on your own data, you can use samples which we prepared for [English](https://github.com/UniDive/2023-unidive-webinar/tree/main/parseme-tutorial) and Naija.
  
 
