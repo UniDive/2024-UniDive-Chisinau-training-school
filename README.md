@@ -2,18 +2,18 @@
 This is the repositrory for the [UniDive 1st Training School](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school) in Chișinău, Moldova, held on 8-12 July 2024. 
 
 ## Pre-requisites for the courses
-We expect you to fulfill the pre-requisites for **at least** course 1 or course 2, 
+We expect you to fulfill the pre-requisites for **at least** Course 1 or Course 2. 
 
-### Necessary pre-requisites 
+### Necessary prerequisites 
 These prerequisites should be ready by the **1st of July**:
-1. Create a [Github](https://github.com/signup) **and* [Gitlab](https://gitlab.com/users/sign_up) account if you don’t have one already
-2. If you start a **new UD treebank** (see Course 3), think about the name following [these instructions](https://universaldependencies.org/release_checklist.html#new-language-or-treebank). **Send** the Github login, the name of the language, and a proposal of the name of the treebank to [Daniel Zeman](https://ufal.mff.cuni.cz/daniel-zeman).
-3. Prepare you corpus to annotate
-  * If you start a corpus **from scratch** - see the instructions how to prepare new data to annotate
-  * If you already have an **on-going annotation** project, see how to adapt your data for the Training School
+1. Create a [Github](https://github.com/signup) **and** [Gitlab](https://gitlab.com/users/sign_up) account if you don’t have one already
+2. If you start a **new UD treebank** (see Course 3), think about the name following [these instructions](https://universaldependencies.org/release_checklist.html#new-language-or-treebank). **Send** the Github login, the name of the language, and a proposal of the name of the treebank to [Daniel Zeman](https://ufal.mff.cuni.cz/daniel-zeman) (no later the the 1st of July).
+3. Prepare you corpus to annotate: 
+    * If you start a corpus **from scratch** - see the instructions [how to prepare new data](#how-to-prepare-new-data-to-annotate) to annotate
+    * If you already have an **on-going annotation** project, see [how to adapt your data](#how-to-adapt-existing-data-to-annotate) for the Training School
   
 ### Recommended prerequisites
-If you want to make the most of the Training School, you may also read the publications recommended for each of the [[https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school:courses#annotation_of_multiword_expressions_for_newcomers|courses]].
+If you want to make the most of the Training School, you may also read the publications recommended for each of the [courses](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school:courses#annotation_of_multiword_expressions_for_newcomers).
 
 
 ### How to prepare new data to annotate?
