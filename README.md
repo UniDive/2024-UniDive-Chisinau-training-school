@@ -67,7 +67,7 @@ If you want to make the most of the Training School, you may also read the publi
         * On FLAT, go to the Document Index, find the file, right-click on Download -> Save link as ..., save the file on your computer
         * Open the file on your computer in a plain text editor and find the following line:
         `<entity-annotation set="https://github.com/proycon/parseme-support/raw/master/parseme-mwe-alllanguages2018.foliaset.xml">`
-        In the URL, replace `parseme-mwe-alllanguages2018.foliaset.xml` by `parseme-mwe-pilot-unidive-2024.foliaset.xml`. Save the file.
+        * In the URL, replace `parseme-mwe-alllanguages2018.foliaset.xml` by `parseme-mwe-pilot-unidive-2024.foliaset.xml`. Save the file.
         * Log out from FLAT and log in again using the _PILOT UNIDIVE 2024_ configuration.
         * Create a folder called `2024-Chisinau-training-school`
         * Click on _Upload document_; select the .folia.xml file; click _Upload_2; click on the file, it should show in an annotation window.
