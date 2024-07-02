@@ -63,8 +63,7 @@ If you want to make the most of the Training School, you may also read the publi
       * Log in to FLAT using the _PILOT UNIDIVE 2024_ configuration
       * Create a new folder, e.g. `UniDive-Training-School`
       * [Upload](https://docs.google.com/document/d/1nLoyptr686FIJozdHJH9iJqwB5PgaZSTOlTKkuGeqcI/edit#heading=h.lih6ef6xum5x) your CUPT file to this folder
-    * If your corpus is already on FLAT
-      * Export the file to the .folia.xml format. To this end: 
+    * If your corpus is already on FLAT, you have to update the configuration. To this end: 
         * On FLAT, go to the Document Index, find the file, right-click on Download -> Save link as ..., save the file on your computer
         * Open the file on your computer in a plain text editor and find the following line:
         `<entity-annotation set="https://github.com/proycon/parseme-support/raw/master/parseme-mwe-alllanguages2018.foliaset.xml">`
