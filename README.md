@@ -71,7 +71,7 @@ If you want to make the most of the Training School, you may also read the publi
         * In the URL, replace `parseme-mwe-alllanguages2018.foliaset.xml` by `parseme-mwe-pilot-unidive-2024.foliaset.xml`. Save the file.
         * Log out from FLAT and log in again using the _PILOT UNIDIVE 2024_ configuration.
         * Create a folder called `2024-Chisinau-training-school`
-        * Click on _Upload document_; select the .folia.xml file; click _Upload_2; click on the file, it should show in an annotation window.
+        * Click on _Upload document_; select the .folia.xml file; click _Upload_; click on the file, it should show in an annotation window.
 
 ### If you cannot come with your own data
 If for some reason you do not wish to work on your own data, you can use samples which we prepared for [English](https://github.com/UniDive/2023-unidive-webinar/tree/main/parseme-tutorial) and Naija.
