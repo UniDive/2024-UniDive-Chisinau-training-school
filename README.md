@@ -64,7 +64,14 @@ If you want to make the most of the Training School, you may also read the publi
       * Create a new folder, e.g. `UniDive-Training-School`
       * [Upload](https://docs.google.com/document/d/1nLoyptr686FIJozdHJH9iJqwB5PgaZSTOlTKkuGeqcI/edit#heading=h.lih6ef6xum5x) your CUPT file to this folder
     * If your corpus is already on FLAT
-      * Export it to the [CUPT](https://multiword.sourceforge.net/cupt-format) format, log out from FLAT, before logging in again and uploading the file, as explained above
+      * Export the file to the .folia.xml format. To this end: 
+        * On FLAT, go to the Document Index, find the file, right-click on Download -> Save link as ..., save the file on your computer
+        * Open the file on your computer in a plain text editor and find the following line:
+        `<entity-annotation set="https://github.com/proycon/parseme-support/raw/master/parseme-mwe-alllanguages2018.foliaset.xml">`
+        In the URL, replace `parseme-mwe-alllanguages2018.foliaset.xml` by `parseme-mwe-pilot-unidive-2024.foliaset.xml`. Save the file.
+        * Log out from FLAT and log in again using the _PILOT UNIDIVE 2024_ configuration.
+        * Create a folder called `2024-Chisinau-training-school`
+        * Click on _Upload document_; select the .folia.xml file; click _Upload_2; click on the file, it should show in an annotation window.
 
 ### If you cannot come with your own data
 If for some reason you do not wish to work on your own data, you can use samples which we prepared for [English](https://github.com/UniDive/2023-unidive-webinar/tree/main/parseme-tutorial) and Naija.
