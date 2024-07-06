@@ -98,7 +98,7 @@
 7	มาก	_	ADV	_	_	_	_	_	Gloss=very
 8	ขึ้น	_	ADV	_	_	_	_	_	Gloss=up
 9	ใน	_	ADP	_	_	_	_	_	Gloss=in
-10	ทุก	_	DET	_	_	_	_	_	Gloss=every
+10	ทุก	_	DET	_	_	_	_	_	Comment=(quantifier)|Gloss=every
 11	ๆ	_	PUNCT	_	_	_	_	_	Gloss=(Thai punctuation for repeating)
 12	ปี	_	NOUN	_	_	_	_	_	Gloss=year
 

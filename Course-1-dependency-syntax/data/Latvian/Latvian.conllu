@@ -103,13 +103,13 @@
 18	vēsturiskās	_	ADJ	_	_	_	_	_	Gloss=historical
 19	saknes	_	NOUN	_	_	_	_	_	Gloss=root
 20	meklējamas	_	VERB	_	_	_	_	_	Gloss=search
-21	gan	_	CCONJ	_	_	_	_	_	Gloss=
+21	gan	_	CCONJ	_	_	_	_	_	Gloss=_
 22	Somijā	_	PROPN	_	_	_	_	_	Gloss=Finland
 23	,	_	PUNCT	_	_	_	_	_	Gloss=,
-24	gan	_	CCONJ	_	_	_	_	_	Gloss=
+24	gan	_	CCONJ	_	_	_	_	_	Gloss=_
 25	Krievijā	_	PROPN	_	_	_	_	_	Gloss=Russia
 26	,	_	PUNCT	_	_	_	_	_	Gloss=,
-27	gan	_	CCONJ	_	_	_	_	_	Gloss=
+27	gan	_	CCONJ	_	_	_	_	_	Gloss=_
 28	Baltijā	_	PROPN	_	_	_	_	_	Gloss=Baltics
 29	.	_	PUNCT	_	_	_	_	_	Gloss=.
 

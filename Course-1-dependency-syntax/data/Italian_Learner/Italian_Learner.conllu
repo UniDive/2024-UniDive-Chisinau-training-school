@@ -1,5 +1,4 @@
 # global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
-
 # sent_id = assignmentA_1
 # text = La pubblicità è nata dopo la 2ª guerra mondiale, la pubblicità è stata creata soprattutto per sponsorizzare i prodotti che nascevano all’epoca.
 # text_en = Advertising was born after the 2nd World War, advertising was created mainly to sponsor the products that were being born at the time.
@@ -41,9 +40,9 @@
 5	erano	_	_	_	_	_	_	_	Gloss=be
 6	dei	_	_	_	_	_	_	_	Gloss=some
 7	mini	_	_	_	_	_	_	_	Gloss=mini
-8	filmini	_	_	_	_	_	_	_	Gloss=little movies
+8	filmini	_		_	_	_	_	_	Comment=very informal term|Gloss=little movies
 9	che	_	_	_	_	_	_	_	Gloss=that
-10	imparavano	_	_	_	_	_	_	_	Gloss=learn
+10	imparavano	_		_	_	_	_	_	Comment=Lexical error: the correct verb would be ‘teach’|Gloss=learn
 11	la	_	_	_	_	_	_	_	Gloss=the
 12	lingua	_	_	_	_	_	_	_	Gloss=language
 13	italiana	_	_	_	_	_	_	_	Gloss=Italian
@@ -59,7 +58,7 @@
 23	e	_	_	_	_	_	_	_	Gloss=and
 24	la	_	_	_	_	_	_	_	Gloss=the
 25	pubblicità	_	_	_	_	_	_	_	Gloss=advertising
-26	approfittava	_	_	_	_	_	_	_	Gloss=take advantage
+26	approfittava	_		_	_	_	_	_	Comment=the verb lacks the necessary argument describing what the advertising took advantage of; in this case, it would likely be the particle ‘ne’ (of which)|Gloss=take advantage
 27	per	_	_	_	_	_	_	_	Gloss=to
 28	insegnare	_	_	_	_	_	_	_	Gloss=teach
 29	l’	_	_	_	_	_	_	_	Gloss=the
@@ -122,7 +121,7 @@
 2	pubblicità	_	_	_	_	_	_	_	Gloss=advertising
 3	si	_	_	_	_	_	_	_	Gloss=REFL
 4	è	_	_	_	_	_	_	_	Gloss=evolve
-5	voluta	_	_	_	_	_	_	_	Gloss=_
+5	voluta	_		_	_	_	_	_	Comment=Incorrect form: it’s spelled ‘evoluta’|Gloss=_
 6	man	_	_	_	_	_	_	_	Gloss=progressively
 7	mano	_	_	_	_	_	_	_	Gloss=_
 8	fino	_	_	_	_	_	_	_	Gloss=up to
@@ -134,7 +133,7 @@
 14	durante	_	_	_	_	_	_	_	Gloss=during
 15	questo	_	_	_	_	_	_	_	Gloss=this
 16	“	_	_	_	_	_	_	_	Gloss=_
-17	svolgimento	_	_	_	_	_	_	_	Gloss=unfolding
+17	svolgimento	_		_	_	_	_	_	Comment=Lexically imprecise|Gloss=unfolding
 18	”	_	_	_	_	_	_	_	Gloss=_
 19	parallelamente	_	_	_	_	_	_	_	Gloss=concurrently
 20	alla	_	_	_	_	_	_	_	Gloss=to the
@@ -165,7 +164,7 @@
 3	una	_	_	_	_	_	_	_	Gloss=a
 4	rivoluzione	_	_	_	_	_	_	_	Gloss=revolution
 5	che	_	_	_	_	_	_	_	Gloss=that
-6	ha	_	_	_	_	_	_	_	Gloss=include
+6	ha	_		_	_	_	_	_	Comment=Wrong lexical choice: should be ‘coinvolto’/’incluso’ (affected)|Gloss=include
 7	compreso	_	_	_	_	_	_	_	Gloss=_
 8	tutto	_	_	_	_	_	_	_	Gloss=all
 9	il	_	_	_	_	_	_	_	Gloss=the
@@ -231,7 +230,7 @@
 3	neri	_	_	_	_	_	_	_	Gloss=black
 4	,	_	_	_	_	_	_	_	Gloss=_
 5	orecchie	_	_	_	_	_	_	_	Gloss=ear
-6	un	_	_	_	_	_	_	_	Gloss=a bit
+6	un	_		_	_	_	_	_	Comment=orthografical error: it’s spelled <<un po’>>|Gloss=a bit
 7	po	_	_	_	_	_	_	_	Gloss=_
 8	a	_	_	_	_	_	_	_	Gloss=sticky
 9	sventola	_	_	_	_	_	_	_	Gloss=_
@@ -244,11 +243,11 @@
 16	viso	_	_	_	_	_	_	_	Gloss=face
 17	ovale	_	_	_	_	_	_	_	Gloss=oval
 18	,	_	_	_	_	_	_	_	Gloss=_
-19	un	_	_	_	_	_	_	_	Gloss=a bit
+19	un	_		_	_	_	_	_	Comment=orthografical error: it’s spelled <<un po’>>|Gloss=a bit
 20	po	_	_	_	_	_	_	_	Gloss=_
 21	ciccione	_	_	_	_	_	_	_	Gloss=chubby
 22	e	_	_	_	_	_	_	_	Gloss=and
-23	dei	_	_	_	_	_	_	_	Gloss=some
+23	dei	_		_	_	_	_	_	Comment=the morphological agreement is incorrect (should be ‘degli’); also, the partitive article is incorrect with this phrase.|Gloss=some
 24	occhi	_	_	_	_	_	_	_	Gloss=eye
 25	neri	_	_	_	_	_	_	_	Gloss=black
 26	.	_	_	_	_	_	_	_	Gloss=_
@@ -260,7 +259,7 @@
 1	Quando	_	_	_	_	_	_	_	Gloss=when
 2	mi	_	_	_	_	_	_	_	Gloss=REFL
 3	arrabbio	_	_	_	_	_	_	_	Gloss=become angry
-4	lancio	_	_	_	_	_	_	_	Gloss=throw
+4	lancio	_		_	_	_	_	_	Comment=lanciare per aria’, like the similar ‘buttare per aria’, are colloquial expressions which litterally translate to ‘throw about the air’ and mean ‘turn things upside down’, generally by frantically rummaging or in a fit of rage.|Gloss=throw
 5	tutto	_	_	_	_	_	_	_	Gloss=everything
 6	per	_	_	_	_	_	_	_	Gloss=PREP
 7	aria	_	_	_	_	_	_	_	Gloss=air
@@ -308,7 +307,7 @@
 3	un	_	_	_	_	_	_	_	Gloss=a
 4	tema	_	_	_	_	_	_	_	Gloss=essay
 5	o	_	_	_	_	_	_	_	Gloss=or
-6	un	_	_	_	_	_	_	_	Gloss=a
+6	un	_		_	_	_	_	_	Comment=orthografical error: it’s spelled <<un’>> because it’s feminine|Gloss=a
 7	altra	_	_	_	_	_	_	_	Gloss=other
 8	cosa	_	_	_	_	_	_	_	Gloss=thing
 9	i	_	_	_	_	_	_	_	Gloss=the
@@ -318,8 +317,8 @@
 13	che	_	_	_	_	_	_	_	Gloss=that
 14	la	_	_	_	_	_	_	_	Gloss=the
 15	mia	_	_	_	_	_	_	_	Gloss=my
-16	caligrafia	_	_	_	_	_	_	_	Gloss=handwriting
-17	è	_	_	_	_	_	_	_	Gloss=is
+16	caligrafia	_		_	_	_	_	_	Comment=spelling error: it’s ‘calligraphy’.|Gloss=handwriting
+17	è	_		_	_	_	_	_	Comment=wrong mood: should be subjunctive, ‘sia’|Gloss=is
 18	brutta	_	_	_	_	_	_	_	Gloss=ugly
 19	,	_	_	_	_	_	_	_	Gloss=_
 20	ma	_	_	_	_	_	_	_	Gloss=but
@@ -338,7 +337,7 @@
 3	i	_	_	_	_	_	_	_	Gloss=the
 4	miei	_	_	_	_	_	_	_	Gloss=my
 5	amici	_	_	_	_	_	_	_	Gloss=friend
-6	mi	_	_	_	_	_	_	_	Gloss=REFL
+6	mi	_		_	_	_	_	_	Comment=pleonasm|Gloss=REFL
 7	comporto	_	_	_	_	_	_	_	Gloss=behave
 8	normalmente	_	_	_	_	_	_	_	Gloss=normally
 9	però	_	_	_	_	_	_	_	Gloss=but
@@ -347,7 +346,7 @@
 12	volte	_	_	_	_	_	_	_	Gloss=_
 13	dicono	_	_	_	_	_	_	_	Gloss=say
 14	di	_	_	_	_	_	_	_	Gloss=to
-15	essere	_	_	_	_	_	_	_	Gloss=be
+15	essere	_		_	_	_	_	_	Comment=wrong verbal conjugation: the subject changes and dhould be expressed: ‘che io sia strano’|Gloss=be
 16	strano	_	_	_	_	_	_	_	Gloss=weird
 17	.	_	_	_	_	_	_	_	Gloss=_
 
