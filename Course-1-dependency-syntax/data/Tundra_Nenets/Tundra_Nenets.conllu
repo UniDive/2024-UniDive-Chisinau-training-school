@@ -1,0 +1,257 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1
+# text = Маряд' мюня нудм'.
+# text_en = I stand behind the fence.
+# lang = yrk-tun
+1	Маряд'	_	N	_	_	_	_	_	Gloss=fence.gen
+2	мюня	_	Postp	_	_	_	_	_	Gloss=behind
+3	нудм'.	_	V	_	_	_	_	_	Gloss=stand.1sg
+
+# sent_id = 2
+# text = Тикахана сидя ты таняӈаха".
+# text_en = There are two reindeer there.
+# lang = yrk-tun
+1	Тикахана	_	Adv	_	_	_	_	_	Gloss=there
+2	сидя	_	Num	_	_	_	_	_	Gloss=two
+3	ты	_	N	_	_	_	_	_	Gloss=reindeer
+4	таняӈаха".	_	V	_	_	_	_	_	Gloss=exist.3du
+
+# sent_id = 3
+# text = Сидя тэхэ' няд маряд' нимня маряд' тяха' санэйв'.
+# text_en = I jump over the fence away from the two reindeer.
+# lang = yrk-tun
+1	Сидя	_	Num	_	_	_	_	_	Gloss=two
+2	тэхэ'	_	N	_	_	_	_	_	Gloss=reindeer.du
+3	няд	_	Postp	_	_	_	_	_	Gloss=at.abl
+4	маряд'	_	N	_	_	_	_	_	Gloss=fence.gen
+5	нимня	_	N	_	_	_	_	_	Gloss=top.prol
+6	маряд'	_	N	_	_	_	_	_	Gloss=fence.gen
+7	тяха'	_	Postp	_	_	_	_	_	Gloss=over
+8	санэйв'.	_	V	_	_	_	_	_	Gloss=jump.1sg.refl
+
+# sent_id = 4
+# text = Сана"махадани' тамна тяха' нэкалӈав.
+# text_en = After I jump I go on.
+# lang = yrk-tun
+1	Сана"махадани'	_	_	_	_	_	_	_	Gloss=jump.pfv.an.abl.obl.1sg
+2	тамна	_	Adv	_	_	_	_	_	Gloss=even
+3	тяха'	_	Adv	_	_	_	_	_	Gloss=further
+4	нэкалӈав.	_	V	_	_	_	_	_	Gloss=pull.1sg.sg
+
+# sent_id = 5
+# text = Нерни' няна пирця харадм' манэ"ӈадм'.
+# text_en = I notice a tall tower in front of me.
+# lang = yrk-tun
+1	Нерни'	_	Postp	_	_	_	_	_	Gloss=in.front.of.gen.1sg
+2	няна	_	Pron	_	_	_	_	_	Gloss=1sg.dat
+3	пирця	_	Adj	_	_	_	_	_	Gloss=tall
+4	харадм'	_	N	_	_	_	_	_	Gloss=house.acc
+5	манэ"ӈадм'.	_	V	_	_	_	_	_	Gloss=see.1sg
+
+# sent_id = 6
+# text = Махалэйда мятрев' саблюй.
+# text_en = Its roof is peaked like a tent.
+# lang = yrk-tun
+1	Махалэйда	_	N	_	_	_	_	_	Gloss=roof.3sg
+2	мятрев'	_	N	_	_	_	_	_	Gloss=tent.equ
+3	саблюй.	_	Adj	_	_	_	_	_	Gloss=peak
+
+# sent_id = 7
+# text = Сидя сидеранда си, нёнда си таня.
+# text_en = It has two windows and a door.
+# lang = yrk-tun
+1	Сидя	_	Num	_	_	_	_	_	Gloss=two
+2	сидеранда	_	N	_	_	_	_	_	Gloss=window.gen.3sg
+3	си,	_	N	_	_	_	_	_	Gloss=hole
+4	нёнда	_	N	_	_	_	_	_	Gloss=door.gen.3sg
+5	си	_	N	_	_	_	_	_	Gloss=hole
+6	таня.	_	V	_	_	_	_	_	Gloss=exist.3sg
+
+# sent_id = 8
+# text = Нёнда си танцянзавэй.
+# text_en = Its door has stairs (“its door is bestaired”).
+# lang = yrk-tun
+1	Нёнда	_	N	_	_	_	_	_	Gloss=door.gen.3sg
+2	си	_	N	_	_	_	_	_	Gloss=hole
+3	танцянзавэй.	_	N	_	_	_	_	_	Gloss=stairs.com
+
+# sent_id = 9
+# text = Танця' сер' танэйв'.
+# text_en = I go up the stairs.
+# lang = yrk-tun
+1	Танця'	_	N	_	_	_	_	_	Gloss=stairs
+2	сер'	_	N	_	_	_	_	_	Gloss=thing
+3	танэйв'.	_	V	_	_	_	_	_	Gloss=go.up.1sg.refl
+
+# sent_id = 10
+# text = Нё' сивня мяттюдм'.
+# text_en = I enter through the door.
+# lang = yrk-tun
+1	Нё'	_	N	_	_	_	_	_	Gloss=door.gen
+2	сивня	_	N	_	_	_	_	_	Gloss=hole.prol
+3	мяттюдм'.	_	V	_	_	_	_	_	Gloss=tent.dat_step.in.1sg
+
+# sent_id = 11
+# text = Маха саблюй харад' мюмня ирт' хаядм'.
+# text_en = I go through the tower with the sharp roof.
+# lang = yrk-tun
+1	Маха	_	N	_	_	_	_	_	Gloss=roof
+2	саблюй	_	Adj	_	_	_	_	_	Gloss=peak
+3	харад'	_	N	_	_	_	_	_	Gloss=house.gen
+4	мюмня	_	Postp	_	_	_	_	_	Gloss=through
+5	ирт'	_	Adv	_	_	_	_	_	Gloss=straight
+6	хаядм'.	_	V	_	_	_	_	_	Gloss=go.1sg
+
+# sent_id = 12
+# text = Няр" мадав.
+# text_en = I cross it.
+# lang = yrk-tun
+1	Няр"	_	Adv	_	_	_	_	_	Gloss=across
+2	мадав.	_	V	_	_	_	_	_	Gloss=pass.across.1sg.sg
+
+# sent_id = 13
+# text = Няби нё' сивня тарпыв'.
+# text_en = I walk out the other door.
+# lang = yrk-tun
+1	Няби	_	Cnj	_	_	_	_	_	Gloss=other
+2	нё'	_	N	_	_	_	_	_	Gloss=door.gen
+3	сивня	_	N	_	_	_	_	_	Gloss=hole.prol
+4	тарпыв'.	_	V	_	_	_	_	_	Gloss=walk.out.1sg.refl
+
+# sent_id = 14
+# text = Харадм' хэхэдёйтав.
+# text_en = I cross the house.
+# lang = yrk-tun
+1	Харадм'	_	N	_	_	_	_	_	Gloss=house.acc
+2	хэхэдёйтав.	_	V	_	_	_	_	_	Gloss=run.across.1sg.sg
+
+# sent_id = 15
+# text = Нё' сим' нэв, танця' сер' ха"амыв'.
+# text_en = I open the door and go down the stairs.
+# lang = yrk-tun
+1	Нё'	_	N	_	_	_	_	_	Gloss=door.gen
+2	сим'	_	N	_	_	_	_	_	Gloss=hole.acc
+3	нэв,	_	V	_	_	_	_	_	Gloss=open.1sg.sg
+4	танця'	_	N	_	_	_	_	_	Gloss=stairs
+5	сер'	_	N	_	_	_	_	_	Gloss=thing
+6	ха"амыв'.	_	V	_	_	_	_	_	Gloss=go.down.1sg.refl
+
+# sent_id = 16
+# text = Яда нэкалӈав, маханякубта мэв.
+# text_en = I walk and turn to the right.
+# lang = yrk-tun
+1	Яда	_	Adv	_	_	_	_	_	Gloss=on.foot
+2	нэкалӈав,	_	V	_	_	_	_	_	Gloss=pull.1sg.sg
+3	маханякубта	_	N	_	_	_	_	_	Gloss=right.side
+4	мэв.	_	V	_	_	_	_	_	Gloss=take.1sg.sg
+
+# sent_id = 17
+# text = Маханякубта' мимани' сер' яха' таркавна ӈадимядм'.
+# text_en = While I am walking on the right side, I arrive to the fork of the river.
+# lang = yrk-tun
+1	Маханякубта'	_	N	_	_	_	_	_	Gloss=right.side.gen
+2	мимани'	_	AN	_	_	_	_	_	Gloss=go.ipfv.an.gen.1sg
+3	сер'	_	N	_	_	_	_	_	Gloss=thing
+4	яха'	_	N	_	_	_	_	_	Gloss=river.gen
+5	таркавна	_	N	_	_	_	_	_	Gloss=fork.prol
+6	ӈадимядм'.	_	V	_	_	_	_	_	Gloss=appear.1sg
+
+# sent_id = 18
+# text = Няби яха' таркам' ӈохолё мадав.
+# text_en = I swim across one fork of the river.
+# lang = yrk-tun
+1	Няби	_	Cnj	_	_	_	_	_	Gloss=other
+2	яха'	_	N	_	_	_	_	_	Gloss=river.gen
+3	таркам'	_	N	_	_	_	_	_	Gloss=fork.acc
+4	ӈохолё	_	CVB	_	_	_	_	_	Gloss=swim.cvb
+5	мадав.	_	V	_	_	_	_	_	Gloss=pass.across.1sg.sg
+
+# sent_id = 19
+# text = Тарканда пыя' ни' танэйв'.
+# text_en = I climb after the end of the fork of the river.
+# lang = yrk-tun
+1	Тарканда	_	N	_	_	_	_	_	Gloss=fork.gen.3sg
+2	пыя'	_	N	_	_	_	_	_	Gloss=end.gen
+3	ни'	_	Postp	_	_	_	_	_	Gloss=at
+4	танэйв'.	_	V	_	_	_	_	_	Gloss=rise.1sg.refl
+
+# sent_id = 20
+# text = Тарканда пыям' мада"махадани' ӈани' ӈохолё нэкалӈав, яхам' мадав.
+# text_en = After I walk across the headland I keep swimming, I cross the river.
+# lang = yrk-tun
+1	Тарканда	_	N	_	_	_	_	_	Gloss=fork.gen.3sg
+2	пыям'	_	N	_	_	_	_	_	Gloss=end.acc
+3	мада"махадани'	_	AN	_	_	_	_	_	Gloss=pass.across.ipfv.an.abl.1sg
+4	ӈани'	_	Cnj	_	_	_	_	_	Gloss=again
+5	ӈохолё	_	CVB	_	_	_	_	_	Gloss=swim.cvb
+6	нэкалӈав,	_	V	_	_	_	_	_	Gloss=pull.1sg.sg
+7	яхам'	_	N	_	_	_	_	_	Gloss=river.acc
+8	мадав.	_	V	_	_	_	_	_	Gloss=pass.across.1sg.sg
+
+# sent_id = 21
+# text = Тадтикахад ӈани' ялъява" нерни' няна пям' манэ"ӈадм'.
+# text_en = While I am walking I see a tree in front of me.
+# lang = yrk-tun
+1	Тадтикахад	_	Adv	_	_	_	_	_	Gloss=afterwards
+2	ӈани'	_	Cnj	_	_	_	_	_	Gloss=again
+3	ялъява"	_	AN	_	_	_	_	_	Gloss=walk.ipfv.an.gen
+4	нерни'	_	Postp	_	_	_	_	_	Gloss=in.front.of.gen.1sg
+5	няна	_	Pron	_	_	_	_	_	Gloss=1sg.dat
+6	пям'	_	N	_	_	_	_	_	Gloss=tree.acc
+7	манэ"ӈадм'.	_	V	_	_	_	_	_	Gloss=see.1sg
+
+# sent_id = 22
+# text = Пям' маханяӈы хэвувнанда яля' пырдари' сюртев.
+# text_en = I walk around the tree on the right against the sun.
+# lang = yrk-tun
+1	Пям'	_	N	_	_	_	_	_	Gloss=tree.acc
+2	маханяӈы	_	Adv	_	_	_	_	_	Gloss=from.right
+3	хэвувнанда	_	N	_	_	_	_	_	Gloss=side.pros.3sg
+4	яля'	_	N	_	_	_	_	_	Gloss=sun.gen
+5	пырдари'	_	Adj	_	_	_	_	_	Gloss=against
+6	сюртев.	_	N	_	_	_	_	_	Gloss=go.around.1sg.sg
+
+# sent_id = 23
+# text = Тамна тяха" ялъяв', ядвани' сер' пулм' манэ"ӈадм'.
+# text_en = I keep walking, while I am walking, I see a bridge.
+# lang = yrk-tun
+1	Тамна	_	Adv	_	_	_	_	_	Gloss=even
+2	тяха"	_	Adv	_	_	_	_	_	Gloss=further
+3	ялъяв',	_	V	_	_	_	_	_	Gloss=walk.1sg.refl
+4	ядвани'	_	AN	_	_	_	_	_	Gloss=walk.ipfv.an.gen.1sg
+5	сер'	_	N	_	_	_	_	_	Gloss=thing
+6	пулм'	_	N	_	_	_	_	_	Gloss=bridge.acc
+7	манэ"ӈадм'.	_	V	_	_	_	_	_	Gloss=see.1sg
+
+# sent_id = 24
+# text = Пул' сер' яхам' няби' ня' мадав.
+# text_en = I cross the river on the bridge to the other side.
+# lang = yrk-tun
+1	Пул'	_	N	_	_	_	_	_	Gloss=bridge.gen
+2	сер'	_	N	_	_	_	_	_	Gloss=thing
+3	яхам'	_	N	_	_	_	_	_	Gloss=river.acc
+4	няби'	_	Cnj	_	_	_	_	_	Gloss=other
+5	ня'	_	Postp	_	_	_	_	_	Gloss=to
+6	мадав.	_	V	_	_	_	_	_	Gloss=pass.across.1sg.sg
+
+# sent_id = 25
+# text = Тадтикахад сятанякубта' мэхэя тамна тяха' ялъяв'.
+# text_en = Afterwards I keep walking turning to the left hand side.
+# lang = yrk-tun
+1	Тадтикахад	_	Adv	_	_	_	_	_	Gloss=afterwards
+2	сятанякубта'	_	N	_	_	_	_	_	Gloss=left.side.gen
+3	мэхэя	_	CVB	_	_	_	_	_	Gloss=take.cvb
+4	тамна	_	Adv	_	_	_	_	_	Gloss=even
+5	тяха'	_	Adv	_	_	_	_	_	Gloss=further
+6	ялъяв'.	_	V	_	_	_	_	_	Gloss=walk.1sg.refl
+
+# sent_id = 26
+# text = Тадтикахад маряд' нё сивня тарпыв'.
+# text_en = Then, I go out the gate of the fence.
+# lang = yrk-tun
+1	Тадтикахад	_	Adv	_	_	_	_	_	Gloss=afterwards
+2	маряд'	_	N	_	_	_	_	_	Gloss=fence.gen.2sg
+3	нё	_	N	_	_	_	_	_	Gloss=door
+4	сивня	_	N	_	_	_	_	_	Gloss=hole.prol
+5	тарпыв'.	_	V	_	_	_	_	_	Gloss=go.out.1sg.refl
+
