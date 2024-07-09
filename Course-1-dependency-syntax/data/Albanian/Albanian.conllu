@@ -1,0 +1,158 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1
+# text = Me poezinë e tij lirike dhe epike Naim Frashëri u bë poeti kombëtar i popullit shqiptar.
+# text_en = With his lyric and epic poetry Naim Frashëri became Albanian people's national poet.
+# lang = sqi
+1	me	_	ADP	_	Case=Acc	_	_	_	Gloss=with
+2	poezinë	_	NOUN	_	Case=Acc|Definite=Def |Gender=Fem|Number=Sing	_	_	_	Gloss=poetry
+3	e	_	DET	_	Gender=Fem|Number=Sing	_	_	_	Det=poss|Gloss=_
+4	tij	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	Gloss=his
+5	Naim	_	PROPN	_	Case=Nom|Definite=Ind |Gender=Masc|Number=Sing	_	_	_	Gloss=Naim
+6	Frashëri	_	PROPN	_	Case=Nom	_	_	_	Gloss=Frashëri
+7	u	_	AUX	_	Tense=Past	_	_	_	Gloss=_
+8	bë	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=became
+9	poeti	_	NOUN	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=poet
+10	kombëtar	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=national
+11	i	_	DET	_	Gender=Masc |Number=Sing	_	_	_	Gloss=of
+12	popullit	_	NOUN	_	Case=Gen|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=people
+13	shqiptar	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=Albanian
+14	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 2
+# text = Veprat në gjuhën shqipe filloi t'i botonte në vitin 1886.
+# text_en = He started to publish his work in the Albanian language in the year 1886.
+# lang = sqi
+1	veprat	_	NOUN	_	Case=Acc|Definite=Def |Gender=Fem|Number=Plur	_	_	_	Gloss=works
+2	në	_	ADP	_	Case=Acc	_	_	_	Gloss=in
+3	gjuhën	_	NOUN	_	Case=Acc|Definite=Def |Gender=Fem|Number=Sing	_	_	_	Gloss=language
+4	shqipe	_	ADJ	_	Gender=Fem|Number=Sing	_	_	_	Gloss=albanian
+5	filloi	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=started
+6	t'	_	PART	_	_	_	_	_	Gloss=to
+7	i	_	PRON	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	Gloss=_
+8	botonte	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=publish
+9	në	_	ADP	_	Case=Acc	_	_	_	Gloss=in
+10	vitin	_	NOUN	_	Case=Acc|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=year
+11	1886	_	NUM	_	_	_	_	_	Gloss=1886
+12	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 3
+# text = Tema patriotike nuk ishte më në qendër të letërsisë.
+# text_en = The patriotic theme was no longer at the center of literature.
+# lang = al
+1	tema	_	NOUN	_	Case=Nom|Definite=Def |Gender=Fem|Number=Sing	_	_	_	Gloss=theme
+2	patriotike	_	ADJ	_	Gender=Fem|Number=Sing	_	_	_	Gloss=patriotic
+3	nuk	_	PART	_	_	_	_	_	Gloss=no|Neg=True
+4	ishte	_	COP	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=be
+5	më	_	PART	_	_	_	_	_	Gloss=longer
+6	në	_	ADP	_	Case=Acc	_	_	_	Gloss=in
+7	qendër	_	NOUN	_	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing	_	_	_	Gloss=center
+8	të	_	DET	_	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing	_	_	_	Gloss=of
+9	letërsisë	_	NOUN	_	Case=Gen|Definite=Def |Gender=Fem|Number=Sing	_	_	_	Gloss=literature
+10	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 4
+# text = La gjurmë të thella.
+# text_en = He left deep traces.
+# lang = al
+1	la	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=left
+2	gjurmë	_	NOUN	_	Case=Acc|Definite=Ind |Gender=Fem|Number=Plur	_	_	_	Gloss=traces
+3	të	_	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	Det=Adj|Gloss=_
+4	thella	_	ADJ	_	Gender=Fem|Number=Plur	_	_	_	Gloss=DEEP
+5	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 5
+# text = Në Shqipëri u shfaqën talente të reja në poezi.
+# text_en = New talents in poetry appeared in Albania
+# lang = al
+1	në	_	ADP	_	_	_	_	_	Gloss=in
+2	shqipëri	_	PROPN	_	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing	_	_	_	Gloss=albania
+3	u	_	AUX	_	_	_	_	_	Gloss=_
+4	shfaqën	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=appeared
+5	talente	_	NOUN	_	Case=Nom|Definite=Ind |Gender=Fem|Number=Plur	_	_	_	Gloss=talents
+6	të	_	DET	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	Deinite=Ind|Det=Adj|Gloss=_
+7	reja	_	ADJ	_	Gender=Masc|Number=Plur	_	_	_	Gloss=new
+
+# sent_id = 6
+# text = Ai u bë përfaqësuesi kryesor i letërsisë shqipe dhe shkrimtar i rëndësishëm botëror.
+# text_en = He became the main representative of Albanian literature and an important world writer.
+# lang = al
+1	ai	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Pers	_	_	_	Gloss=he|Pers=3
+2	u	_	AUX	_	_	_	_	_	Gloss=_
+3	bë	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=became
+4	përfaqësuesi	_	NOUN	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=representative
+5	kryesor	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=main
+6	i	_	DET	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=of
+7	letërsisë	_	NOUN	_	Case=Gen|Definite=Def |Gender=Fem|Number=Sing	_	_	_	Gloss=literature
+8	shqipe	_	ADJ	_	Gender=Fem	_	_	_	Gloss=albanian
+9	dhe	_	CCONJ	_	_	_	_	_	Gloss=and
+10	shkrimtar	_	NOUN	_	Case=Nom|Definite=Ind |Gender=Masc|Number=Sing	_	_	_	Gloss=writer
+11	i	_	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	Det=Adj|Gloss=_
+12	rëndësishëm	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=important
+13	botëror	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=world
+14	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 7
+# text = Brezi i ri i shkrimtarëve solli një frymë të re realiste.
+# text_en = The new generation of writers brought a new realistic spirit.
+# lang = al
+1	brezi	_	NOUN	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=generation
+2	i	_	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	Det=Adj|Gloss=_
+3	ri	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=new
+4	i	_	DET	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=of
+5	shkrimtarëve	_	NOUN	_	Case=Gen|Definite=Def |Gender=Masc|Number=Plur	_	_	_	Gloss=writers
+6	solli	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=brought
+7	një	_	DET	_	Gender=Fem	_	_	_	Gloss=a
+8	frymë	_	NOUN	_	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing	_	_	_	Gloss=spirit
+9	të	_	DET	_	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing	_	_	_	Det=adj|Gloss=_
+10	re	_	ADJ	_	Gender=Fem|Number=Sing	_	_	_	Gloss=new
+11	realiste	_	ADJ	_	Gender=Fem|Number=Sing	_	_	_	Gloss=realistic
+12	.	_	PUNCT	_	_	_	_	_	Gloss=_
+
+# sent_id = 8
+# text = Librat e tij janë përkthyer në shumë gjuhë.
+# text_en = His books have been translated into many languages.
+# lang = al
+1	librat	_	NOUN	_	Case=Nom|Definite=Def |Gender=Masc|Number=Plur	_	_	_	Gloss=books
+2	e	_	DET	_	Case=Nom|Definite=Def |Gender=Masc|Number=Plur	_	_	_	Gloss=_
+3	tij	_	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Poss	_	_	_	Gloss=his
+4	janë	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	Gloss=have_been
+5	përkthyer	_	VERB	_	VerbForm=Part	_	_	_	Gloss=translated
+6	në	_	ADP	_	Case=Acc	_	_	_	Gloss=into
+7	shumë	_	DET	_	Number=Plur	_	_	_	Gloss=many
+8	gjuhë	_	NOUN	_	Case=Acc|Definite=Ind |Gender=Fem|Number=Plur	_	_	_	Gloss=languages
+9	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 9
+# text = Arsimi është procesi i përvetësimit të njohurive, aftësive, vlerave, besimeve dhe zakoneve.
+# text_en = Education is the process of acquiring knowledge, skills, values, beliefs and habits.
+# lang = al
+1	arsimi	_	NOUN	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=education
+2	është	_	COP	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Gloss=be
+3	procesi	_	NOUN	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=process
+4	i	_	DET	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=of
+5	përvetësimit	_	NOUN	_	Case=Gen|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=acquiring
+6	të	_	DET	_	Case=Gen|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=of
+7	njohurive	_	NOUN	_	Case=Gen|Definite=Def |Gender=Fem|Number=Plur	_	_	_	Gloss=knowledge
+8	,	_	PUNCT	_	_	_	_	_	Gloss=,
+9	aftësive	_	NOUN	_	Case=Gen|Definite=Def |Gender=Fem|Number=Plur	_	_	_	Gloss=skills
+10	,	_	PUNCT	_	_	_	_	_	Gloss=,
+11	vlerave	_	NOUN	_	Case=Gen|Definite=Def |Gender=Fem|Number=Plur	_	_	_	Gloss=values
+12	,	_	PUNCT	_	_	_	_	_	Gloss=,
+13	besimeve	_	NOUN	_	Case=Gen|Definite=Def |Gender=Masc|Number=Plur	_	_	_	Gloss=beliefs
+14	dhe	_	CCONJ	_	_	_	_	_	Gloss=and
+15	zakoneve	_	NOUN	_	Case=Gen|Definite=Def |Gender=Masc|Number=Plur	_	_	_	Gloss=habits
+16	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 10
+# text = Arsimi i mesëm nuk është i detyrueshëm.
+# text_en = Secondary education is not compulsory.
+# lang = al
+1	arsimi	_	NOUN	_	Case=Nom|Definite=Def |Gender=Masc|Number=Sing	_	_	_	Gloss=education
+2	i	_	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	Det=Adj|Gloss=_
+3	mesëm	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=secondary
+4	nuk	_	PART	_	_	_	_	_	Gloss=not|Neg=True
+5	është	_	COP	_	Aspect=Imp|Mood=Ind|Number=Singr|Person=3|Tense=Pres|Voice=Act	_	_	_	Gloss=be
+6	i	_	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	Det=Adj|Gloss=_
+7	detyrueshëm	_	ADJ	_	Gender=Masc|Number=Sing	_	_	_	Gloss=compulsory
+8	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
