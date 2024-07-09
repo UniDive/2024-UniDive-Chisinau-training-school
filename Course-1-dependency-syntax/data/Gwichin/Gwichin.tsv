@@ -1,0 +1,17 @@
+# student = Kirk Andrews		
+# mail: m.kirkandrews@gmail.com		
+# language = gwi (Gwich'in)		
+		
+# sent_id = 1		
+# text = Shinee’ok shidink’ee vintł’ihihtin, vadzaih eenjit naazhrii yindhan geh’àn. 		
+# text_en = text_en = I’m giving my neighbor my gun because he wants to hunt for caribou.		
+Shinee’ok	1SG.POSS-neighbor	NOUN
+shidink’ee	1SG.POSS-gun	NOUN
+vintł’ihihtin	3SG.POSS-palm-FUT-1SG.FUT+Ø-position+LRO	VERB
+,		PUNCT
+vadzaih	caribou	NOUN
+eenjit	for 	ADP
+naazhrii	CNJ-3SG.IPFV.L-hunt	VERB
+yindhan	3.O-3SG.PFV.Ø-want	VERB
+geh’àn	because	SCONJ
+.		PUNCT

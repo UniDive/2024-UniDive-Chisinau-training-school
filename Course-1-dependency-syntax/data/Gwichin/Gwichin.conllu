@@ -1,0 +1,15 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1
+# text = Shinee’ok shidink’ee vintł’ihihtin, vadzaih eenjit naazhrii yindhan geh’àn.
+# text_en = text_en = I’m giving my neighbor my gun because he wants to hunt for caribou.
+1	Shinee’ok	_	NOUN	_	_	_	_	_	Gloss=1SG.POSS-neighbor
+2	shidink’ee	_	NOUN	_	_	_	_	_	Gloss=1SG.POSS-gun
+3	vintł’ihihtin	_	VERB	_	_	_	_	_	Gloss=3SG.POSS-palm-FUT-1SG.FUT+Ø-position+LRO
+4	,	_	PUNCT	_	_	_	_	_	Gloss=_
+5	vadzaih	_	NOUN	_	_	_	_	_	Gloss=caribou
+6	eenjit	_	ADP	_	_	_	_	_	Gloss=for
+7	naazhrii	_	VERB	_	_	_	_	_	Gloss=CNJ-3SG.IPFV.L-hunt
+8	yindhan	_	VERB	_	_	_	_	_	Gloss=3.O-3SG.PFV.Ø-want
+9	geh’àn	_	SCONJ	_	_	_	_	_	Gloss=because
+10	.	_	PUNCT	_	_	_	_	_	Gloss=_
+
