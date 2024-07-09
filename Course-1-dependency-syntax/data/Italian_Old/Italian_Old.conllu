@@ -1,0 +1,476 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1
+# text = Intra due cibi, distanti e moventi d'un modo , prima si morria di fame, che liber' omo l' un recasse ai denti; sì si starebbe un agno intra due brame di fieri lupi, igualmente temendo; sì si starebbe un cane intra due dame: per che, s' i' mi tacea, me non riprendo, da li miei dubbi d'un modo sospinto, poi ch' era necessario, né commendo.
+# text_en = Before a man bit into one of two foods equally removed and tempting, he would die of hunger if his choice were free; so would a lamb stand motionless between the cravings of two savage wolves, in fear of both; so would a dog between two deer; thus, I need neither blame nor praise myself when both my doubts compelled me equally: what kept me silent was necessity.
+# lang = it. old
+1	Intra	_	ADP	between	_	_	_	_	Canto=4|Verso=1
+2	due	_	NUM	two	_	_	_	_	Canto=4|Verso=1
+3	cibi	_	NOUN	foodPL	_	_	_	_	Canto=4|SpaceAfter=No|Verso=1
+4	,	_	PUNCT	,	_	_	_	_	_
+5	distanti	_	VERB	removed	_	_	_	_	Canto=4|Verso=1
+6	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=1
+7	moventi	_	VERB	tempting	_	_	_	_	Canto=4|Verso=1
+8	d'	_	ADP	of	_	_	_	_	_
+9	un	_	DET	one	_	_	_	_	_
+10	modo	_	NOUN	way	_	_	_	_	SpaceAfter=No
+11	,	_	PUNCT	,	_	_	_	_	_
+12	prima	_	ADJ	before	_	_	_	_	Canto=4|Verso=2
+13	si	_	PRON	EXPL	_	_	_	_	Canto=4|Verso=2
+14	morria	_	VERB	die	_	_	_	_	Canto=4|Verso=2
+15	di	_	ADP	of	_	_	_	_	Canto=4|Verso=2
+16	fame	_	NOUN	hunger	_	_	_	_	Canto=4|SpaceAfter=No|Verso=2
+17	,	_	PUNCT	,	_	_	_	_	_
+18	che	_	SCONJ	that	_	_	_	_	Canto=4|Verso=3
+19	liber'	_	ADJ	free	_	_	_	_	Canto=4|Verso=3
+20	omo	_	NOUN	man	_	_	_	_	Canto=4|Verso=3
+21	l'	_	DET	the	_	_	_	_	Canto=4|Verso=3
+22	un	_	PRON	one	_	_	_	_	Canto=4|Verso=3
+23	recasse	_	VERB	bring	_	_	_	_	Canto=4|Verso=3
+24-25	ai	_	_	_	_	_	_	_	Canto=4|Comment=a-i|Verso=3
+24	a	_	ADP	to	_	_	_	_	_
+25	il	_	DET	the	_	_	_	_	_
+26	denti	_	NOUN	teeth	_	_	_	_	Canto=4|SpaceAfter=No|Verso=3
+27	;	_	PUNCT	;	_	_	_	_	_
+28	sì	_	ADV	so	_	_	_	_	Canto=4|Verso=4
+29	si	_	PRON	EXPL	_	_	_	_	Canto=4|Verso=4
+30	starebbe	_	VERB	stay	_	_	_	_	Canto=4|Verso=4
+31	un	_	DET	a	_	_	_	_	Canto=4|Verso=4
+32	agno	_	NOUN	lamb	_	_	_	_	Canto=4|Verso=4
+33	intra	_	ADP	between	_	_	_	_	Canto=4|Verso=4
+34	due	_	NUM	two	_	_	_	_	Canto=4|Verso=4
+35	brame	_	NOUN	ravenings	_	_	_	_	Canto=4|Verso=4
+36	di	_	ADP	of	_	_	_	_	Canto=4|Verso=5
+37	fieri	_	ADJ	fierce	_	_	_	_	Canto=4|Verso=5
+38	lupi	_	NOUN	wolves	_	_	_	_	Canto=4|SpaceAfter=No|Verso=5
+39	,	_	PUNCT	,	_	_	_	_	_
+40	igualmente	_	ADV	bothalike	_	_	_	_	Canto=4|Verso=5
+41	temendo	_	VERB	fearing	_	_	_	_	Canto=4|SpaceAfter=No|Verso=5
+42	;	_	PUNCT	;	_	_	_	_	_
+43	sì	_	ADV	so	_	_	_	_	Canto=4|Verso=6
+44	si	_	PRON	EXPL	_	_	_	_	Canto=4|Verso=6
+45	starebbe	_	VERB	stay	_	_	_	_	Canto=4|Verso=6
+46	un	_	DET	a	_	_	_	_	Canto=4|Verso=6
+47	cane	_	NOUN	dog	_	_	_	_	Canto=4|Verso=6
+48	intra	_	ADP	between	_	_	_	_	Canto=4|Verso=6
+49	due	_	NUM	two	_	_	_	_	Canto=4|Verso=6
+50	dame	_	NOUN	does	_	_	_	_	Canto=4|SpaceAfter=No|Verso=6
+51	:	_	PUNCT	:	_	_	_	_	_
+52	per	_	ADP	hence	_	_	_	_	Canto=4|Verso=7
+53	che	_	PRON	hence	_	_	_	_	Canto=4|SpaceAfter=No|Verso=7
+54	,	_	PUNCT	,	_	_	_	_	_
+55	s'	_	SCONJ	if	_	_	_	_	Canto=4|Verso=7
+56	i'	_	PRON	I	_	_	_	_	Canto=4|Verso=7
+57	mi	_	PRON	myself	_	_	_	_	Canto=4|Verso=7
+58	tacea	_	VERB	silent	_	_	_	_	Canto=4|SpaceAfter=No|Verso=7
+59	,	_	PUNCT	,	_	_	_	_	_
+60	me	_	PRON	myself	_	_	_	_	Canto=4|Verso=7
+61	non	_	ADV	NEG	_	_	_	_	Canto=4|Verso=7
+62	riprendo	_	VERB	blame	_	_	_	_	Canto=4|SpaceAfter=No|Verso=7
+63	,	_	PUNCT	,	_	_	_	_	_
+64	da	_	ADP	from	_	_	_	_	Canto=4|Verso=8
+65	li	_	DET	the	_	_	_	_	Canto=4|Verso=8
+66	miei	_	DET	my	_	_	_	_	Canto=4|Verso=8
+67	dubbi	_	NOUN	doubts	_	_	_	_	Canto=4|Verso=8
+68	d'	_	ADP	of	_	_	_	_	_
+69	un	_	DET	one	_	_	_	_	_
+70	modo	_	NOUN	way	_	_	_	_	SpaceAfter=No
+71	sospinto	_	VERB	impelled	_	_	_	_	Canto=4|SpaceAfter=No|Verso=8
+72	,	_	PUNCT	,	_	_	_	_	_
+73	poi	_	ADV	since	_	_	_	_	_
+74	ch'	_	SCONJ	since	_	_	_	_	_
+75	era	_	AUX	was	_	_	_	_	Canto=4|Verso=9
+76	necessario	_	ADJ	necessary	_	_	_	_	Canto=4|SpaceAfter=No|Verso=9
+77	,	_	PUNCT	,	_	_	_	_	_
+78	né	_	CCONJ	nor	_	_	_	_	Canto=4|Verso=9
+79	commendo	_	VERB	commend	_	_	_	_	Canto=4|SpaceAfter=No|Verso=9
+80	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 2
+# text = Io mi tacea, ma 'l mio disir dipinto m' era nel viso, e 'l dimandar con ello, più caldo assai che per parlar distinto.
+# text_en = I did not speak, but in my face were seen longing and questioning, more ardent than if spoken words had made them evident.
+# lang = it. old
+1	Io	_	PRON	I	_	_	_	_	Canto=4|Verso=10
+2	mi	_	PRON	myself	_	_	_	_	Canto=4|Verso=10
+3	tacea	_	VERB	silent	_	_	_	_	Canto=4|SpaceAfter=No|Verso=10
+4	,	_	PUNCT	,	_	_	_	_	_
+5	ma	_	CCONJ	but	_	_	_	_	Canto=4|Verso=10
+6	l	_	DET	the	_	_	_	_	Canto=4|Verso=10
+7	mio	_	DET	my	_	_	_	_	Canto=4|Verso=10
+8	disir	_	NOUN	desire	_	_	_	_	Canto=4|Verso=10
+9	dipinto	_	VERB	painted	_	_	_	_	Canto=4|Verso=10
+10	m'	_	PRON	myself	_	_	_	_	Canto=4|Verso=11
+11	era	_	AUX	was	_	_	_	_	Canto=4|Verso=11
+12-13	nel	_	_	_	_	_	_	_	Canto=4|Comment=ne-l|Verso=11
+12	in	_	ADP	in	_	_	_	_	_
+13	il	_	DET	the	_	_	_	_	_
+14	viso	_	NOUN	face	_	_	_	_	Canto=4|SpaceAfter=No|Verso=11
+15	,	_	PUNCT	,	_	_	_	_	_
+16	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=11
+17	l	_	DET	the	_	_	_	_	Canto=4|Verso=11
+18	dimandar	_	VERB	questioning	_	_	_	_	Canto=4|Verso=11
+19	con	_	ADP	with	_	_	_	_	Canto=4|Verso=11
+20	ello	_	PRON	that	_	_	_	_	Canto=4|SpaceAfter=No|Verso=11
+21	,	_	PUNCT	,	_	_	_	_	_
+22	più	_	ADV	more	_	_	_	_	Canto=4|Verso=12
+23	caldo	_	ADJ	fervent	_	_	_	_	Canto=4|Verso=12
+24	assai	_	ADV	far	_	_	_	_	Canto=4|Verso=12
+25	che	_	SCONJ	that	_	_	_	_	Canto=4|Verso=12
+26	per	_	ADP	by	_	_	_	_	Canto=4|Verso=12
+27	parlar	_	VERB	speech	_	_	_	_	Canto=4|Verso=12
+28	distinto	_	VERB	articulated	_	_	_	_	Canto=4|SpaceAfter=No|Verso=12
+29	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 3
+# text = Fé sì Beatrice qual fé Daniello, Nabuccodonosor levando d' ira, che l' avea fatto ingiustamente fello; e disse: «Io veggio ben come ti tira uno e altro disio, sì che tua cura sé stessa lega sì che fuor non spira.
+# text_en = Then Beatrice did just as Daniel did, when he appeased Nebuchadnezzar’s anger, the rage that made the king unjustly fierce. She said: “I see how both desires draw you, so that your anxiousness to know is self-entangled and cannot express itself.
+# lang = it. old
+1	Fé	_	VERB	did	_	_	_	_	Canto=4|Verso=13
+2	sì	_	ADV	so	_	_	_	_	Canto=4|Verso=13
+3	Beatrice	_	PROPN	Beatrice	_	_	_	_	Canto=4|Verso=13
+4	qual	_	ADV	as	_	_	_	_	Canto=4|Verso=13
+5	fé	_	VERB	did	_	_	_	_	Canto=4|Verso=13
+6	Daniello	_	PROPN	Daniele	_	_	_	_	Canto=4|SpaceAfter=No|Verso=13
+7	,	_	PUNCT	,	_	_	_	_	_
+8	Nabuccodonosor	_	PROPN	Nabuccodonosor	_	_	_	_	Canto=4|Verso=14
+9	levando	_	VERB	relieving	_	_	_	_	Canto=4|Verso=14
+10	d'	_	ADP	from	_	_	_	_	Canto=4|Verso=14
+11	ira	_	NOUN	wrath	_	_	_	_	Canto=4|SpaceAfter=No|Verso=14
+12	,	_	PUNCT	,	_	_	_	_	_
+13	che	_	PRON	which	_	_	_	_	Canto=4|Verso=15
+14	l'	_	PRON	him	_	_	_	_	Canto=4|Verso=15
+15	avea	_	VERB/AUX	has	_	_	_	_	Canto=4|Verso=15
+16	fatto	_	VERB	rendered	_	_	_	_	Canto=4|Verso=15
+17	ingiustamente	_	ADV	unjustly	_	_	_	_	Canto=4|Verso=15
+18	fello	_	ADJ	merciless	_	_	_	_	Canto=4|SpaceAfter=No|Verso=15
+19	;	_	PUNCT	;	_	_	_	_	_
+20	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=16
+21	disse	_	VERB	said	_	_	_	_	Canto=4|SpaceAfter=No|Verso=16
+22	:	_	PUNCT	:	_	_	_	_	_
+23	«	_	PUNCT	«	_	_	_	_	SpaceAfter=No
+24	Io	_	PRON	I	_	_	_	_	Canto=4|Verso=16
+25	veggio	_	VERB	see	_	_	_	_	Canto=4|Verso=16
+26	ben	_	ADV	well	_	_	_	_	Canto=4|Verso=16
+27	come	_	ADV	how	_	_	_	_	Canto=4|Verso=16
+28	ti	_	PRON	you	_	_	_	_	Canto=4|Verso=16
+29	tira	_	VERB	attracteth	_	_	_	_	Canto=4|Verso=16
+30	uno	_	DET	one	_	_	_	_	Canto=4|Verso=17
+31	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=17
+32	altro	_	DET	theother	_	_	_	_	Canto=4|Verso=17
+33	disio	_	NOUN	wish	_	_	_	_	Canto=4|SpaceAfter=No|Verso=17
+34	,	_	PUNCT	,	_	_	_	_	_
+35	sì	_	ADV	so	_	_	_	_	_
+36	che	_	SCONJ	that	_	_	_	_	SpaceAfter=No
+37	tua	_	DET	your	_	_	_	_	Canto=4|Verso=17
+38	cura	_	NOUN	care	_	_	_	_	Canto=4|Verso=17
+39	sé	_	PRON	itself	_	_	_	_	Canto=4|Verso=18
+40	stessa	_	DET	itself	_	_	_	_	Canto=4|Verso=18
+41	lega	_	VERB	binds	_	_	_	_	Canto=4|Verso=18
+42	sì	_	ADV	so	_	_	_	_	Canto=4|Verso=18
+43	che	_	SCONJ	that	_	_	_	_	Canto=4|Verso=18
+44	fuor	_	ADV	forth	_	_	_	_	Canto=4|Verso=18
+45	non	_	ADV	NEG	_	_	_	_	Canto=4|Verso=18
+46	spira	_	VERB	breathe	_	_	_	_	Canto=4|SpaceAfter=No|Verso=18
+47	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 4
+# text = Tu argomenti:" Se 'l buon voler dura, la violenza altrui per qual ragione di meritar mi scema la misura?".
+# text_en = You reason: ‘If my will to good persists, why should the violence of others cause the measure of my merit to be less?’.
+# lang = it. old
+1	Tu	_	PRON	You	_	_	_	_	Canto=4|Verso=19
+2	argomenti	_	VERB	arguest	_	_	_	_	Canto=4|SpaceAfter=No|Verso=19
+3	:	_	PUNCT	:	_	_	_	_	SpaceAfter=No
+4	"	_	PUNCT	"	_	_	_	_	_
+5	Se	_	SCONJ	if	_	_	_	_	Canto=4|Verso=19
+6	l	_	DET	the	_	_	_	_	Canto=4|Verso=19
+7	buon	_	ADJ	good	_	_	_	_	Canto=4|Verso=19
+8	voler	_	VERB	will	_	_	_	_	Canto=4|Verso=19
+9	dura	_	VERB	bepermanent	_	_	_	_	Canto=4|SpaceAfter=No|Verso=19
+10	,	_	PUNCT	,	_	_	_	_	_
+11	la	_	DET	the	_	_	_	_	Canto=4|Verso=20
+12	violenza	_	NOUN	violence	_	_	_	_	Canto=4|Verso=20
+13	altrui	_	DET	ofothers	_	_	_	_	Canto=4|Verso=20
+14	per	_	ADP	for	_	_	_	_	Canto=4|Verso=20
+15	qual	_	DET	what	_	_	_	_	Canto=4|Verso=20
+16	ragione	_	NOUN	reason	_	_	_	_	Canto=4|Verso=20
+17	di	_	ADP	of	_	_	_	_	Canto=4|Verso=21
+18	meritar	_	VERB	merit	_	_	_	_	Canto=4|Verso=21
+19	mi	_	PRON	me	_	_	_	_	Canto=4|Verso=21
+20	scema	_	VERB	decrease	_	_	_	_	Canto=4|Verso=21
+21	la	_	DET	the	_	_	_	_	Canto=4|Verso=21
+22	misura	_	NOUN	measure	_	_	_	_	Canto=4|SpaceAfter=No|Verso=21
+23	?	_	PUNCT	?	_	_	_	_	SpaceAfter=No
+24	"	_	PUNCT	"	_	_	_	_	SpaceAfter=No
+25	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 5
+# text = Ancor di dubitar ti dà cagione parer tornarsi l' anime a le stelle, secondo la sentenza di Platone.
+# text_en = And you are also led to doubt because the doctrine Plato taught would find support by souls’ appearing to return to the stars.
+# lang = it. old
+1	Ancor	_	ADV	Again	_	_	_	_	Canto=4|Verso=22
+2	di	_	ADP	for	_	_	_	_	Canto=4|Verso=22
+3	dubitar	_	VERB	doubting	_	_	_	_	Canto=4|Verso=22
+4	ti	_	PRON	you	_	_	_	_	Canto=4|Verso=22
+5	dà	_	VERB	give	_	_	_	_	Canto=4|Verso=22
+6	cagione	_	NOUN	occasion	_	_	_	_	Canto=4|Verso=22
+7	parer	_	VERB	seem	_	_	_	_	Canto=4|Verso=23
+8-9	tornarsi	_	_	_	_	_	_	_	Canto=4|Verso=23
+8	tornare	_	VERB	return	_	_	_	_	_
+9	si	_	PRON	EXPL	_	_	_	_	_
+10	l'	_	DET	the	_	_	_	_	Canto=4|Verso=23
+11	anime	_	NOUN	souls	_	_	_	_	Canto=4|Verso=23
+12	a	_	ADP	to	_	_	_	_	Canto=4|Verso=23
+13	le	_	DET	the	_	_	_	_	Canto=4|Verso=23
+14	stelle	_	NOUN	stars	_	_	_	_	Canto=4|SpaceAfter=No|Verso=23
+15	,	_	PUNCT	,	_	_	_	_	_
+16	secondo	_	ADP	according	_	_	_	_	Canto=4|Verso=24
+17	la	_	DET	the	_	_	_	_	Canto=4|Verso=24
+18	sentenza	_	NOUN	sentiment	_	_	_	_	Canto=4|Verso=24
+19	di	_	ADP	of	_	_	_	_	Canto=4|Verso=24
+20	Platone	_	PROPN	Plato	_	_	_	_	Canto=4|SpaceAfter=No|Verso=24
+21	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 6
+# text = Queste son le question che nel tuo velle pontano igualmente; e però pria tratterò quella che più ha di felle.
+# text_en = These are the questions that, within your will, press equally for answers; therefore, I shall treat the most insidious question first.
+# lang = it. old
+1	Queste	_	PRON	These	_	_	_	_	Canto=4|Verso=25
+2	son	_	AUX	are	_	_	_	_	Canto=4|Verso=25
+3	le	_	DET	the	_	_	_	_	Canto=4|Verso=25
+4	question	_	NOUN	questions	_	_	_	_	Canto=4|Verso=25
+5	che	_	PRON	which	_	_	_	_	Canto=4|Verso=25
+6-7	nel	_	_	_	_	_	_	_	Canto=4|Comment=ne-l|Verso=25
+6	in	_	ADP	in	_	_	_	_	_
+7	il	_	DET	the	_	_	_	_	_
+8	tuo	_	DET	your	_	_	_	_	Canto=4|Verso=25
+9	velle	_	NOUN	wish	_	_	_	_	Canto=4|Verso=25
+10	pontano	_	VERB	thrust	_	_	_	_	Canto=4|Verso=26
+11	igualmente	_	ADV	equally	_	_	_	_	Canto=4|SpaceAfter=No|Verso=26
+12	;	_	PUNCT	;	_	_	_	_	_
+13	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=26
+14	però	_	SCONJ	therefore	_	_	_	_	Canto=4|Verso=26
+15	pria	_	ADV	first	_	_	_	_	Canto=4|Verso=26
+16	tratterò	_	VERB	treat	_	_	_	_	Canto=4|Verso=27
+17	quella	_	PRON	theone	_	_	_	_	Canto=4|Verso=27
+18	che	_	PRON	that	_	_	_	_	Canto=4|Verso=27
+19	più	_	ADV	more	_	_	_	_	Canto=4|Verso=27
+20	ha	_	VERB/AUX	has	_	_	_	_	Canto=4|Verso=27
+21	di	_	ADP	of	_	_	_	_	Canto=4|Verso=27
+22	felle	_	NOUN	gall	_	_	_	_	Canto=4|SpaceAfter=No|Verso=27
+23	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 7
+# text = D' i Serafin colui che più s' india, Moisè, Samuel, e quel Giovanni che prender vuoli, io dico, non Maria, non hanno in altro cielo i loro scanni che questi spirti che mo t' appariro, né hanno a l' esser lor più o meno anni; ma tutti fanno bello il primo giro, e differentemente han dolce vita per sentir più e men l' etterno spiro.
+# text_en = Neither the Seraph closest unto God, nor Moses, Samuel, nor either John— whichever one you will—nor Mary has, I say, their place in any other heaven than that which houses those souls you just saw, nor will their blessedness last any longer. But all those souls grace the Empyrean; and each of them has gentle life—though some sense the Eternal Spirit more, some less.
+# lang = it. old
+1	D'	_	ADP	of	_	_	_	_	Canto=4|Verso=28
+2	i	_	DET	the	_	_	_	_	Canto=4|Verso=28
+3	Serafin	_	NOUN	serafino	_	_	_	_	Canto=4|Verso=28
+4	colui	_	PRON	he	_	_	_	_	Canto=4|Verso=28
+5	che	_	PRON	that	_	_	_	_	Canto=4|Verso=28
+6	più	_	ADV	more	_	_	_	_	Canto=4|Verso=28
+7	s'	_	PRON	EXPL	_	_	_	_	Canto=4|Verso=28
+8	india	_	VERB	absorbingod	_	_	_	_	Canto=4|SpaceAfter=No|Verso=28
+9	,	_	PUNCT	,	_	_	_	_	_
+10	Moisè	_	PROPN	Mosè	_	_	_	_	Canto=4|SpaceAfter=No|Verso=29
+11	,	_	PUNCT	,	_	_	_	_	_
+12	Samuel	_	PROPN	Samuel	_	_	_	_	Canto=4|SpaceAfter=No|Verso=29
+13	,	_	PUNCT	,	_	_	_	_	_
+14	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=29
+15	quel	_	DET	whichever	_	_	_	_	Canto=4|Verso=29
+16	Giovanni	_	PROPN	Giovanni	_	_	_	_	Canto=4|Verso=29
+17	che	_	PRON	that	_	_	_	_	Canto=4|Verso=30
+18	prender	_	VERB	select	_	_	_	_	Canto=4|Verso=30
+19	vuoli	_	VERB	wants	_	_	_	_	Canto=4|SpaceAfter=No|Verso=30
+20	,	_	PUNCT	,	_	_	_	_	_
+21	io	_	PRON	I	_	_	_	_	Canto=4|Verso=30
+22	dico	_	VERB	say	_	_	_	_	Canto=4|SpaceAfter=No|Verso=30
+23	,	_	PUNCT	,	_	_	_	_	_
+24	non	_	ADV	NEG	_	_	_	_	Canto=4|Verso=30
+25	Maria	_	PROPN	Maria	_	_	_	_	Canto=4|SpaceAfter=No|Verso=30
+26	,	_	PUNCT	,	_	_	_	_	_
+27	non	_	ADV	NEG	_	_	_	_	Canto=4|Verso=31
+28	hanno	_	VERB/AUX	have	_	_	_	_	Canto=4|Verso=31
+29	in	_	ADP	in	_	_	_	_	Canto=4|Verso=31
+30	altro	_	DET	other	_	_	_	_	Canto=4|Verso=31
+31	cielo	_	NOUN	sky	_	_	_	_	Canto=4|Verso=31
+32	i	_	DET	the	_	_	_	_	Canto=4|Verso=31
+33	loro	_	DET	their	_	_	_	_	Canto=4|Verso=31
+34	scanni	_	NOUN	houses	_	_	_	_	Canto=4|Verso=31
+35	che	_	SCONJ	that	_	_	_	_	Canto=4|Verso=32
+36	questi	_	DET	those	_	_	_	_	Canto=4|Verso=32
+37	spirti	_	NOUN	souls	_	_	_	_	Canto=4|Verso=32
+38	che	_	PRON	that	_	_	_	_	Canto=4|Verso=32
+39	mo	_	ADV	now	_	_	_	_	Canto=4|Verso=32
+40	t'	_	PRON	toyou	_	_	_	_	Canto=4|Verso=32
+41	appariro	_	VERB	show	_	_	_	_	Canto=4|SpaceAfter=No|Verso=32
+42	,	_	PUNCT	,	_	_	_	_	_
+43	né	_	CCONJ	NEG	_	_	_	_	Canto=4|Verso=33
+44	hanno	_	VERB/AUX	have	_	_	_	_	Canto=4|Verso=33
+45	a	_	ADP	to	_	_	_	_	Canto=4|Verso=33
+46	l'	_	DET	the	_	_	_	_	Canto=4|Verso=33
+47	esser	_	AUX	blessedness	_	_	_	_	Canto=4|Verso=33
+48	lor	_	DET	their	_	_	_	_	Canto=4|Verso=33
+49	più	_	ADJ	more	_	_	_	_	Canto=4|Verso=33
+50	o	_	CCONJ	or	_	_	_	_	Canto=4|Verso=33
+51	meno	_	ADJ	less	_	_	_	_	Canto=4|Verso=33
+52	anni	_	NOUN	years	_	_	_	_	Canto=4|SpaceAfter=No|Verso=33
+53	;	_	PUNCT	;	_	_	_	_	_
+54	ma	_	CCONJ	but	_	_	_	_	Canto=4|Verso=34
+55	tutti	_	PRON	all	_	_	_	_	Canto=4|Verso=34
+56	fanno	_	VERB	make	_	_	_	_	Canto=4|Verso=34
+57	bello	_	ADJ	beautiful	_	_	_	_	Canto=4|Verso=34
+58	il	_	DET	the	_	_	_	_	Canto=4|Verso=34
+59	primo	_	ADJ	primal	_	_	_	_	Canto=4|Verso=34
+60	giro	_	NOUN	circle	_	_	_	_	Canto=4|SpaceAfter=No|Verso=34
+61	,	_	PUNCT	,	_	_	_	_	_
+62	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=35
+63	differentemente	_	ADV	differently	_	_	_	_	Canto=4|Verso=35
+64	han	_	VERB/AUX	have	_	_	_	_	Canto=4|Verso=35
+65	dolce	_	ADJ	sweet	_	_	_	_	Canto=4|Verso=35
+66	vita	_	NOUN	life	_	_	_	_	Canto=4|Verso=35
+67	per	_	ADP	for	_	_	_	_	Canto=4|Verso=36
+68	sentir	_	VERB	feeling	_	_	_	_	Canto=4|Verso=36
+69	più	_	ADV	more	_	_	_	_	Canto=4|Verso=36
+70	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=36
+71	men	_	ADV	less	_	_	_	_	Canto=4|Verso=36
+72	l'	_	DET	the	_	_	_	_	Canto=4|Verso=36
+73	etterno	_	ADJ	eternal	_	_	_	_	Canto=4|Verso=36
+74	spiro	_	NOUN	breath	_	_	_	_	Canto=4|SpaceAfter=No|Verso=36
+75	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 8
+# text = Qui si mostraro, non perché sortita sia questa spera lor, ma per far segno de la celestial c' ha men salita.
+# text_en = They showed themselves to you here not because this is their sphere, but as a sign for you that in the Empyrean their place is lowest.
+# lang = it. old
+1	Qui	_	ADV	here	_	_	_	_	Canto=4|Verso=37
+2	si	_	PRON	EXPL	_	_	_	_	Canto=4|Verso=37
+3	mostraro	_	VERB	showed	_	_	_	_	Canto=4|SpaceAfter=No|Verso=37
+4	,	_	PUNCT	,	_	_	_	_	_
+5	non	_	ADV	NEG	_	_	_	_	Canto=4|Verso=37
+6	perché	_	SCONJ	because	_	_	_	_	Canto=4|Verso=37
+7	sortita	_	VERB	allotted	_	_	_	_	Canto=4|Verso=37
+8	sia	_	AUX	is	_	_	_	_	Canto=4|Verso=38
+9	questa	_	DET	this	_	_	_	_	Canto=4|Verso=38
+10	spera	_	NOUN	sphere	_	_	_	_	Canto=4|Verso=38
+11	lor	_	PRON	their	_	_	_	_	Canto=4|SpaceAfter=No|Verso=38
+12	,	_	PUNCT	,	_	_	_	_	_
+13	ma	_	CCONJ	but	_	_	_	_	Canto=4|Verso=38
+14	per	_	ADP	to	_	_	_	_	Canto=4|Verso=38
+15	far	_	VERB	make	_	_	_	_	Canto=4|Verso=38
+16	segno	_	NOUN	sign	_	_	_	_	Canto=4|Verso=38
+17	de	_	ADP	of	_	_	_	_	Canto=4|Verso=39
+18	la	_	DET	the	_	_	_	_	Canto=4|Verso=39
+19	celestial	_	ADJ	celestial	_	_	_	_	Canto=4|Verso=39
+20	c'	_	PRON	which	_	_	_	_	Canto=4|Verso=39
+21	ha	_	VERB/AUX	has	_	_	_	_	Canto=4|Verso=39
+22	men	_	ADJ	less	_	_	_	_	Canto=4|Verso=39
+23	salita	_	NOUN	exalted	_	_	_	_	Canto=4|SpaceAfter=No|Verso=39
+24	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 9
+# text = Così parlar conviensi al vostro ingegno, però che solo da sensato apprende ciò che fa poscia d' intelletto degno.
+# text_en = Such signs are suited to your mind, since from the senses only can it apprehend what then becomes fit for the intellect.
+# lang = it. old
+1	Così	_	ADV	so	_	_	_	_	Canto=4|Verso=40
+2	parlar	_	VERB	speak	_	_	_	_	Canto=4|Verso=40
+3-4	conviensi	_	_	_	_	_	_	_	Canto=4|Verso=40
+3	convenire	_	VERB	adapted	_	_	_	_	_
+4	si	_	PRON	EXPL	_	_	_	_	_
+5-6	al	_	_	_	_	_	_	_	Canto=4|Comment=a-l|SpaceAfter=No|Verso=40
+5	a	_	ADP	to	_	_	_	_	_
+6	il	_	DET	the	_	_	_	_	_
+7	vostro	_	DET	your	_	_	_	_	Canto=4|Verso=40
+8	ingegno	_	NOUN	mind	_	_	_	_	Canto=4|SpaceAfter=No|Verso=40
+9	,	_	PUNCT	,	_	_	_	_	_
+10	però	_	SCONJ	since	_	_	_	_	_
+11	che	_	SCONJ	since	_	_	_	_	SpaceAfter=No
+12	solo	_	ADV	only	_	_	_	_	Canto=4|Verso=41
+13	da	_	ADP	from	_	_	_	_	Canto=4|Verso=41
+14	sensato	_	ADJ	sense	_	_	_	_	Canto=4|Verso=41
+15	apprende	_	VERB	apprehendeth	_	_	_	_	Canto=4|Verso=41
+16	ciò	_	PRON	that	_	_	_	_	Canto=4|Verso=42
+17	che	_	PRON	that	_	_	_	_	Canto=4|Verso=42
+18	fa	_	VERB	makes	_	_	_	_	Canto=4|Verso=42
+19	poscia	_	ADV	then	_	_	_	_	Canto=4|Verso=42
+20	d'	_	ADP	of	_	_	_	_	Canto=4|Verso=42
+21	intelletto	_	NOUN	intellect	_	_	_	_	Canto=4|Verso=42
+22	degno	_	ADJ	worth	_	_	_	_	Canto=4|SpaceAfter=No|Verso=42
+23	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 10
+# text = Per questo la Scrittura condescende a vostra facultate, e piedi e mano attribuisce a Dio e altro intende; e Santa Chiesa con aspetto umano Gabriel e Michel vi rappresenta, e l' altro che Tobia rifece sano.
+# text_en = And this is why the Bible condescends to human powers, assigning feet and hands to God, but meaning something else instead. And Gabriel and Michael and the angel who healed the eyes of Tobit are portrayed by Holy Church with human visages.
+# lang = it. old
+1	Per	_	ADP	for	_	_	_	_	Canto=4|Verso=43
+2	questo	_	PRON	this	_	_	_	_	Canto=4|Verso=43
+3	la	_	DET	the	_	_	_	_	Canto=4|Verso=43
+4	Scrittura	_	NOUN	scripture	_	_	_	_	Canto=4|Verso=43
+5	condescende	_	VERB	condescends	_	_	_	_	Canto=4|Verso=43
+6	a	_	ADP	to	_	_	_	_	Canto=4|Verso=44
+7	vostra	_	DET	your	_	_	_	_	Canto=4|Verso=44
+8	facultate	_	NOUN	faculties	_	_	_	_	Canto=4|SpaceAfter=No|Verso=44
+9	,	_	PUNCT	,	_	_	_	_	_
+10	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=44
+11	piedi	_	NOUN	feet	_	_	_	_	Canto=4|Verso=44
+12	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=44
+13	mano	_	NOUN	hand	_	_	_	_	Canto=4|Verso=44
+14	attribuisce	_	VERB	attributes	_	_	_	_	Canto=4|Verso=45
+15	a	_	ADP	to	_	_	_	_	Canto=4|Verso=45
+16	Dio	_	PROPN	God	_	_	_	_	Canto=4|Verso=45
+17	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=45
+18	altro	_	PRON	somethingelse	_	_	_	_	Canto=4|Verso=45
+19	intende	_	VERB	means	_	_	_	_	Canto=4|SpaceAfter=No|Verso=45
+20	;	_	PUNCT	;	_	_	_	_	_
+21	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=46
+22	Santa	_	ADJ	Holy	_	_	_	_	Canto=4|Verso=46
+23	Chiesa	_	NOUN	Church	_	_	_	_	Canto=4|Verso=46
+24	con	_	ADP	with	_	_	_	_	Canto=4|Verso=46
+25	aspetto	_	NOUN	aspect	_	_	_	_	Canto=4|Verso=46
+26	umano	_	ADJ	human	_	_	_	_	Canto=4|Verso=46
+27	Gabriel	_	PROPN	Gabriele	_	_	_	_	Canto=4|Verso=47
+28	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=47
+29	Michel	_	PROPN	Michele	_	_	_	_	Canto=4|Verso=47
+30	vi	_	PRON	toyou	_	_	_	_	Canto=4|Verso=47
+31	rappresenta	_	VERB	represents	_	_	_	_	Canto=4|SpaceAfter=No|Verso=47
+32	,	_	PUNCT	,	_	_	_	_	_
+33	e	_	CCONJ	and	_	_	_	_	Canto=4|Verso=48
+34	l'	_	DET	the	_	_	_	_	Canto=4|Verso=48
+35	altro	_	PRON	other	_	_	_	_	Canto=4|Verso=48
+36	che	_	PRON	that	_	_	_	_	Canto=4|Verso=48
+37	Tobia	_	PROPN	Tobia	_	_	_	_	Canto=4|Verso=48
+38	rifece	_	VERB	made	_	_	_	_	Canto=4|Verso=48
+39	sano	_	ADJ	whole	_	_	_	_	Canto=4|SpaceAfter=No|Verso=48
+40	.	_	PUNCT	.	_	_	_	_	_
+
+# sent_id = 11
+# text = Quel che Timeo de l' anime argomenta non è simile a ciò che qui si vede, però che , come dice, par che senta.
+# text_en = That which Timaeus said in reasoning of souls does not describe what you have seen, since it would seem that as he speaks he thinks.
+# lang = it. old
+1	Quel	_	PRON	that	_	_	_	_	Canto=4|Verso=49
+2	che	_	PRON	which	_	_	_	_	Canto=4|Verso=49
+3	Timeo	_	PROPN	Timeo	_	_	_	_	Canto=4|Verso=49
+4	de	_	ADP	of	_	_	_	_	Canto=4|Verso=49
+5	l'	_	DET	the	_	_	_	_	Canto=4|Verso=49
+6	anime	_	NOUN	souls	_	_	_	_	Canto=4|Verso=49
+7	argomenta	_	VERB	argues	_	_	_	_	Canto=4|Verso=49
+8	non	_	ADV	NEG	_	_	_	_	Canto=4|Verso=50
+9	è	_	AUX	is	_	_	_	_	Canto=4|Verso=50
+10	simile	_	ADJ	resemble	_	_	_	_	Canto=4|Verso=50
+11	a	_	ADP	to	_	_	_	_	Canto=4|Verso=50
+12	ciò	_	PRON	that	_	_	_	_	Canto=4|Verso=50
+13	che	_	PRON	that	_	_	_	_	Canto=4|Verso=50
+14	qui	_	ADV	here	_	_	_	_	Canto=4|Verso=50
+15	si	_	PRON	EXPL	_	_	_	_	Canto=4|Verso=50
+16	vede	_	VERB	see	_	_	_	_	Canto=4|SpaceAfter=No|Verso=50
+17	,	_	PUNCT	,	_	_	_	_	_
+18	però	_	SCONJ	because	_	_	_	_	_
+19	che	_	SCONJ	because	_	_	_	_	SpaceAfter=No
+20	,	_	PUNCT	,	_	_	_	_	_
+21	come	_	ADV	as	_	_	_	_	Canto=4|Verso=51
+22	dice	_	VERB	speaks	_	_	_	_	Canto=4|SpaceAfter=No|Verso=51
+23	,	_	PUNCT	,	_	_	_	_	_
+24	par	_	VERB	seems	_	_	_	_	Canto=4|Verso=51
+25	che	_	SCONJ	that	_	_	_	_	Canto=4|Verso=51
+26	senta	_	VERB	thinks	_	_	_	_	Canto=4|SpaceAfter=No|Verso=51
+27	.	_	PUNCT	.	_	_	_	_	_
+

@@ -1,0 +1,478 @@
+# Student = Claudia Corbetta				
+# Language = Old Italian				
+# Description = Paradiso IV, vv. 1-51; English Mandelbaum translation, see https://digitaldante.columbia.edu/dante/divine-comedy/paradiso/paradiso-4/.				
+				
+# sent_id = 1				
+# text = Intra due cibi, distanti e moventi d'un modo , prima si morria di fame, che liber' omo l' un recasse ai denti; sì si starebbe un agno intra due brame di fieri lupi, igualmente temendo; sì si starebbe un cane intra due dame: per che, s' i' mi tacea, me non riprendo, da li miei dubbi d'un modo sospinto, poi ch' era necessario, né commendo.				
+# text_en = Before a man bit into one of two foods equally removed and tempting, he would die of hunger if his choice were free; so would a lamb stand motionless between the cravings of two savage wolves, in fear of both; so would a dog between two deer; thus, I need neither blame nor praise myself when both my doubts compelled me equally: what kept me silent was necessity.				
+# lang = it. old				
+1	Intra	between	ADP	Canto=4|Verso=1
+2	due	two	NUM	Canto=4|Verso=1
+3	cibi	foodPL	NOUN	Canto=4|Verso=1|SpaceAfter=No
+4	,	,	PUNCT	_
+5	distanti	removed	VERB	Canto=4|Verso=1
+6	e	and	CCONJ	Canto=4|Verso=1
+7	moventi	tempting	VERB	Canto=4|Verso=1
+8	d'	of	ADP	_
+9	un	one	DET	_
+10	modo	way	NOUN	SpaceAfter=No
+11	,	,	PUNCT	_
+12	prima	before	ADJ	Canto=4|Verso=2
+13	si	EXPL	PRON	Canto=4|Verso=2
+14	morria	die	VERB	Canto=4|Verso=2
+15	di	of	ADP	Canto=4|Verso=2
+16	fame	hunger	NOUN	Canto=4|Verso=2|SpaceAfter=No
+17	,	,	PUNCT	_
+18	che	that	SCONJ	Canto=4|Verso=3
+19	liber'	free	ADJ	Canto=4|Verso=3
+20	omo	man	NOUN	Canto=4|Verso=3
+21	l'	the	DET	Canto=4|Verso=3
+22	un	one	PRON	Canto=4|Verso=3
+23	recasse	bring	VERB	Canto=4|Verso=3
+24-25	ai	_	_	Canto=4|Comment=a-i|Verso=3
+24	a	to	ADP	_
+25	il	the	DET	_
+26	denti	teeth	NOUN	Canto=4|Verso=3|SpaceAfter=No
+27	;	;	PUNCT	_
+28	sì	so	ADV	Canto=4|Verso=4
+29	si	EXPL	PRON	Canto=4|Verso=4
+30	starebbe	stay	VERB	Canto=4|Verso=4
+31	un	a	DET	Canto=4|Verso=4
+32	agno	lamb	NOUN	Canto=4|Verso=4
+33	intra	between	ADP	Canto=4|Verso=4
+34	due	two	NUM	Canto=4|Verso=4
+35	brame	ravenings	NOUN	Canto=4|Verso=4
+36	di	of	ADP	Canto=4|Verso=5
+37	fieri	fierce	ADJ	Canto=4|Verso=5
+38	lupi	wolves	NOUN	Canto=4|Verso=5|SpaceAfter=No
+39	,	,	PUNCT	_
+40	igualmente	bothalike	ADV	Canto=4|Verso=5
+41	temendo	fearing	VERB	Canto=4|Verso=5|SpaceAfter=No
+42	;	;	PUNCT	_
+43	sì	so	ADV	Canto=4|Verso=6
+44	si	EXPL	PRON	Canto=4|Verso=6
+45	starebbe	stay	VERB	Canto=4|Verso=6
+46	un	a	DET	Canto=4|Verso=6
+47	cane	dog	NOUN	Canto=4|Verso=6
+48	intra	between	ADP	Canto=4|Verso=6
+49	due	two	NUM	Canto=4|Verso=6
+50	dame	does	NOUN	Canto=4|Verso=6|SpaceAfter=No
+51	:	:	PUNCT	_
+52	per	hence	ADP	Canto=4|Verso=7
+53	che	hence	PRON	Canto=4|Verso=7|SpaceAfter=No
+54	,	,	PUNCT	_
+55	s'	if	SCONJ	Canto=4|Verso=7
+56	i'	I	PRON	Canto=4|Verso=7
+57	mi	myself	PRON	Canto=4|Verso=7
+58	tacea	silent	VERB	Canto=4|Verso=7|SpaceAfter=No
+59	,	,	PUNCT	_
+60	me	myself	PRON	Canto=4|Verso=7
+61	non	NEG	ADV	Canto=4|Verso=7
+62	riprendo	blame	VERB	Canto=4|Verso=7|SpaceAfter=No
+63	,	,	PUNCT	_
+64	da	from	ADP	Canto=4|Verso=8
+65	li	the	DET	Canto=4|Verso=8
+66	miei	my	DET	Canto=4|Verso=8
+67	dubbi	doubts	NOUN	Canto=4|Verso=8
+68	d'	of	ADP	_
+69	un	one	DET	_
+70	modo	way	NOUN	SpaceAfter=No
+71	sospinto	impelled	VERB	Canto=4|Verso=8|SpaceAfter=No
+72	,	,	PUNCT	_
+73	poi	since	ADV	_
+74	ch'	since	SCONJ	_
+75	era	was	AUX	Canto=4|Verso=9
+76	necessario	necessary	ADJ	Canto=4|Verso=9|SpaceAfter=No
+77	,	,	PUNCT	_
+78	né	nor	CCONJ	Canto=4|Verso=9
+79	commendo	commend	VERB	Canto=4|Verso=9|SpaceAfter=No
+80	.	.	PUNCT	_
+				
+# sent_id = 2				
+# text = Io mi tacea, ma 'l mio disir dipinto m' era nel viso, e 'l dimandar con ello, più caldo assai che per parlar distinto.				
+# text_en = I did not speak, but in my face were seen longing and questioning, more ardent than if spoken words had made them evident.				
+# lang = it. old				
+1	Io	I	PRON	Canto=4|Verso=10
+2	mi	myself	PRON	Canto=4|Verso=10
+3	tacea	silent	VERB	Canto=4|Verso=10|SpaceAfter=No
+4	,	,	PUNCT	_
+5	ma	but	CCONJ	Canto=4|Verso=10
+6	l	the	DET	Canto=4|Verso=10
+7	mio	my	DET	Canto=4|Verso=10
+8	disir	desire	NOUN	Canto=4|Verso=10
+9	dipinto	painted	VERB	Canto=4|Verso=10
+10	m'	myself	PRON	Canto=4|Verso=11
+11	era	was	AUX	Canto=4|Verso=11
+12-13	nel	_	_	Canto=4|Comment=ne-l|Verso=11
+12	in	in	ADP	_
+13	il	the	DET	_
+14	viso	face	NOUN	Canto=4|Verso=11|SpaceAfter=No
+15	,	,	PUNCT	_
+16	e	and	CCONJ	Canto=4|Verso=11
+17	l	the	DET	Canto=4|Verso=11
+18	dimandar	questioning	VERB	Canto=4|Verso=11
+19	con	with	ADP	Canto=4|Verso=11
+20	ello	that	PRON	Canto=4|Verso=11|SpaceAfter=No
+21	,	,	PUNCT	_
+22	più	more	ADV	Canto=4|Verso=12
+23	caldo	fervent	ADJ	Canto=4|Verso=12
+24	assai	far	ADV	Canto=4|Verso=12
+25	che	that	SCONJ	Canto=4|Verso=12
+26	per	by	ADP	Canto=4|Verso=12
+27	parlar	speech	VERB	Canto=4|Verso=12
+28	distinto	articulated	VERB	Canto=4|Verso=12|SpaceAfter=No
+29	.	.	PUNCT	_
+				
+# sent_id = 3				
+# text = Fé sì Beatrice qual fé Daniello, Nabuccodonosor levando d' ira, che l' avea fatto ingiustamente fello; e disse: «Io veggio ben come ti tira uno e altro disio, sì che tua cura sé stessa lega sì che fuor non spira.				
+# text_en = Then Beatrice did just as Daniel did, when he appeased Nebuchadnezzar’s anger, the rage that made the king unjustly fierce. She said: “I see how both desires draw you, so that your anxiousness to know is self-entangled and cannot express itself.				
+# lang = it. old				
+1	Fé	did	VERB	Canto=4|Verso=13
+2	sì	so	ADV	Canto=4|Verso=13
+3	Beatrice	Beatrice	PROPN	Canto=4|Verso=13
+4	qual	as	ADV	Canto=4|Verso=13
+5	fé	did	VERB	Canto=4|Verso=13
+6	Daniello	Daniele	PROPN	Canto=4|Verso=13|SpaceAfter=No
+7	,	,	PUNCT	_
+8	Nabuccodonosor	Nabuccodonosor	PROPN	Canto=4|Verso=14
+9	levando	relieving	VERB	Canto=4|Verso=14
+10	d'	from	ADP	Canto=4|Verso=14
+11	ira	wrath	NOUN	Canto=4|Verso=14|SpaceAfter=No
+12	,	,	PUNCT	_
+13	che	which	PRON	Canto=4|Verso=15
+14	l'	him	PRON	Canto=4|Verso=15
+15	avea	has	VERB/AUX	Canto=4|Verso=15
+16	fatto	rendered	VERB	Canto=4|Verso=15
+17	ingiustamente	unjustly	ADV	Canto=4|Verso=15
+18	fello	merciless	ADJ	Canto=4|Verso=15|SpaceAfter=No
+19	;	;	PUNCT	_
+20	e	and	CCONJ	Canto=4|Verso=16
+21	disse	said	VERB	Canto=4|Verso=16|SpaceAfter=No
+22	:	:	PUNCT	_
+23	«	«	PUNCT	SpaceAfter=No
+24	Io	I	PRON	Canto=4|Verso=16
+25	veggio	see	VERB	Canto=4|Verso=16
+26	ben	well	ADV	Canto=4|Verso=16
+27	come	how	ADV	Canto=4|Verso=16
+28	ti	you	PRON	Canto=4|Verso=16
+29	tira	attracteth	VERB	Canto=4|Verso=16
+30	uno	one	DET	Canto=4|Verso=17
+31	e	and	CCONJ	Canto=4|Verso=17
+32	altro	theother	DET	Canto=4|Verso=17
+33	disio	wish	NOUN	Canto=4|Verso=17|SpaceAfter=No
+34	,	,	PUNCT	_
+35	sì	so	ADV	_
+36	che	that	SCONJ	SpaceAfter=No
+37	tua	your	DET	Canto=4|Verso=17
+38	cura	care	NOUN	Canto=4|Verso=17
+39	sé	itself	PRON	Canto=4|Verso=18
+40	stessa	itself	DET	Canto=4|Verso=18
+41	lega	binds	VERB	Canto=4|Verso=18
+42	sì	so	ADV	Canto=4|Verso=18
+43	che	that	SCONJ	Canto=4|Verso=18
+44	fuor	forth	ADV	Canto=4|Verso=18
+45	non	NEG	ADV	Canto=4|Verso=18
+46	spira	breathe	VERB	Canto=4|Verso=18|SpaceAfter=No
+47	.	.	PUNCT	_
+				
+# sent_id = 4				
+# text = Tu argomenti:" Se 'l buon voler dura, la violenza altrui per qual ragione di meritar mi scema la misura?".				
+# text_en = You reason: ‘If my will to good persists, why should the violence of others cause the measure of my merit to be less?’.				
+# lang = it. old				
+1	Tu	You	PRON	Canto=4|Verso=19
+2	argomenti	arguest	VERB	Canto=4|Verso=19|SpaceAfter=No
+3	:	:	PUNCT	SpaceAfter=No
+4	 	PUNCT	_	
+5	Se	if	SCONJ	Canto=4|Verso=19
+6	l	the	DET	Canto=4|Verso=19
+7	buon	good	ADJ	Canto=4|Verso=19
+8	voler	will	VERB	Canto=4|Verso=19
+9	dura	bepermanent	VERB	Canto=4|Verso=19|SpaceAfter=No
+10	,	,	PUNCT	_
+11	la	the	DET	Canto=4|Verso=20
+12	violenza	violence	NOUN	Canto=4|Verso=20
+13	altrui	ofothers	DET	Canto=4|Verso=20
+14	per	for	ADP	Canto=4|Verso=20
+15	qual	what	DET	Canto=4|Verso=20
+16	ragione	reason	NOUN	Canto=4|Verso=20
+17	di	of	ADP	Canto=4|Verso=21
+18	meritar	merit	VERB	Canto=4|Verso=21
+19	mi	me	PRON	Canto=4|Verso=21
+20	scema	decrease	VERB	Canto=4|Verso=21
+21	la	the	DET	Canto=4|Verso=21
+22	misura	measure	NOUN	Canto=4|Verso=21|SpaceAfter=No
+23	?	?	PUNCT	SpaceAfter=No
+24	 	PUNCT	SpaceAfter=No	
+25	.	.	PUNCT	_
+				
+# sent_id = 5				
+# text = Ancor di dubitar ti dà cagione parer tornarsi l' anime a le stelle, secondo la sentenza di Platone.				
+# text_en = And you are also led to doubt because the doctrine Plato taught would find support by souls’ appearing to return to the stars.				
+# lang = it. old				
+1	Ancor	Again	ADV	Canto=4|Verso=22
+2	di	for	ADP	Canto=4|Verso=22
+3	dubitar	doubting	VERB	Canto=4|Verso=22
+4	ti	you	PRON	Canto=4|Verso=22
+5	dà	give	VERB	Canto=4|Verso=22
+6	cagione	occasion	NOUN	Canto=4|Verso=22
+7	parer	seem	VERB	Canto=4|Verso=23
+8-9	tornarsi	_	_	Canto=4|Verso=23
+8	tornare	return	VERB	_
+9	si	EXPL	PRON	_
+10	l'	the	DET	Canto=4|Verso=23
+11	anime	souls	NOUN	Canto=4|Verso=23
+12	a	to	ADP	Canto=4|Verso=23
+13	le	the	DET	Canto=4|Verso=23
+14	stelle	stars	NOUN	Canto=4|Verso=23|SpaceAfter=No
+15	,	,	PUNCT	_
+16	secondo	according	ADP	Canto=4|Verso=24
+17	la	the	DET	Canto=4|Verso=24
+18	sentenza	sentiment	NOUN	Canto=4|Verso=24
+19	di	of	ADP	Canto=4|Verso=24
+20	Platone	Plato	PROPN	Canto=4|Verso=24|SpaceAfter=No
+21	.	.	PUNCT	_
+				
+# sent_id = 6				
+# text = Queste son le question che nel tuo velle pontano igualmente; e però pria tratterò quella che più ha di felle.				
+# text_en = These are the questions that, within your will, press equally for answers; therefore, I shall treat the most insidious question first.				
+# lang = it. old				
+1	Queste	These	PRON	Canto=4|Verso=25
+2	son	are	AUX	Canto=4|Verso=25
+3	le	the	DET	Canto=4|Verso=25
+4	question	questions	NOUN	Canto=4|Verso=25
+5	che	which	PRON	Canto=4|Verso=25
+6-7	nel	_	_	Canto=4|Comment=ne-l|Verso=25
+6	in	in	ADP	_
+7	il	the	DET	_
+8	tuo	your	DET	Canto=4|Verso=25
+9	velle	wish	NOUN	Canto=4|Verso=25
+10	pontano	thrust	VERB	Canto=4|Verso=26
+11	igualmente	equally	ADV	Canto=4|Verso=26|SpaceAfter=No
+12	;	;	PUNCT	_
+13	e	and	CCONJ	Canto=4|Verso=26
+14	però	therefore	SCONJ	Canto=4|Verso=26
+15	pria	first	ADV	Canto=4|Verso=26
+16	tratterò	treat	VERB	Canto=4|Verso=27
+17	quella	theone	PRON	Canto=4|Verso=27
+18	che	that	PRON	Canto=4|Verso=27
+19	più	more	ADV	Canto=4|Verso=27
+20	ha	has	VERB/AUX	Canto=4|Verso=27
+21	di	of	ADP	Canto=4|Verso=27
+22	felle	gall	NOUN	Canto=4|Verso=27|SpaceAfter=No
+23	.	.	PUNCT	_
+				
+# sent_id = 7				
+# text = D' i Serafin colui che più s' india, Moisè, Samuel, e quel Giovanni che prender vuoli, io dico, non Maria, non hanno in altro cielo i loro scanni che questi spirti che mo t' appariro, né hanno a l' esser lor più o meno anni; ma tutti fanno bello il primo giro, e differentemente han dolce vita per sentir più e men l' etterno spiro.				
+# text_en = Neither the Seraph closest unto God, nor Moses, Samuel, nor either John— whichever one you will—nor Mary has, I say, their place in any other heaven than that which houses those souls you just saw, nor will their blessedness last any longer. But all those souls grace the Empyrean; and each of them has gentle life—though some sense the Eternal Spirit more, some less.				
+# lang = it. old				
+1	D'	of	ADP	Canto=4|Verso=28
+2	i	the	DET	Canto=4|Verso=28
+3	Serafin	serafino	NOUN	Canto=4|Verso=28
+4	colui	he	PRON	Canto=4|Verso=28
+5	che	that	PRON	Canto=4|Verso=28
+6	più	more	ADV	Canto=4|Verso=28
+7	s'	EXPL	PRON	Canto=4|Verso=28
+8	india	absorbingod	VERB	Canto=4|Verso=28|SpaceAfter=No
+9	,	,	PUNCT	_
+10	Moisè	Mosè	PROPN	Canto=4|Verso=29|SpaceAfter=No
+11	,	,	PUNCT	_
+12	Samuel	Samuel	PROPN	Canto=4|Verso=29|SpaceAfter=No
+13	,	,	PUNCT	_
+14	e	and	CCONJ	Canto=4|Verso=29
+15	quel	whichever	DET	Canto=4|Verso=29
+16	Giovanni	Giovanni	PROPN	Canto=4|Verso=29
+17	che	that	PRON	Canto=4|Verso=30
+18	prender	select	VERB	Canto=4|Verso=30
+19	vuoli	wants	VERB	Canto=4|Verso=30|SpaceAfter=No
+20	,	,	PUNCT	_
+21	io	I	PRON	Canto=4|Verso=30
+22	dico	say	VERB	Canto=4|Verso=30|SpaceAfter=No
+23	,	,	PUNCT	_
+24	non	NEG	ADV	Canto=4|Verso=30
+25	Maria	Maria	PROPN	Canto=4|Verso=30|SpaceAfter=No
+26	,	,	PUNCT	_
+27	non	NEG	ADV	Canto=4|Verso=31
+28	hanno	have	VERB/AUX	Canto=4|Verso=31
+29	in	in	ADP	Canto=4|Verso=31
+30	altro	other	DET	Canto=4|Verso=31
+31	cielo	sky	NOUN	Canto=4|Verso=31
+32	i	the	DET	Canto=4|Verso=31
+33	loro	their	DET	Canto=4|Verso=31
+34	scanni	houses	NOUN	Canto=4|Verso=31
+35	che	that	SCONJ	Canto=4|Verso=32
+36	questi	those	DET	Canto=4|Verso=32
+37	spirti	souls	NOUN	Canto=4|Verso=32
+38	che	that	PRON	Canto=4|Verso=32
+39	mo	now	ADV	Canto=4|Verso=32
+40	t'	toyou	PRON	Canto=4|Verso=32
+41	appariro	show	VERB	Canto=4|Verso=32|SpaceAfter=No
+42	,	,	PUNCT	_
+43	né	NEG	CCONJ	Canto=4|Verso=33
+44	hanno	have	VERB/AUX	Canto=4|Verso=33
+45	a	to	ADP	Canto=4|Verso=33
+46	l'	the	DET	Canto=4|Verso=33
+47	esser	blessedness	AUX	Canto=4|Verso=33
+48	lor	their	DET	Canto=4|Verso=33
+49	più	more	ADJ	Canto=4|Verso=33
+50	o	or	CCONJ	Canto=4|Verso=33
+51	meno	less	ADJ	Canto=4|Verso=33
+52	anni	years	NOUN	Canto=4|Verso=33|SpaceAfter=No
+53	;	;	PUNCT	_
+54	ma	but	CCONJ	Canto=4|Verso=34
+55	tutti	all	PRON	Canto=4|Verso=34
+56	fanno	make	VERB	Canto=4|Verso=34
+57	bello	beautiful	ADJ	Canto=4|Verso=34
+58	il	the	DET	Canto=4|Verso=34
+59	primo	primal	ADJ	Canto=4|Verso=34
+60	giro	circle	NOUN	Canto=4|Verso=34|SpaceAfter=No
+61	,	,	PUNCT	_
+62	e	and	CCONJ	Canto=4|Verso=35
+63	differentemente	differently	ADV	Canto=4|Verso=35
+64	han	have	VERB/AUX	Canto=4|Verso=35
+65	dolce	sweet	ADJ	Canto=4|Verso=35
+66	vita	life	NOUN	Canto=4|Verso=35
+67	per	for	ADP	Canto=4|Verso=36
+68	sentir	feeling	VERB	Canto=4|Verso=36
+69	più	more	ADV	Canto=4|Verso=36
+70	e	and	CCONJ	Canto=4|Verso=36
+71	men	less	ADV	Canto=4|Verso=36
+72	l'	the	DET	Canto=4|Verso=36
+73	etterno	eternal	ADJ	Canto=4|Verso=36
+74	spiro	breath	NOUN	Canto=4|Verso=36|SpaceAfter=No
+75	.	.	PUNCT	_
+				
+# sent_id = 8				
+# text = Qui si mostraro, non perché sortita sia questa spera lor, ma per far segno de la celestial c' ha men salita.				
+# text_en = They showed themselves to you here not because this is their sphere, but as a sign for you that in the Empyrean their place is lowest.				
+# lang = it. old				
+1	Qui	here	ADV	Canto=4|Verso=37
+2	si	EXPL	PRON	Canto=4|Verso=37
+3	mostraro	showed	VERB	Canto=4|Verso=37|SpaceAfter=No
+4	,	,	PUNCT	_
+5	non	NEG	ADV	Canto=4|Verso=37
+6	perché	because	SCONJ	Canto=4|Verso=37
+7	sortita	allotted	VERB	Canto=4|Verso=37
+8	sia	is	AUX	Canto=4|Verso=38
+9	questa	this	DET	Canto=4|Verso=38
+10	spera	sphere	NOUN	Canto=4|Verso=38
+11	lor	their	PRON	Canto=4|Verso=38|SpaceAfter=No
+12	,	,	PUNCT	_
+13	ma	but	CCONJ	Canto=4|Verso=38
+14	per	to	ADP	Canto=4|Verso=38
+15	far	make	VERB	Canto=4|Verso=38
+16	segno	sign	NOUN	Canto=4|Verso=38
+17	de	of	ADP	Canto=4|Verso=39
+18	la	the	DET	Canto=4|Verso=39
+19	celestial	celestial	ADJ	Canto=4|Verso=39
+20	c'	which	PRON	Canto=4|Verso=39
+21	ha	has	VERB/AUX	Canto=4|Verso=39
+22	men	less	ADJ	Canto=4|Verso=39
+23	salita	exalted	NOUN	Canto=4|Verso=39|SpaceAfter=No
+24	.	.	PUNCT	_
+				
+# sent_id = 9				
+# text = Così parlar conviensi al vostro ingegno, però che solo da sensato apprende ciò che fa poscia d' intelletto degno.				
+# text_en = Such signs are suited to your mind, since from the senses only can it apprehend what then becomes fit for the intellect.				
+# lang = it. old				
+1	Così	so	ADV	Canto=4|Verso=40
+2	parlar	speak	VERB	Canto=4|Verso=40
+3-4	conviensi	_	_	Canto=4|Verso=40
+3	convenire	adapted	VERB	_
+4	si	EXPL	PRON	_
+5-6	al	_	_	Canto=4|Comment=a-l|Verso=40|SpaceAfter=No
+5	a	to	ADP	_
+6	il	the	DET	_
+7	vostro	your	DET	Canto=4|Verso=40
+8	ingegno	mind	NOUN	Canto=4|Verso=40|SpaceAfter=No
+9	,	,	PUNCT	_
+10	però	since	SCONJ	_
+11	che	since	SCONJ	SpaceAfter=No
+12	solo	only	ADV	Canto=4|Verso=41
+13	da	from	ADP	Canto=4|Verso=41
+14	sensato	sense	ADJ	Canto=4|Verso=41
+15	apprende	apprehendeth	VERB	Canto=4|Verso=41
+16	ciò	that	PRON	Canto=4|Verso=42
+17	che	that	PRON	Canto=4|Verso=42
+18	fa	makes	VERB	Canto=4|Verso=42
+19	poscia	then	ADV	Canto=4|Verso=42
+20	d'	of	ADP	Canto=4|Verso=42
+21	intelletto	intellect	NOUN	Canto=4|Verso=42
+22	degno	worth	ADJ	Canto=4|Verso=42|SpaceAfter=No
+23	.	.	PUNCT	_
+				
+# sent_id = 10				
+# text = Per questo la Scrittura condescende a vostra facultate, e piedi e mano attribuisce a Dio e altro intende; e Santa Chiesa con aspetto umano Gabriel e Michel vi rappresenta, e l' altro che Tobia rifece sano.				
+# text_en = And this is why the Bible condescends to human powers, assigning feet and hands to God, but meaning something else instead. And Gabriel and Michael and the angel who healed the eyes of Tobit are portrayed by Holy Church with human visages.				
+# lang = it. old				
+1	Per	for	ADP	Canto=4|Verso=43
+2	questo	this	PRON	Canto=4|Verso=43
+3	la	the	DET	Canto=4|Verso=43
+4	Scrittura	scripture	NOUN	Canto=4|Verso=43
+5	condescende	condescends	VERB	Canto=4|Verso=43
+6	a	to	ADP	Canto=4|Verso=44
+7	vostra	your	DET	Canto=4|Verso=44
+8	facultate	faculties	NOUN	Canto=4|Verso=44|SpaceAfter=No
+9	,	,	PUNCT	_
+10	e	and	CCONJ	Canto=4|Verso=44
+11	piedi	feet	NOUN	Canto=4|Verso=44
+12	e	and	CCONJ	Canto=4|Verso=44
+13	mano	hand	NOUN	Canto=4|Verso=44
+14	attribuisce	attributes	VERB	Canto=4|Verso=45
+15	a	to	ADP	Canto=4|Verso=45
+16	Dio	God	PROPN	Canto=4|Verso=45
+17	e	and	CCONJ	Canto=4|Verso=45
+18	altro	somethingelse	PRON	Canto=4|Verso=45
+19	intende	means	VERB	Canto=4|Verso=45|SpaceAfter=No
+20	;	;	PUNCT	_
+21	e	and	CCONJ	Canto=4|Verso=46
+22	Santa	Holy	ADJ	Canto=4|Verso=46
+23	Chiesa	Church	NOUN	Canto=4|Verso=46
+24	con	with	ADP	Canto=4|Verso=46
+25	aspetto	aspect	NOUN	Canto=4|Verso=46
+26	umano	human	ADJ	Canto=4|Verso=46
+27	Gabriel	Gabriele	PROPN	Canto=4|Verso=47
+28	e	and	CCONJ	Canto=4|Verso=47
+29	Michel	Michele	PROPN	Canto=4|Verso=47
+30	vi	toyou	PRON	Canto=4|Verso=47
+31	rappresenta	represents	VERB	Canto=4|Verso=47|SpaceAfter=No
+32	,	,	PUNCT	_
+33	e	and	CCONJ	Canto=4|Verso=48
+34	l'	the	DET	Canto=4|Verso=48
+35	altro	other	PRON	Canto=4|Verso=48
+36	che	that	PRON	Canto=4|Verso=48
+37	Tobia	Tobia	PROPN	Canto=4|Verso=48
+38	rifece	made	VERB	Canto=4|Verso=48
+39	sano	whole	ADJ	Canto=4|Verso=48|SpaceAfter=No
+40	.	.	PUNCT	_
+				
+# sent_id = 11				
+# text = Quel che Timeo de l' anime argomenta non è simile a ciò che qui si vede, però che , come dice, par che senta.				
+# text_en = That which Timaeus said in reasoning of souls does not describe what you have seen, since it would seem that as he speaks he thinks.				
+# lang = it. old				
+1	Quel	that	PRON	Canto=4|Verso=49
+2	che	which	PRON	Canto=4|Verso=49
+3	Timeo	Timeo	PROPN	Canto=4|Verso=49
+4	de	of	ADP	Canto=4|Verso=49
+5	l'	the	DET	Canto=4|Verso=49
+6	anime	souls	NOUN	Canto=4|Verso=49
+7	argomenta	argues	VERB	Canto=4|Verso=49
+8	non	NEG	ADV	Canto=4|Verso=50
+9	è	is	AUX	Canto=4|Verso=50
+10	simile	resemble	ADJ	Canto=4|Verso=50
+11	a	to	ADP	Canto=4|Verso=50
+12	ciò	that	PRON	Canto=4|Verso=50
+13	che	that	PRON	Canto=4|Verso=50
+14	qui	here	ADV	Canto=4|Verso=50
+15	si	EXPL	PRON	Canto=4|Verso=50
+16	vede	see	VERB	Canto=4|Verso=50|SpaceAfter=No
+17	,	,	PUNCT	_
+18	però	because	SCONJ	_
+19	che	because	SCONJ	SpaceAfter=No
+20	,	,	PUNCT	_
+21	come	as	ADV	Canto=4|Verso=51
+22	dice	speaks	VERB	Canto=4|Verso=51|SpaceAfter=No
+23	,	,	PUNCT	_
+24	par	seems	VERB	Canto=4|Verso=51
+25	che	that	SCONJ	Canto=4|Verso=51
+26	senta	thinks	VERB	Canto=4|Verso=51|SpaceAfter=No
+27	.	.	PUNCT	_
