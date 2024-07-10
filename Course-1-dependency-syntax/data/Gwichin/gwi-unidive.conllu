@@ -1,0 +1,353 @@
+# sent_id = 1
+# text_en = He is hunting for caribou.
+1	Vadzaih	vadzaih	NOUN	_	_	3	obl	_	Gloss=caribou
+2	eenjit	eenjit	ADP	_	Animacy=Nhum	1	case	_	Gloss=for
+3	naazhrii	naazhrii	VERB	_	Aspect=Imp|Classifier=L|Mode=Dyn|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	Gloss=he is hunting|MSeg=nï-aa-zhrii
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text_en = I am making moccasins for my little grandchild.
+1	Shicheii	vicheii	NOUN	_	_	5	obl	_	_
+2	tsal	tsal	ADJ	_	_	1	nmod	_	_
+3	veenjit	eenjit	ADP	_	_	1	case	_	_
+4	kwaiitryah	kwaiitryah	NOUN	_	_	5	obj	_	_
+5	ałtsii	yahtsii	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 3
+# text_en = John is fine.  
+# or should the relation be nsubj and obl 
+# At the end of the day, the distinction must be drawn and documented on language particular grounds. For example, many languages have certain verbs which take arguments in oblique cases such as dative or an experiencer case, but these arguments should be regarded as core arguments based on their syntactic behavior being parallel to the arguments of other transitive verbs.
+# Oblique arguments may usually or always appear marked by an adposition while core arguments appear as bare nominals. 
+# https://universaldependencies.org/u/overview/syntax.html
+# Is it copular? ... 
+1	John	John	PROPN	_	_	3	obl	_	Gloss=John
+2	veenjit	_	ADP	_	_	1	case	_	Gloss=for him|MSeg=v-eenjit
+3	gwinzìi	_	VERB	_	_	0	root	_	Gloss=it is good
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+1	Mary	Mary	PROPN	_	_	3	obl	_	Gloss=Mary
+2	vizhìt	zhit	ADP	_	_	1	case	_	Gloss=inside her|MSeg=vï-zhìt|MGloss=3SG.POSS-inside
+3	gwìłts’ìk	gwiłts’ik	VERB	_	_	0	root	_	Gloss=is hungry|MSeg=gwï-ił-ts’ik|MGloss=AR-CNJ+3SG.IPFV.STAT.Ł-sick
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text_en = Are you hungry? 
+# but this clearly looks like a past tense variant of the ał classifier 
+# comes from ałtsik ’be sick’ ? + gwi-
+# it is not past tense, for some reason this verb’s forms are flipped for past and present... see Carol Timme pg. 50
+# this verb must take the dh-imperfective prefix 
+1	Nizhìt	zhit	ADP	_	_	2	obl	_	Gloss=inside you|MSeg=nï-zhìt|MGloss=2SG.POSS-inside
+2	gwìłts’ik	gwiłts’ik	VERB	_	_	0	root	_	Gloss=is hungry|MSeg=gwï-ił-ts’ik|MGloss=AR-CNJ+3SG.IPFV.STAT.Ł-sick
+3	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text_en = S/he's hungry. 
+# but this clearly looks like a past tense variant of the ał classifier ... dh imperfective for stative verbs 
+# comes from ałtsik ’be sick’ ? + gwi-
+# it is not past tense, for some reason this verb’s forms are flipped for past and present... see Carol Timme pg. 50
+# this verb must take the dh-imperfective prefix 
+1	Vizhìt	zhit	ADP	_	_	2	obl	_	Gloss=inside her|MSeg=vï-zhìt|MGloss=3SG.POSS-inside
+2	gwìłts’ik	gwiłts’ik	VERB	_	_	0	root	_	Gloss=is hungry|MSeg=gwï-ił-ts’ik|MGloss=AR-CNJ+3SG.IPFV.STAT.Ł-sick
+3	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text_en = Mouse is inside her house. 
+1	Daatsoo	daatsoo	NOUN	_	_	4	nsubj	_	Gloss=mouse
+2	dizheh	zheh	NOUN	_	_	4	obl	_	Gloss=her house|MSeg=dï-zheh|MGloss=3SG.REFL-house
+3	gwizhìt	zhit	ADP	_	_	2	case	_	Gloss=inside|MSeg=gwï-zhit|MGloss=AR-inside
+4	dhidii	dhidii	VERB	_	_	0	root	_	Gloss=she is (sitting)|MSeg=dhï-ï-dii|MGloss=CNJ-3SG.IPFV.STAT.Ø-sit
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text_en = The duck eggs in the nest are really big.
+1	Ch’at’oh	ch'at'oh	NOUN	_	_	4	nmod	_	Gloss=nest
+2	zhìt	zhit	ADP	_	_	1	case	_	Gloss=inside
+3	dats’an	dats’an	NOUN	_	_	4	compound	_	Gloss=duck
+4	ghòo	ch'aghoo	NOUN	_	_	6	nsubj	_	Gloss=egg
+5	łyâa	łyâa	ADV	_	_	6	advmod	_	Gloss=really
+6	nitsii	nitsii	VERB	_	_	0	root	_	Gloss=it is big|MSeg=nï-tsii|MGloss=3SG.IPFV.STAT.Ø-big
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 9
+# text_en = Fox is hungry. 
+# this verb belongs to the dhï conjugation class 
+1	Neegǫǫ	neegǫǫ	NOUN	_	_	3	obl	_	Gloss=fox
+2	vizhìt	zhit	ADP	_	_	1	case	_	Gloss=inside him|MSeg=vï-zhit|MGloss=3SG.POSS-inside
+3	gwiłts’ik	gwiłts’ik	VERB	_	_	0	root	_	Gloss=is hungry|MSeg=gwï-ił-ts’ik|MGloss=AR-CNJ+3SG.IPFV.STAT.Ł-sick
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 10
+# text_en = They’ll give you guys a blanket.
+# literally "They will place a blanket at rest in all your hands."
+# ts’at nakhwV-ntł’V-ga-hah-Ł-tsuu
+# blanket 2PL.OBJ-palm-3PL-FUT-Ł-position cloth like
+# Note: Taken from Bushey dissertation, OBJ stands for objective ... it’s an oblique? ... but is it missing information about possesion? POSS?, also, I think ga- should be marked as PL, h- as FUT, and ah- as 3, as this follows the order of the verb template of Athabascan languages (see discussion of Navajo grammar on Wikipedia). 3rd plural future is also split as gV-+hV+ah- in grammar books. I also am not sure about -Ł in the gloss, and think it should maybe be :Ł, since this information seems to be fused with the subject prefixes.
+# see next entry for splitting the verb 
+1	Ts'at	_	NOUN	_	_	2	obj	_	Gloss=blanket
+2	nakhwantł’agahahtsuu	_	VERB	_	Classifier=Ł|Incorporated=Yes|Number[psor]=Plur|Number[subj]=Plur|Person[psor]=2|Person[subj]=3|Tense=Fut	0	root	_	Gloss=they'll give you guys|MSeg=nakhwï-ntł’ï-gï-hï-ah-tsuu|MGloss=2PL.POSS-palm-PL-FUT-3SG.FUT+Ł-position+FO
+3	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 11
+# text_en = I’m giving my neighbor my gun because he wants to hunt for caribou.
+# item = 35, pg. 55
+# check = 1, added enhanced dependencies
+# example Stem Class 1 - stick-like
+# lemmas double-checked with dictionaries 
+# however, the classificatory verb is a problem perhaps for lemma
+# consistency of analyzing future tense as two separate morphemes consisting of the future morpheme plus subject prefix or as one morpheme together... Bushey here analyzes it as one morpheme and is the only source that does so
+# Why does Bushey say 'he wants' is perfective? Does not seem right. Check with him if possible 
+# hunt is missing classifier in gloss for some reason from Bushey ... this in inconsitent with his annotation practice.. should have L classifier 
+# interesting that 'want' is literally 'he wants him'... check yï- purpose again
+1	Shinee’ok	vinee'ok	NOUN	_	_	3	iobj	_	Gloss=my neighbor|MSeg=shï-nee'ok|MGloss=1SG.POSS-neighbor
+2	shidink’ee	dink'ee	NOUN	_	_	3	obj	_	Gloss=my gun|MSeg=shï-dink'ee|MGloss=1SG.POSS-gun
+3	vintł’ihihtin	_	VERB	_	_	0	root	_	MSeg=vï-ntłï-hï-ih-tin|MGloss=3SG.POSS-palm-FUT-1SG.FUT+Ø-position+LRO|SpaceAfter=No
+4	,	_	PUNCT	_	_	8	punct	_	_
+5	vadzaih	vadzaih	NOUN	_	_	7	obl	_	Gloss=caribou
+6	eenjit	eenjit	ADP	_	_	5	case	_	Gloss=for
+7	naazhrii	naazhrii	VERB	_	_	8	ccomp	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|MGloss=CNJ-3SG.IPFV.L-hunt
+8	yindhan	yiyindhan	VERB	_	_	3	advcl	_	Gloss=he wants|MSeg=yï-in-dhan|MGloss=3.O-3SG.PFV.Ø-want
+9	geh’àn	geh’an	SCONJ	_	_	8	mark	_	Gloss=because|SpaceAfter=No
+10	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 12
+# text_en = A birch tree fell up on the hill.
+# In some situations in some languages, a limited set of adverbs can also modify nominals (e.g., only on Monday). The advmod relation or its subtype has to be used in such cases, too (see also advmod:emph).
+# But I want to be able to enhance with case on advmod, but this seems to go against current guidelines (or are they assumptions) about how language should be represented in UD ...in any case, this can be represented in the features column 
+# This is Deixis ... "Deixis is typically a feature of demonstrative pronouns, determiners, and adverbs. Its value classifies the location of the referred entity with respect to the location of the speaker or of the hearer. The common distinction is distance (proximate vs. remote entities); in some languages, elevation is distinguished as well (e.g., the entity is located higher or lower than the speaker)."
+# Enhanced with 
+# PNCT for 'punctual' 
+# directionals are ablative (abl), allative (all), punctual (pnct) or areal (ar) 
+1	Oodee	_	ADV	_	_	4	advmod:lmod	_	Gloss=at a point up above|MSeg=oo-dee|MGloss=PROX-PNCT.up_above
+2	ddhah	ddhah	NOUN	_	_	4	obl	_	Gloss=mountain
+3	kat	kat	ADP	_	_	2	case	_	Gloss=on
+4	aat’oo	aat'oo	NOUN	_	_	5	nsubj	_	Gloss=birch
+5	neiinghaa	_	VERB	_	_	0	root	_	Gloss=the stick-like object fell|MSeg=nee#iin-ghaa|MGloss=ITER-3SG.PFV.Ø-stick_like_falls
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 13
+# text_en = She is picking berries.
+1	Ch’ąąhtsii	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 14
+# text_en = She picked berries.
+1	Ch’įįłtsąįį	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text_en = My mother is making bread. 
+1	Shahan	_	NOUN	_	_	3	nsubj	_	_
+2	łuchy’aa	_	NOUN	_	_	3	obj	_	_
+3	ahtsii	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 16
+# text_en = He is big.
+1	Nitsii	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 17
+# source = KU998S2000b
+# text_en = S/he is laughing and hears her/his echo on the mountain.
+# dideezhùu = his own voice? 
+# di is reflexive see noun morphology 
+# his voice: videezhuh
+# Reflex=Yes ? 
+1	Adlaa	adlaa	VERB	_	_	0	root	0:root	Gloss=He is laughing|MSeg=a-dlaa|MGloss=3SG.IPV.DYN.L-laugh
+2	ts’ą̀’	ts’ą̀’	CCONJ	_	_	6	cc	6:cc	Gloss=and
+3	ddha	ddha	NOUN	_	_	6	obl:kak	6:obl:kak	Gloss=mountain
+4	kak	kak	ADP	_	_	3	case	3:case	Gloss=on
+5	dideezhùu	videezhuu	NOUN	_	Reflex=Yes	6	obj	6:obj	Gloss=his own voice|MSeg=dï-deezhuu|MGloss=REFL-voice
+6	dîitth’àk	ch'iitth'ak	VERB	_	_	1	conj:ts’ą̀’	1:conj:ts’ą̀’	Gloss=he hears|MSeg=dii-tth'ak|MGloss=THEM:3SG.IPV.Ø-hear
+7	.	_	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 18
+# text_en = I understand the Gwich’in language a little, so I know what you are talking about.
+# source = KU998S2000b
+1	Gwintsàl	gwintsal	ADV	_	_	5	advmod	5:advmod	Gloss=a little
+2	dinjii	dinjii	PROPN	_	_	4	flat	4:flat	Gloss=man
+3	zhuh	zhuh	PROPN	_	_	4	flat	4:flat	Gloss=native
+4	k’yàa	_	PROPN	_	_	5	obj	5:obj	Gloss=
+5	ch’îihtth’ak	_	VERB	_	_	0	root	0:root	Gloss=I understand
+6	ts’ą̀’	ts’ą̀’	CCONJ	_	_	9	cc	9:cc	Gloss=and
+7	jidìi	jidìi	PRON	_	_	9	obj	9:obj	Gloss=what
+8	eegìnkhii	_	VERB	_	_	7	acl:relcl	7:acl:relcl	Gloss=you are talking about|MSeg=ee-g-ìn-khii
+9	gàashandàii	_	VERB	_	_	5	conj:ts’ą̀’	5:conj:ts’ą̀’	Gloss=I know|MSeg=gwï-àa-shï-ndàii|MGloss=AR-COM-1SG.IPV.D-know
+10	.	_	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 19
+# text_en = I'll go to Fairbanks by plane.
+# gwï is areal prefix ... Areal=Yes
+1	Airplane	airplane	NOUN	_	Foreign=Yes	5	obl:haa	5:obl:haa	Gloss=airplane
+2	haa	haa	ADP	_	_	1	case	1:case	Gloss=with
+3	Fairbanks	Fairbanks	PROPN	_	Foreign=Yes	5	obl:ts'a'	5:obl:ts'a'	Gloss=Fairbanks
+4	gwats’a’	ts'a'	ADP	_	Areal=Yes	3	case	3:case	Gloss=to|gwï-ts'a'
+5	hihshyaa	ahàa	VERB	_	Classifier=Ø|Mode=Dyn|Number[subj]=Sing|Person[subj]=1|Tense=Fut	0	root	0:root	Gloss=I will go|MSeg=hï-ih-shyaa
+6	.	_	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 20
+# text_en = S/he is cooking caribou ribs to the fire.
+# source = KU998S2000b
+1	Kǫ’	kǫ’	NOUN	_	_	5	obl:ts’ą̀’	5:obl:ts’ą̀’	Gloss=fire
+2	ts’ą̀’	ts’ą̀’	ADP	_	_	1	case	1:case	Gloss=to
+3	vadzaih	vadzaih	NOUN	_	_	4	nmod	4:nmod	Gloss=caribou
+4	tsìk	vitsik	NOUN	_	_	5	obj	5:obj	Gloss=rib
+5	keech’ahch’yàa	_	VERB	_	_	0	root	0:root	Gloss=she is cooking
+6	.	_	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 21
+# text_en = He is hunting for caribou.
+1	Vadzaih	vadzaih	NOUN	_	_	3	obl:eenjit	3:obl:eenjit	Gloss=caribou
+2	eenjit	eenjit	ADP	_	_	1	case	1:case	Gloss=for
+3	naazhrii	naazhrii	VERB	_	Aspect=Imp|Classifier=L|Mode=Dyn|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	0:root	Gloss=he is hunting|MSeg=nï-aa-zhrii
+4	.	_	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 22
+# text_en = John and Mary are playing bingo and laughing.
+# check_count = 1
+# corrected suspected error with tseegi’in... didn’t seem to match my understanding of expected morphology... double checked with Carol Timme’s Verbs and corrected to tseegii’in
+1	John	John	PROPN	_	_	5	nsubj	5:nsubj|7:nsubj	Gloss=John
+2	Mary	Mary	PROPN	_	_	1	conj:hàa	1:conj:hàa|5:nsubj|7:nsubj	Gloss=Mary
+3	hàa	hàa	CCONJ	_	_	2	cc	2:cc	Gloss=and
+4	bingò	bingò	NOUN	_	_	5	obj	5:obj	Gloss=bingo
+5	tseegii’in	tsee'in	VERB	_	_	0	root	0:root	Gloss=they are playing|MSeg=tsee-gï-ii-’in
+6	ts’ą̀’	ts’ą̀’	CCONJ	_	_	7	cc	7:cc	Gloss=and
+7	gadlàa	adlaa	VERB	_	_	5	conj:ts’ą̀’	5:conj:ts’ą̀’	Gloss=they are laughing|MSeg=gï-ï-dlaa
+8	.	_	PUNCT	_	_	5	punct	5:punct	_
+
+# keep 
+# sent_id = 23
+# text_en = On the lake we see a moose.
+1	Van	_	NOUN	_	_	4	obl:kat	4:obl:kat	Gloss=lake
+2	kat	_	ADP	_	_	1	case	1:case	Gloss=on
+3	dinjik	_	NOUN	_	_	4	obj	4:obj	Gloss=moose
+4	tr’aah’in	_	VERB	_	_	0	root	0:root	Gloss=we see
+5	.	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 24
+# text_en = When it's cold outside, I wear a jacket and a hat.
+# I think CNJ n- is better nï based on my knowledge 
+1	Ch'iitąįį	ch'iitąįį	ADV	_	_	2	advmod	2:advmod	Gloss=outside
+2	gwiink’oo	gwiink’oo	VERB	_	_	7	advcl:dąį’	7:advcl:dąį’	Gloss=it's cold|MSeg=gwï-in-k'oo|MGloss=AR-3SG.PFV.Ø-cold
+3	dąį’	dąį’	ADV	_	_	2	advmod	2:advmod	Gloss=when
+4	,	_	PUNCT	_	_	2	punct	2:punct	_
+5	gwiyehdak	gwiyehdak	NOUN	_	_	6	compound	6:compound	Gloss=jacket
+6	ik	ik	NOUN	_	_	7	obj	7:obj	Gloss=
+7	naltsuu	_	VERB	_	_	0	root	0:root	Gloss=I wear clothlike|MSeg=n-a-tsuu|MGloss=CNJ-1SG.IPV.L-clothlike.in_position
+8	ts’à’	ts’à’	CCONJ	_	_	10	cc	10:cc	Gloss=and
+9	ts’eh	ts’eh	NOUN	_	_	10	obj	10:obj	Gloss=hat
+10	nal’ąįį	_	VERB	_	_	7	conj:ts’à’	7:conj:ts’à’	Gloss=I wear compact|MSeg=n-al-’ąįį|MGloss=CNJ-1SG.IPV.L-compact.in_position
+11	.	_	PUNCT	_	_	7	punct	7:punct	_
+
+# sent-id = 25
+# text_ en = When it’s sunny, I like to wear a grass hat. 
+1	Gishreiin'ąįį	_	VERB	_	_	7	advcl:dąį’	7:advcl:dąį’	Gloss=it’s sunny|MSeg=gï-shree#ïn-'ąįį|MGloss=THEM-INC.sun-3SG.PFV.Ø-compact.in_position
+2	dąį’	dąį’	ADV	_	_	1	advmod	1:advmod	Gloss=when
+3	,	_	PUNCT	_	_	1	punct	1:punct	_
+4	tł’oo	tł’oo	NOUN	_	_	5	compound	5:compound	Gloss=grass
+5	ts’eh	ts’eh	NOUN	_	_	6	obj	6:obj	Gloss=hat
+6	neenaal’ąįį	_	VERB	_	_	7	ccomp	7:ccomp	Gloss=I wear a compact|MSeg=nee#nï-al-’ąįį|MGloss=ITER-CNJ-1SG.IPV.L-compact.in_position
+7	geet’ihthan	_	VERB	_	_	0	root	0:root	Gloss=I like to|MSeg=gee#t’-ih-dhan|MGloss=THEM-INCEP-1SG.IPV.Ø-like
+8	.	_	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = 26
+# text_en = I’m giving my neighbor my gun because he wants to hunt for caribou.
+# item = 35, pg. 55
+# check = 1, added enhanced dependencies
+# example Stem Class 1 - stick-like
+# lemmas double-checked with dictionaries 
+# however, the classificatory verb is a problem perhaps for lemma
+# consistency of analyzing future tense as two separate morphemes consisting of the future morpheme plus subject prefix or as one morpheme together... Bushey here analyzes it as one morpheme and is the only source that does so
+# Why does Bushey say 'he wants' is perfective? Does not seem right. Check with him if possible 
+# hunt is missing classifier in gloss for some reason from Bushey ... this in inconsitent with his annotation practice.. should have L classifier 
+# interesting that 'want' is literally 'he wants him'... check yï- purpose again
+1	Shinee’ok	vinee'ok	NOUN	_	_	3	iobj	3:iobj|7:nsubj|8:nsubj	Gloss=my neighbor|MSeg=shï-nee'ok|MGloss=1SG.POSS-neighbor
+2	shidink’ee	dink'ee	NOUN	_	_	3	obj	3:obj	Gloss=my gun|MSeg=shï-dink'ee|MGloss=1SG.POSS-gun
+3	vintł’iihhtin	_	VERB	_	_	0	root	0:root	MSeg=vï-ntłï-hih-Ø-tin|MGloss=3SG.POSS-palm-1SG.FUT-Ø-position stick-like|SpaceAfter=No
+4	,	_	PUNCT	_	_	8	punct	8:punct	_
+5	vadzaih	vadzaih	NOUN	_	_	7	obl:eenjit	7:obl:eenjit	Gloss=caribou
+6	eenjit	eenjit	ADP	_	_	5	case	5:case	Gloss=for
+7	naazhrii	naazhrii	VERB	_	_	8	ccomp	8:ccomp	Gloss=he is hunting|MSeg=nï-aa-zhrii|MGloss=CNJ-3SG.IMPFV-hunt
+8	yindhan	yiyindhan	VERB	_	_	3	advcl	3:advcl	Gloss=he wants|MSeg=yï-in-dhan|MGloss=3.O-3SG.PFV-Ø-want
+9	geh’àn	geh’an	SCONJ	_	_	8	mark	8:mark	Gloss=because|SpaceAfter=No
+10	.	_	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 27
+# asyndetic coordination? from Upper Tanana 
+# text_en = We camped many times going down and finally at my brother-in-law Philip Peters' place called Khiitsik, we arrived. 
+1	Gwatthàn	_	ADV	_	_	3	advmod	3:advmod	Gloss=downland
+2	gwilin	_	ADV	_	_	3	advmod	3:advmod	Gloss=many 
+3	trą̀ą̀hàa	_	VERB	_	_	0	root	0:root	Gloss=we camped
+4	gohch’it	_	ADV	_	_	13	advmod	13:advmod	Gloss=finally 
+5	dèe	_	PART	_	_	4	fixed	4:fixed	Gloss=PART 
+6	shaghoii	_	NOUN	_	_	9	nmod:poss	9:nmod:poss	Gloss=my brother-in-law
+7	Philip	_	PROPN	_	_	8	flat	8:flat	Gloss=Phillip
+8	Peter	_	PROPN	_	_	6	appos	6:appos	Gloss=Peter
+9	vanàh	_	NOUN	_	_	13	obl:kak	13:obl:kak	Gloss=his land 
+10	kak	_	ADP	_	_	9	case	9:case	Gloss=on
+11	Khiitsik	_	PROPN	_	_	12	dep	12:dep	Gloss=salmon river mouth
+12	gòozhii	_	VERB	_	_	9	acl:relcl	9:acl:relcl	Gloss=called
+13	k’eeridàl	_	VERB	_	_	3	parataxis	3:parataxis	Gloss=we arrived
+14	.	_	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 28
+# text_en = That summer of 1938 we did not spend among the mountains. 
+1	Izhik	_	DET	_	_	2	det	2:det	Gloss=that
+2	shin	_	NOUN	_	_	7	advmod	7:advmod	Gloss=summer
+3	1938	_	NUM	_	_	2	nummod	2:nummod	Gloss=1938
+4	oondàk	_	ADV	_	_	7	advmod	7:advmod	Gloss=upland
+5	ddhah	_	NOUN	_	_	7	obl:tee	7:obl:tee	Gloss=mountain
+6	tee	_	ADP	_	_	5	case	5:case	Gloss=among
+7	gwaraa’yà’	_	VERB	_	_	0	root	0:root	Gloss=we spent
+8	kwaa	_	PART	_	_	7	advmod	7:advmod	Gloss=not
+9	.	_	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = 29
+# text_en = In April 1938, Bishop Trimble Rowe and Dr. Burke said they would go to Arctic Village. 
+# text = April 1938 gwiizhik Bishop Trimble Rowe, Dr. Burke hàa Vashrą̀įį̨ K’ǫǫ nirihee’àl ginyaa.
+# I believe the translation is incorrect, as it doesn’t capture the fact that ’nirihee’al’ is dual plural ’we two’ 
+# not sure about obl for vashraii k’oo 
+1	April	_	PROPN	_	_	14	obl:gwiizhik	14:obl:gwiizhik	Gloss=April
+2	1938	_	NUM	_	_	1	nummod	1:nummod	Gloss=1938
+3	gwiizhik	_	ADV	_	_	1	case	1:case	Gloss=during
+4	Bishop	_	PROPN	_	_	6	flat	6:flat	Gloss=Bishop
+5	Trimble	_	PROPN	_	_	6	flat	6:flat	Gloss=Trimble
+6	Rowe	_	PROPN	_	_	14	nsubj	14:nsubj	Gloss=Rowe
+7	,	_	PUNCT	_	_	9	punct	9:punct	_
+8	Dr.	_	PROPN	_	_	9	flat	9:flat	Gloss=Dr.
+9	Burke	_	PROPN	_	_	6	conj:hàa	6:conj:hàa|14:nsubj	Gloss=Burke
+10	hàa	_	CCONJ	_	_	9	cc	9:cc	Gloss=and
+11	Vashrą̀įį̨	_	PROPN	_	_	12	flat	12:flat	Gloss=Arctic Village
+12	K’ǫǫ	_	PROPN	_	_	13	obl	13:obl	Gloss=Artic Village 
+13	nirihee’àl	_	VERB	_	_	14	ccomp	14:ccomp	Gloss=we would go
+14	ginyaa	_	VERB	_	_	0	root	0:root	Gloss=they said 
+15	.	_	PUNCT	_	_	14	punct	14:punct	_
+
+# sent_id = 30
+# text_en = At the same time now Alice, Tabitha and I went up with our pack dogs.
+# What do you use for lemma for the directionals?
+1	Gwiizhik	gwiizhik	ADV	_	_	14	advmod	14:advmod	Gloss=while
+2	t'ee	t'ee	X	_	_	1	dep	1:dep	_
+3	shįį	shįį	PRON	_	_	14	nsubj	14:nsubj	Gloss=I
+4	,	_	PUNCT	_	_	5	punct	5:punct	_
+5	Alice	Alice	PROPN	_	_	3	conj:hàa	3:conj:hàa|14:nsubj	Gloss=Alice
+6	,	_	PUNCT	_	_	7	punct	7:punct	_
+7	Tabitha	Tabitha	PROPN	_	_	3	conj:hàa	3:conj:hàa|14:nsubj	Gloss=Tabitha
+8	nąįį	nąįį	PART	_	_	3	dep:plural:nąįį	3:dep:plural:nąįį	Gloss=plural
+9	hàa	hàa	ADP	_	_	7	cc	7:cc	Gloss=and
+10	łąįį	łąįį	NOUN	_	_	11	compound	11:compound	Gloss=dog
+11	ghwàa	ghwàa	NOUN	_	_	14	obl:hàa	14:obl:hàa	Gloss=pack
+12	hàa	hàa	ADP	_	_	11	case	11:case	Gloss=with
+13	oodàk	oodàk	ADV	_	_	14	advmod	14:advmod	Gloss=up above|MGloss=PROX-up_above.ALL
+14	tr’ahàajil	_	VERB	_	_	0	root	0:root	Gloss=we went|MGloss=1PL-went
+15	.	_	PUNCT	_	_	14	punct	14:punct	_
+
+# sent_id = 31
+# text_en = I am playing with the ball. 
+# haa = with, is the same as 'and' which you made CCONJ... maybe it has a different function ADP? 
+1	Nehkaii	nehkaii	NOUN	_	_	3	obl:haa	3:obl:haa	Gloss=ball
+2	haa	haa	ADP	_	_	1	case	1:case	Gloss=with
+3	tseeshi'in	_	VERB	_	_	0	root	0:root	Gloss=I am playing|MSeg=tsee-shï-'in|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	3:punct	_
