@@ -241,7 +241,7 @@
 10	nal’ąįį	_	VERB	_	_	7	conj:ts’à’	7:conj:ts’à’	Gloss=I wear compact|MSeg=n-al-’ąįį|MGloss=CNJ-1SG.IPV.L-compact.in_position
 11	.	_	PUNCT	_	_	7	punct	7:punct	_
 
-# sent-id = 25
+# sent_id = 25
 # text_ en = When it’s sunny, I like to wear a grass hat. 
 1	Gishreiin'ąįį	_	VERB	_	_	7	advcl:dąį’	7:advcl:dąį’	Gloss=it’s sunny|MSeg=gï-shree#ïn-'ąįį|MGloss=THEM-INC.sun-3SG.PFV.Ø-compact.in_position
 2	dąį’	dąį’	ADV	_	_	1	advmod	1:advmod	Gloss=when
