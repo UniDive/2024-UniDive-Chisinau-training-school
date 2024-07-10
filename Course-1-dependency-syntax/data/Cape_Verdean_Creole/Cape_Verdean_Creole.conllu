@@ -1,0 +1,344 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1
+# text = Na nha prinsip, koza k N gostá d'fazê senpr péska, senpr péska.
+# text_en = A thing I liked to do from the very beginning was always fishing, always fishing.
+# speaker = PJL
+1	Na	_	_	_	_	_	_	_	Gloss=PREP
+2	nha	_	_	_	_	_	_	_	Gloss=POSS
+3	prinsip	_	_	_	_	_	_	_	Gloss=beginning
+4	,	_	_	_	_	_	_	_	Gloss=PUNCT
+5	koza	_	_	_	_	_	_	_	Gloss=thing
+6	k	_	_	_	_	_	_	_	Gloss=REL
+7	N	_	_	_	_	_	_	_	Gloss=1.SG
+8	gostá	_	_	_	_	_	_	_	Gloss=like
+9	d'	_	_	_	_	_	_	_	Gloss=PREP
+10	fazê	_	_	_	_	_	_	_	Gloss=do
+11	senpr	_	_	_	_	_	_	_	Gloss=always
+12	péska	_	_	_	_	_	_	_	Gloss=fishing
+13	,	_	_	_	_	_	_	_	Gloss=PUNCT
+14	senpr	_	_	_	_	_	_	_	Gloss=always
+15	péska	_	_	_	_	_	_	_	Gloss=fishing
+16	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 2
+# text = Agóra, N te ben kontá ots koza tanbê fóra péska.
+# text_en = Now, I will also tell about other things, apart from fishing.
+# speaker = PJL
+1	Agóra	_	_	_	_	_	_	_	Gloss=now
+2	,	_	_	_	_	_	_	_	Gloss=PUNCT
+3	N	_	_	_	_	_	_	_	Gloss=1.SG
+4	te	_	_	_	_	_	_	_	Gloss=PRS
+5	ben	_	_	_	_	_	_	_	Gloss=come
+6	kontá	_	_	_	_	_	_	_	Gloss=tell
+7	ots	_	_	_	_	_	_	_	Gloss=other.PL
+8	koza	_	_	_	_	_	_	_	Gloss=thing
+9	tanbê	_	_	_	_	_	_	_	Gloss=also
+10	fóra	_	_	_	_	_	_	_	Gloss=outside
+11	péska	_	_	_	_	_	_	_	Gloss=fishing
+12	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 3
+# text = Na prinsip, de nha trabói ke nos mai tá inximá-nos éra katá páia, katá bósta - bo sabê kze ke e bósta, bósta d'váka?
+# text_en = In the beginning of my work, what our mother used to teach us was picking up straw, manure - do you know what manure is, cow's manure?
+# speaker = PJL
+1	Na	_	_	_	_	_	_	_	Gloss=PREP
+2	prinsip	_	_	_	_	_	_	_	Gloss=beginning
+3	,	_	_	_	_	_	_	_	Gloss=PUNCT
+4	de	_	_	_	_	_	_	_	Gloss=PREP
+5	nha	_	_	_	_	_	_	_	Gloss=POSS
+6	trabói	_	_	_	_	_	_	_	Gloss=work
+7	ke	_	_	_	_	_	_	_	Gloss=REL
+8	nos	_	_	_	_	_	_	_	Gloss=our
+9	mai	_	_	_	_	_	_	_	Gloss=mother
+10	tá	_	_	_	_	_	_	_	Gloss=PST.HAB
+11	inximá-nos	_	_	_	_	_	_	_	Gloss=teach-us
+12	nos	_	_	_	_	_	_	_	Gloss=1.PL
+13	éra	_	_	_	_	_	_	_	Gloss=COP.PST
+14	katá	_	_	_	_	_	_	_	Gloss=pick_up
+15	páia	_	_	_	_	_	_	_	Gloss=straw
+16	,	_	_	_	_	_	_	_	Gloss=PUNCT
+17	katá	_	_	_	_	_	_	_	Gloss=pick_up
+18	bósta	_	_	_	_	_	_	_	Gloss=manure
+19	-	_	_	_	_	_	_	_	Gloss=PUNCT
+20	bo	_	_	_	_	_	_	_	Gloss=2.SG
+21	sabê	_	_	_	_	_	_	_	Gloss=know
+22	kze	_	_	_	_	_	_	_	Gloss=what
+23	ke	_	_	_	_	_	_	_	Gloss=COMP
+24	e	_	_	_	_	_	_	_	Gloss=COP
+25	bósta	_	_	_	_	_	_	_	Gloss=manure
+26	,	_	_	_	_	_	_	_	Gloss=PUNCT
+27	bósta	_	_	_	_	_	_	_	Gloss=manure
+28	d'	_	_	_	_	_	_	_	Gloss=PREP
+29	váka	_	_	_	_	_	_	_	Gloss=cow
+30	?	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 4
+# text = Vendê pex, vendê lenha.
+# text_en = Selling fish, selling wood.
+# speaker = PJL
+1	Vendê	_	_	_	_	_	_	_	Gloss=sell
+2	pex	_	_	_	_	_	_	_	Gloss=fish
+3	vendê	_	_	_	_	_	_	_	Gloss=sell
+4	lenha	_	_	_	_	_	_	_	Gloss=wood
+5	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 5
+# text = Tud es koza no tá fazê, katá, bá vendê na moráda.
+# text_en = Picking it up, going and selling it in the city, all these things we used to do.
+# speaker = PJL
+1	Tud	_	_	_	_	_	_	_	Gloss=all
+2	es	_	_	_	_	_	_	_	Gloss=DEM.PL
+3	koza	_	_	_	_	_	_	_	Gloss=thing
+4	no	_	_	_	_	_	_	_	Gloss=1.PL
+5	tá	_	_	_	_	_	_	_	Gloss=PST.HAB
+6	fazê	_	_	_	_	_	_	_	Gloss=do
+7	,	_	_	_	_	_	_	_	Gloss=PUNCT
+8	katá	_	_	_	_	_	_	_	Gloss=pick_up
+9	,	_	_	_	_	_	_	_	Gloss=PUNCT
+10	bá	_	_	_	_	_	_	_	Gloss=go
+11	vendê	_	_	_	_	_	_	_	Gloss=sell
+12	na	_	_	_	_	_	_	_	Gloss=PREP
+13	moráda	_	_	_	_	_	_	_	Gloss=city
+14	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 6
+# text = Má tontê k bosê tá vendê?
+# text_en = But for how much did you sell it?
+# speaker = LL
+1	Má	_	_	_	_	_	_	_	Gloss=but
+2	tontê	_	_	_	_	_	_	_	Gloss=how_much
+3	k	_	_	_	_	_	_	_	Gloss=COMP
+4	bosê	_	_	_	_	_	_	_	Gloss=2.SG
+5	tá	_	_	_	_	_	_	_	Gloss=PST.HAB
+6	vendê	_	_	_	_	_	_	_	Gloss=sell
+7	?	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 7
+# text = K manera k bo tá vendê?
+# text_en = How did we sell it?
+# speaker = PJL
+1	K	_	_	_	_	_	_	_	Gloss=what
+2	manera	_	_	_	_	_	_	_	Gloss=way
+3	k	_	_	_	_	_	_	_	Gloss=COMP
+4	bo	_	_	_	_	_	_	_	Gloss=2.SG
+5	tá	_	_	_	_	_	_	_	Gloss=PST.HAB
+6	vendê	_	_	_	_	_	_	_	Gloss=sell
+7	?	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 8
+# text = Uh huh…
+# text_en = Uh huh…
+# speaker = LL
+1	Uh	_	_	_	_	_	_	_	Gloss=TAG
+2	huh	_	_	_	_	_	_	_	Gloss=TAG
+3	…	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 9
+# text = Éra fazid un montin na txon, dez toston kada montin, sin.
+# text_en = It was to make a little hill on the ground, ten toston each, yes.
+# speaker = PJL
+1	Éra	_	_	_	_	_	_	_	Gloss=COP.PST
+2	fazid	_	_	_	_	_	_	_	Gloss=make.PTCP
+3	un	_	_	_	_	_	_	_	Gloss=DET
+4	montin	_	_	_	_	_	_	_	Gloss=hill.little
+5	na	_	_	_	_	_	_	_	Gloss=on
+6	txon	_	_	_	_	_	_	_	Gloss=ground
+7	,	_	_	_	_	_	_	_	Gloss=PUNCT
+8	dez	_	_	_	_	_	_	_	Gloss=ten
+9	toston	_	_	_	_	_	_	_	Gloss=toston(colonial_currency)
+10	kada	_	_	_	_	_	_	_	Gloss=each
+11	montin	_	_	_	_	_	_	_	Gloss=hill.little
+12	,	_	_	_	_	_	_	_	Gloss=PUNCT
+13	sin	_	_	_	_	_	_	_	Gloss=yes
+14	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 10
+# text = Y mas uke bosê táva fazê para alén de...
+# text_en = And what else were you doing apart from...
+# speaker = LL
+1	Y	_	_	_	_	_	_	_	Gloss=and
+2	mas	_	_	_	_	_	_	_	Gloss=more
+3	uke	_	_	_	_	_	_	_	Gloss=what
+4	bosê	_	_	_	_	_	_	_	Gloss=2.SG
+5	táva	_	_	_	_	_	_	_	Gloss=PST.HAB
+6	fazê	_	_	_	_	_	_	_	Gloss=do
+7	para	_	_	_	_	_	_	_	Gloss=apart
+8	alén	_	_	_	_	_	_	_	Gloss=PREP
+9	de	_	_	_	_	_	_	_	Gloss=PREP
+10	...	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 11
+# text = Dpos enton N ben te kriá, N ben pô na vida d’már.
+# text_en = Later then I grew up and I entered the sea life.
+# speaker = PJL
+1	Dpos	_	_	_	_	_	_	_	Gloss=later
+2	enton	_	_	_	_	_	_	_	Gloss=then
+3	N	_	_	_	_	_	_	_	Gloss=1.SG
+4	ben	_	_	_	_	_	_	_	Gloss=come
+5	te	_	_	_	_	_	_	_	Gloss=PROG
+6	kriá	_	_	_	_	_	_	_	Gloss=grow_up
+7	,	_	_	_	_	_	_	_	Gloss=PUNCT
+8	N	_	_	_	_	_	_	_	Gloss=1.SG
+9	ben	_	_	_	_	_	_	_	Gloss=come
+10	pô	_	_	_	_	_	_	_	Gloss=put
+11	na	_	_	_	_	_	_	_	Gloss=PREP
+12	vida	_	_	_	_	_	_	_	Gloss=life
+13	d’	_	_	_	_	_	_	_	Gloss=PREP
+14	már	_	_	_	_	_	_	_	Gloss=sea
+15	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 12
+# text = A bosê enton ka bá pa skóla, ne?
+# text_en = You didn’t go to school then, did you?
+# speaker = LL
+1	A	_	_	_	_	_	_	_	Gloss=already
+2	bosê	_	_	_	_	_	_	_	Gloss=2.SG
+3	enton	_	_	_	_	_	_	_	Gloss=then
+4	ka	_	_	_	_	_	_	_	Gloss=NEG
+5	bá	_	_	_	_	_	_	_	Gloss=go
+6	pa	_	_	_	_	_	_	_	Gloss=to
+7	skóla	_	_	_	_	_	_	_	Gloss=school
+8	,	_	_	_	_	_	_	_	Gloss=PUNCT
+9	ne	_	_	_	_	_	_	_	Gloss=TAG
+10	?	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 13
+# text = Nau, N bá pa skóla, N tiv dos óne d'skola.
+# text_en = No, I went to school; I had two years of schooling.
+# speaker = PJL
+1	Nau	_	_	_	_	_	_	_	Gloss=no
+2	,	_	_	_	_	_	_	_	Gloss=PUNCT
+3	N	_	_	_	_	_	_	_	Gloss=1.SG
+4	bá	_	_	_	_	_	_	_	Gloss=go
+5	pa	_	_	_	_	_	_	_	Gloss=to
+6	skóla	_	_	_	_	_	_	_	Gloss=school
+7	,	_	_	_	_	_	_	_	Gloss=PUNCT
+8	N	_	_	_	_	_	_	_	Gloss=1.SG
+9	tiv	_	_	_	_	_	_	_	Gloss=had
+10	dos	_	_	_	_	_	_	_	Gloss=two
+11	óne	_	_	_	_	_	_	_	Gloss=year
+12	d'	_	_	_	_	_	_	_	Gloss=PREP
+13	skola	_	_	_	_	_	_	_	Gloss=school
+14	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 14
+# text = Kze k N fazê, N fazê so nha primera klás, fui so.
+# text_en = What I did was to complete only my first grade, it was only this.
+# speaker = PJL
+1	Kze	_	_	_	_	_	_	_	Gloss=what
+2	k	_	_	_	_	_	_	_	Gloss=COMP
+3	N	_	_	_	_	_	_	_	Gloss=1.SG
+4	fazê	_	_	_	_	_	_	_	Gloss=do
+5	,	_	_	_	_	_	_	_	Gloss=COMMA
+6	N	_	_	_	_	_	_	_	Gloss=1.SG
+7	fazê	_	_	_	_	_	_	_	Gloss=do
+8	so	_	_	_	_	_	_	_	Gloss=only
+9	nha	_	_	_	_	_	_	_	Gloss=1.SG.POSS
+10	primera	_	_	_	_	_	_	_	Gloss=first
+11	klás	_	_	_	_	_	_	_	Gloss=grade
+12	,	_	_	_	_	_	_	_	Gloss=COMMA
+13	fui	_	_	_	_	_	_	_	Gloss=COP
+14	so	_	_	_	_	_	_	_	Gloss=only
+15	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 15
+# text = Y manera k e vida d’péska?
+# text_en = And how is the life of fishing?
+# speaker = LL
+1	Y	_	_	_	_	_	_	_	Gloss=and
+2	manera	_	_	_	_	_	_	_	Gloss=way
+3	k	_	_	_	_	_	_	_	Gloss=COMP
+4	e	_	_	_	_	_	_	_	Gloss=COP
+5	vida	_	_	_	_	_	_	_	Gloss=life
+6	d’	_	_	_	_	_	_	_	Gloss=PREP
+7	péska	_	_	_	_	_	_	_	Gloss=fishing
+8	?	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 16
+# text = Vida d’péska na prinsip fui … éra grand koza, na prinsip.
+# text_en = At the beginning the life of fishing was a big thing, in the beginning.
+# speaker = PJL
+1	Vida	_	_	_	_	_	_	_	Gloss=life
+2	d’	_	_	_	_	_	_	_	Gloss=PREP
+3	péska	_	_	_	_	_	_	_	Gloss=fishing
+4	na	_	_	_	_	_	_	_	Gloss=PREP
+5	prinsip	_	_	_	_	_	_	_	Gloss=beginning
+6	fui	_	_	_	_	_	_	_	Gloss=COP.PST
+7	…	_	_	_	_	_	_	_	Gloss=PUNCT
+8	éra	_	_	_	_	_	_	_	Gloss=COP.PST
+9	grand	_	_	_	_	_	_	_	Gloss=big
+10	koza	_	_	_	_	_	_	_	Gloss=thing
+11	,	_	_	_	_	_	_	_	Gloss=COMMA
+12	na	_	_	_	_	_	_	_	Gloss=PREP
+13	prinsip	_	_	_	_	_	_	_	Gloss=beginning
+14	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 17
+# text = Agóra péska ka ta dá k pex … ta un bokód pok.
+# text_en = But nowadays fishing isn't lucrative because the fish are a little scarce.
+# speaker = PJL
+1	Agóra	_	_	_	_	_	_	_	Gloss=now
+2	péska	_	_	_	_	_	_	_	Gloss=fishing
+3	ka	_	_	_	_	_	_	_	Gloss=NEG
+4	ta	_	_	_	_	_	_	_	Gloss=PRS.HAB
+5	dá	_	_	_	_	_	_	_	Gloss=give
+6	k	_	_	_	_	_	_	_	Gloss=COMP
+7	pex	_	_	_	_	_	_	_	Gloss=fish
+8	…	_	_	_	_	_	_	_	Gloss=PUNCT
+9	ta	_	_	_	_	_	_	_	Gloss=COP
+10	un	_	_	_	_	_	_	_	Gloss=DET
+11	bokód	_	_	_	_	_	_	_	Gloss=little
+12	pok	_	_	_	_	_	_	_	Gloss=little
+13	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 18
+# text = Má tud jent te dzê purke un ves tinha mas pex agó ten pok.
+# text_en = But everybody says that in past times there were a lot of fish and now there are few.
+# speaker = LL
+1	Má	_	_	_	_	_	_	_	Gloss=but
+2	tud	_	_	_	_	_	_	_	Gloss=all
+3	jent	_	_	_	_	_	_	_	Gloss=people
+4	te	_	_	_	_	_	_	_	Gloss=PRS.HAB
+5	dzê	_	_	_	_	_	_	_	Gloss=say
+6	purke	_	_	_	_	_	_	_	Gloss=because
+7	un	_	_	_	_	_	_	_	Gloss=DET
+8	ves	_	_	_	_	_	_	_	Gloss=time
+9	tinha	_	_	_	_	_	_	_	Gloss=had
+10	mas	_	_	_	_	_	_	_	Gloss=more
+11	pex	_	_	_	_	_	_	_	Gloss=fish
+12	agó	_	_	_	_	_	_	_	Gloss=now
+13	ten	_	_	_	_	_	_	_	Gloss=have
+14	pok	_	_	_	_	_	_	_	Gloss=little
+15	.	_	_	_	_	_	_	_	Gloss=PUNCT
+
+
+# sent_id = 19
+# text = Má modke, gó ten mas peskador?
+# text_en = But why, are there more fishermen now?
+# speaker = LL
+1	Má	_	_	_	_	_	_	_	Gloss=but
+2	modke	_	_	_	_	_	_	_	Gloss=why
+3	,	_	_	_	_	_	_	_	Gloss=PUNCT
+4	gó	_	_	_	_	_	_	_	Gloss=now
+5	ten	_	_	_	_	_	_	_	Gloss=have
+6	mas	_	_	_	_	_	_	_	Gloss=more
+7	peskador	_	_	_	_	_	_	_	Gloss=fisherman
+8	?	_	_	_	_	_	_	_	Gloss=PUNCT
+

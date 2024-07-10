@@ -1,0 +1,215 @@
+# student = Ludovica Pannitto		
+# mail: ludovica.pannitto@unibo.it		
+# language = it (Italian)		
+# description = data from KIPARLA corpus		
+		
+# sent_id = 1		
+# text = dovresti parlarmi della tua casa attuale		
+# text_en = you should tell me about your current house		
+# conversation = BOD2018		
+# speaker = BO118		
+dovresti	should:2SG	AUX
+parlar	talk.INF	VERB
+mi	1SG.DAT	PRON
+di	of	ADP
+la	DEF:SG.F	DET
+tua	POSS.2SG:F	DET
+casa	house:SG.F	NOUN
+attuale	current:SG	ADJ
+		
+# sent_id = 2		
+# text = mh sì		
+# text_en = mh yes		
+# conversation = BOD2018		
+# speaker = BO140		
+mh	mh	PARA
+sì	yes	INTJ
+		
+# sent_id = 3		
+# text = com'è fatta la tua casa con chi vivi		
+# text_en = how's your home who do you live with		
+# conversation = BOD2018		
+# speaker = BO118		
+com'	how	ADV
+è	AUX.3SG	AUX
+fatta	do.PTCP:F	VERB
+la	DEF:SG.F	DET
+tua	POSS.2SG:SG.F	DET
+casa	house:SG.F	NOUN
+con	with	ADP
+chi	who	PRON
+vivi	live:2SG	VERB
+		
+# sent_id = 4		
+# text = allora la mia casa è una villa		
+# text_en = so my house is a detached house		
+# conversation = BOD2018		
+# speaker = BO140		
+allora	so	ADV
+la	DEF:SG.F	DET
+mia	POSS.1SG:SG.F	DET
+casa	house:SG.F	NOUN
+è	is	VERB
+una	INDEF:SG.F	DET
+villa	detached-house:SG.F	NOUN
+		
+# sent_id = 5		
+# text = mh in mezzo alla natura		
+# text_en = mh immersed in nature		
+# conversation = BOD2018		
+# speaker = BO140		
+mh	mh	PARA
+in	in	ADP
+mezzo	middle	NOUN
+alla	to:DEF:SG.F	ADP_A
+natura	nature	NOUN
+		
+# sent_id = 6		
+# text = ci viviamo in un po' di famiglie che sono		
+# text_en = there's a number of families living there namely		
+# conversation = BOD2018		
+# speaker = BO140		
+ci	LOC	PRON
+viviamo	live:1PL	VERB
+in	in	ADP
+un	INDEF.SG.M	DET
+po'	few	ADJ
+di	of	ADP
+famiglie	family:PL	NOUN
+che	that	SCONJ
+sono	be.3PL	AUX
+		
+# sent_id = 7		
+# text = eh la mia famiglia		
+# text_en = eh my family		
+# conversation = BOD2018		
+# speaker = BO140		
+eh	eh	PARA
+la	DEF:SG.F	DET
+mia	POSS.1SG:SG.F	DET
+famiglia	family:SG.F	NOUN
+		
+# sent_id = 8		
+# text = quelli il problema è che a volte		
+# text_en = those ones the issue is that sometimes		
+# conversation = BOA3017		
+# speaker = BO139		
+quelli	those	PRON
+il	DEF:SG.M	DET
+problema	problem:SG	NOUN
+è	is	VERB
+che	that	SCONJ
+a	to	ADP
+volte	times	NOUN
+		
+# sent_id = 9		
+# text = cioè più che altro per la mh		
+# text_en = I mean most of all for the mh		
+# conversation = BOA3017		
+# speaker = BO139		
+cioè	I.mean	CCONJ
+più	more	ADV
+che	than	ADP
+altro	else	PRON
+per	for	ADP
+la	DEF:SG.F	DET
+mh	mh	PARA
+		
+# sent_id = 10		
+# text = lì devi anche tipo x devi anche vedere la parte video		
+# text_en = there you should also x you should also see the video part		
+# conversation = BOA3017		
+# speaker = BO139		
+lì	LOC	ADV
+devi	must:2SG.IMP	AUX
+anche	also	ADV
+tipo	like	NOUN
+x	UNKNOWN	X
+devi	must:2SG.IMP	AUX
+anche	also	ADV
+vedere	see.INF	VERB
+la	DEF:SG.F	DET
+parte	part:SG.F	NOUN
+video	video	NOUN
+		
+# sent_id = 11		
+# text = quando farli comparire		
+# text_en = when to make them appear		
+# conversation = BOA3017		
+# speaker = BO139		
+quando	when	SCONJ
+far	make.INF	VERB
+li	3PL.ACC	PRON
+comparire	appear.INF	VERB
+		
+# sent_id = 12		
+# text = mh eh esatto		
+# text_en = mh eh right		
+# conversation = BOA3017		
+# speaker = BO147		
+mh	mh	PARA
+eh	eh	PARA
+esatto	right	ADV
+		
+# sent_id = 13		
+# text = se farli scorrere quando cambiare nelle frasi lunghe		
+# text_en = whether to make them scroll when to change in long sentences		
+# conversation = BOA3017		
+# speaker = BO139		
+se	if	SCONJ
+far	make.INF	VERB
+li	3PL.ACC	PRON
+scorrere	scroll.INF	VERB
+quando	when	SCONJ
+cambiare	change.INF	VERB
+nelle	in.DEF:PL.F	ADP A
+frasi	sentence:PL	NOUN
+lunghe	long:PL.F	ADJ
+		
+# sent_id = 14		
+# text = e poi tradurli è un ca~		
+# text_en = and then translating it's a me~		
+# conversation = BOA3017		
+# speaker = BO139		
+e	and	CCONJ
+poi	then	ADV
+tradur	translate.INF	VERB
+li	3PL.ACC	PRON
+è	is	VERB
+un	INDEF:SG.M	DET
+ca	_	X
+		
+# sent_id = 15		
+# text = il fatto è che molto spesso non c' acchiappano cioè anche		
+# text_en = the thing is that often they don't get it I mean also		
+# conversation = BOA3017		
+# speaker = BO147		
+il	DEF.SG.M	DET
+fatto	fact	NOUN
+è	is	VERB
+che	that	SCONJ
+molto	very	ADV
+spesso	often	ADV
+non	NEG	NEG
+c'	LOC	PRON
+acchiappano	catch.3PL	VERB
+cioè	I.mean	ADV
+anche	also	ADV
+		
+# sent_id = 16		
+# text = poi tradurli è un casino perché cambia la lunghezza delle parole		
+# text_en = then translating it's a mess because the length of words changes		
+# conversation = BOA3017		
+# speaker = BO139		
+poi	then	ADV
+tradur	translate.INF	VERB PRO
+li	3PL.ACC	
+è	is	VERB
+un	INDEF.SG.M	DET
+casino	mess	NOUN
+perché	because	SCONJ
+cambia	change.3SG	VERB
+la	DEF:SG.F	DET
+lunghezza	length	NOUN
+delle	of:DEF:PL.F	ADP A
+parole	word:PL	NOUN

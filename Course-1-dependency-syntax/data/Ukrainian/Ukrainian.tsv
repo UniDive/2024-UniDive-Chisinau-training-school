@@ -1,0 +1,202 @@
+# students = Maria Shvedova, Arsenii Lukashevskyi					
+# mail: corpus.textiv@gmail.com					
+# language = uk (Ukrainian)					
+# description = The data is taken from the Brown Ukrainian Corpus (https://github.com/brown-uk/corpus), is available for use under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence (http://creativecommons.org/licenses/by-nc-sa/4.0/)					
+					
+# translation = Virgin steppe "Askania-Nova" is the only area of fescue-feather grass steppe in Europe that has never been touched by a plow, and it has great scientific, cultural-cognitive, and practical value.					
+1	Цілинний	цілинний	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	virgin
+2	степ	степ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	steppe
+4	Асканія-Нова	Асканія-Нова	PROPN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	Askania-Nova
+5	–	–	PUNCT	_	–
+6	єдина	єдиний	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	only
+7	в	в	ADP	_	in
+8	Європі	Європа	PROPN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	Europe
+9	ділянка	ділянка	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	area
+10	типчаково-ковилового	типчаково-ковиловий	ADJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	fescue-feather
+11	степу	степ	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	steppe
+12	,	,	PUNCT	_	,
+13	якого	який	PRON	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	which
+14	ніколи	ніколи	ADV	_	never
+15	не	не	PART	Polarity=Neg	not
+16	торкався	торкатися	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	touched
+17	плуг	плуг	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	plow
+18	,	,	PUNCT	_	,
+19	–	–	PUNCT	_	–
+20	має	мати	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	has
+21	велику	великий	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	great
+22	наукову	науковий	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	scientific
+23	,	,	PUNCT	_	,
+24	культурно-пізнавальну	культурно-пізнавальний	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	cultural-cognitive
+25	та	та	CCONJ	_	and
+26	практичну	практичний	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	practical
+27	цінність	цінність	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	value
+28	.	.	PUNCT	_	.
+					
+# text = Заповідний степ складається з трьох масивів: Північний, Південний, Великий Чапельський під, а також перелогів, де з 1966 року вивчаються процеси відновлення природної рослинності.					
+# translation = The reserved steppe consists of three minor territories: Northern, Southern, and the Great Chapelskiy lowland, as well as the fallow lands where the processes of natural vegetation restoration have been studied since 1966.					
+1	Заповідний	заповідний	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	reserved
+2	степ	степ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	steppe
+3	складається	складатися	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	consists
+4	з	з	ADP	_	of
+5	трьох	три	NUM	Case=Gen|Gender=Masc|Number=Plur	three
+6	масивів	масив	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	territories
+7	:	:	PUNCT	_	:
+8	Північний	північний	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Northern
+9	,	,	PUNCT	_	,
+10	Південний	південний	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Southern
+11	,	,	PUNCT	_	,
+12	Великий	великий	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Great
+13	Чапельський	Чапельський	PROPN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	Chapelskiy
+14	під	під	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	lowland
+15	,	,	PUNCT	_	,
+16	а	а	CCONJ	_	and
+17	також	також	ADV	_	also
+18	перелогів	перелоги	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	fallow
+19	,	,	PUNCT	_	,
+20	де	де	PRON	_	where
+21	з	з	ADP	_	since
+22	1966	1966	NUM	NumType=Ord|Case=Gen|Gender=Masc|Number=Sing	1966
+23	року	рік	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	year
+24	вивчаються	вивчатися	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	are studied
+25	процеси	процес	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	processes
+26	відновлення	відновлення	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	restoration
+27	природної	природний	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	natural
+28	рослинності	рослинність	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	vegetation
+29	.	.	PUNCT	_	.
+					
+# text = Суха мова статистики відмічає зростання тут 478 видів вищих рослин.					
+# translation = The dry language of statistics notes that 478 species of higher plants grow here.					
+1	Суха	сухий	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	dry
+2	мова	мова	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	language
+3	статистики	статистика	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	statistics
+4	відмічає	відмічати	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	notes
+5	зростання	зростання	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	growth
+6	тут	тут	ADV	_	here
+7	478	478	NUM	NumType=Card|Case=Acc	478
+8	видів	вид	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	species
+9	вищих	вищий	ADJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	higher
+10	рослин	рослина	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	plants
+11	.	.	PUNCT	_	.
+					
+					
+# text = Але вона не може передати різноманіття всіх проявів, букету запахів, притаманних лише дикому степу.					
+# translation = But it cannot convey the diversity of all the phenomena, the bouquet of scents inherent only to the wild steppe.					
+1	Але	але	CCONJ	_	but
+2	вона	вона	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3	it
+3	не	не	PART	Polarity=Neg	not
+4	може	могти	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	can
+5	передати	передати	VERB	Aspect=Perf|VerbForm=Inf	convey
+6	різноманіття	різноманіття	NOUN	Animacy=Inan|Case=Acc,Gen|Gender=Neut|Number=Sing	diversity
+7	всіх	весь	PRON	Case=Gen|Gender=Masc|Number=Plur	all
+8	проявів	прояв	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	manifestations
+9	,	,	PUNCT	_	,
+10	букету	букет	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	bouquet
+11	запахів	запах	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	scents
+12	,	,	PUNCT	_	,
+13	притаманних	притаманний	ADJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	inherent
+14	лише	лише	PART	_	only
+15	дикому	дикий	ADJ	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	wild
+16	степу	степ	NOUN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	steppe
+17	.	.	PUNCT	_	.
+					
+					
+# text = Наукове означення його досить просте і коротке: посушливий, кострицево-ковиловий.					
+# translation = Its scientific definition is quite simple and brief: arid, fescue-feather grass.					
+1	Наукове	науковий	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	scientific
+2	означення	означення	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	definition
+3	його	його	PRON	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=3	its
+4	досить	досить	ADV	_	quite
+5	просте	простий	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	simple
+6	і	і	CCONJ	_	and
+7	коротке	короткий	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	brief
+8	:	:	PUNCT	_	:
+9	посушливий	посушливий	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	arid
+10	,	,	PUNCT	_	,
+11	кострицево-ковиловий	кострицево-ковиловий	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	fescue-feather
+12	.	.	PUNCT	_	.
+					
+# text = Та степ постійно змінює своє забарвлення.					
+# translation = But the steppe is constantly changing its colors.					
+1	Та	та	CCONJ	_	but
+2	степ	степ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	steppe
+3	постійно	постійно	ADV	_	constantly
+4	змінює	змінювати	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	changes
+5	своє	свій	DET	Case=Acc|Gender=Neut|Number=Sing|Person=3	its
+6	забарвлення	забарвлення	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	coloring
+7	.	.	PUNCT	_	.
+					
+					
+# text = Загляньте сюди наприкінці квітня і побачите, як на сірому фоні минулорічної трави яскравими різнобарвними вогниками горять квіти тюльпанів, ніжною блакиттю манять півники.					
+# translation = Look here at the end of April and you will see how bright tulip flowers are glowing with multicolored lights, and irises attract with their delicate blue against the gray background of last year's grass.					
+1	Загляньте	заглянути	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	look
+2	сюди	сюди	ADV	_	here
+3	наприкінці	наприкiнцi	ADV	_	at the end
+4	квітня	квітень	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	April
+5	і	і	CCONJ	_	and
+6	побачите	побачити	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	will see
+7	,	,	PUNCT	_	,
+8	як	як	SCONJ	_	how
+9	на	на	ADP	_	on
+10	сірому	сірий	ADJ	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	gray
+11	фоні	фон	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	background
+12	минулорічної	минулорічний	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	last year's
+13	трави	трава	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	grass
+14	яскравими	яскравий	ADJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	bright
+15	різнобарвними	різнобарвний	ADJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	multicolored
+16	вогниками	вогник	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	lights
+17	горять	горіти	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	burn
+18	квіти	квітка	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	flowers
+19	тюльпанів	тюльпан	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	tulips
+20	,	,	PUNCT	_	,
+21	ніжною	ніжний	ADJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	delicate
+22	блакиттю	блакить	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	blue
+23	манять	манити	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	beckon
+24	півники	півники	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	irises
+25	.	.	PUNCT	_	.
+					
+					
+# text = Розстелить ковила українська свої перисті остюки – і степ вже хвилюється наче море.					
+# translation = The Ukrainian feather grass will spread its feathery awns, and (see,) the steppe is already waving like the sea.					
+1	Розстелить	розстелити	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	will spread
+2	ковила	ковила	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	feather grass
+3	українська	український	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	Ukrainian
+4	свої	свій	DET	Case=Acc|Gender=Masc|Number=Plur|Person=3	its
+5	перисті	перистий	ADJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	feathery
+6	остюки	остюк	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	awns
+7	–	–	PUNCT	_	–
+8	і	і	CCONJ	_	and
+9	степ	степ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	steppe
+10	вже	вже	ADV	_	already
+11	хвилюється	хвилюватися	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	waves
+12	наче	наче	SCONJ	_	like
+13	море	море	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	sea
+14	.	.	PUNCT	_	.
+					
+# text = Зацвіте льон австрійський – і земля ніби вкриється легким серпанком.					
+# translation = The Austrian flax will bloom, and the ground will seem to be covered with a light haze.					
+1	Зацвіте	зацвісти	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	will bloom
+2	льон	льон	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	flax
+3	австрійський	австрійський	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Austrian
+4	–	–	PUNCT	_	–
+5	і	і	CCONJ	_	and
+6	земля	земля	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	ground
+7	ніби	ніби	ADV	_	as if
+8	вкриється	вкритися	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	will be covered
+9	легким	легкий	ADJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	light
+10	серпанком	серпанок	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	haze
+11	.	.	PUNCT	_	.
+					
+					
+# text = Пройде ще трохи часу – і степ вже нагадує килим.					
+# translation = A little more time will pass, and the steppe already resembles a carpet.					
+1	Пройде	пройти	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	will pass
+2	ще	ще	ADV	_	more
+3	трохи	трохи	ADV	_	a little
+4	часу	час	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	time
+5	–	–	PUNCT	_	–
+6	і	і	CCONJ	_	and
+7	степ	степ	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	steppe
+8	вже	вже	ADV	_	already
+9	нагадує	нагадувати	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	resemble
+10	килим	килим	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	carpet
+11	.	.	PUNCT	_	.

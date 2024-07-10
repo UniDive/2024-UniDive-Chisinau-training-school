@@ -1,0 +1,114 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1
+# text = Τι να κάνου βρε μάνα;
+# text_en = What should I do, mom?
+# lang = Lesbian
+1	Τι	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	_	_	_	Gloss=What
+2	να	_	AUX	_	_	_	_	_	Gloss=should
+3	κάνου	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Voice=Act	_	_	_	Gloss=I do
+4	βρε	_	INTJ	_	_	_	_	_	Gloss=particle used for emphasis
+5	μάνα	_	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	Gloss=mom
+6	;	_	PUNCT	_	_	_	_	_	Gloss=?
+
+# sent_id = 2
+# text = Τα τουν κάνου;
+# text_en = What should I do with him?
+# lang = Lesbian
+1	Τα	_	PRON	_	_	_	_	_	Gloss=What should
+2	τουν	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=him|PersPronType=We
+3	κάνω	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Voice=Act	_	_	_	Gloss=I do
+4	;	_	PUNCT	_	_	_	_	_	Gloss=?
+
+# sent_id = 3
+# text = Είδι του μ-πατέρα τ'.
+# text_en = He saw his father.
+# lang = Lesbian
+1	Είδι	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=He saw
+2	του	_	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	Gloss=the
+3	μ-πατέρα	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Gloss=father
+4	τ'	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	Gloss=his
+5	.	_	PUNCT	_	_	_	_	_	Gloss=_
+
+# sent_id = 4
+# text = Mι παρούγδ'σι στουν πατέρα μ'.
+# text_en = He handed me over to my father.
+# lang = Lesbian
+1	Mι	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=Me
+2	παρούγδ'σι	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=handed over
+3	στουν	_		_	_	_	_	_	Gloss=to the
+4	πατέρα	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Gloss=father
+5	μ'	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	Gloss=my
+6	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 5
+# text = Τόσα χρόνια πιράσαν που πέθανι η γι-άντρας τ'ς κι ακόμα αχαμπλουδιμέν' η Μυρσίν.
+# text_en = So many years have passed since her husband died and Mirsini is still veiled.
+# lang = Lesbian
+1	Τόσα	_	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	_	_	_	Gloss=So
+2	χρόνια	_	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	Gloss=years
+3	πιράσαν	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=have passed
+4	που	_	SCONJ	_	_	_	_	_	Gloss=since
+5	πέθανι	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=died
+6	η	_	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	Gloss=the
+7	γι-άντρας	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Gloss=husband
+8	τ'ς	_	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	Gloss=her
+9	κι	_	CCONJ	_	_	_	_	_	Gloss=and
+10	ακόμα	_	ADV	_	_	_	_	_	Gloss=still
+11	αχαμπλουδιμέν'	_	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Gloss=vieled
+12	η	_	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	Gloss=the
+13	Μυρσίν.	_	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	Gloss=Mirsini
+14	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 6
+# text = Είδα ν-τουν άντρα μ’.
+# text_en = I saw my husband.
+# lang = Lesbian
+1	Είδα	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	Gloss=Ι saw
+2	ν-τουν	_	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	Gloss=the
+3	άντρα	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	Gloss=husband
+4	μ’	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	Gloss=my
+5	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 7
+# text = Eίνι στη δ'λειά τ'.
+# text_en = He/She/It is at his/her/its job.
+# lang = Lesbian
+1	Είνι	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Gloss=He/She/It is
+2	στη	_		_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Gloss=at the
+3	δ’λειά	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Gloss=job
+4	τ’	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	Gloss=his/her/its
+5	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 8
+# text = Ισύ λόγιαζι τη δλειά σ'.
+# text_en = Mind your business.
+# lang = Lesbian
+1	Ισύ	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=You
+2	λόγιαζι	_	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	Gloss=mind
+3	τη	_	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	Gloss=the
+4	δλειά	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Gloss=business
+5	σ'	_	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	_	_	_	Gloss=your
+6	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 9
+# text = Η Βασίλ’ς δε νταγιαντίζιτι πλ-ια.
+# text_en = Vasilis is not bearable anymore.
+# lang = Lesbian
+1	Η	_	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	Gloss=The
+2	Βασίλ’ς	_	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	Gloss=Vasilis
+3	δε	_	PART	_	_	_	_	_	Gloss=not|ParticleType=Neg
+4	νταγιαντίζιτι	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	Gloss=is bearable
+5	πλ-ια	_	ADV	_	_	_	_	_	Gloss=anymore
+6	.	_	PUNCT	_	_	_	_	_	Gloss=.
+
+# sent_id = 10
+# text = Τη φτώχεια ποιος την νταγιαντεί;
+# text_en = Who can endure poverty?
+# lang = Lesbian
+1	Τη	_	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	Gloss=The
+2	φτώχεια	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	Gloss=poverty
+3	ποιος	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int	_	_	_	Gloss=who
+4	την	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=it
+5	νταγιαντεί	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	Gloss=endure
+6	;	_	PUNCT	_	_	_	_	_	Gloss=?
+

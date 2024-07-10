@@ -1,0 +1,63 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = najia_4
+# text = Nigeria economy get as e be as many citizens dey suffer.
+1	Nigeria	_	_	_	_	_	_	_	_
+2	economy	_	_	_	_	_	_	_	_
+3	get	_	_	_	_	_	_	_	_
+4	as	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	be	_	_	_	_	_	_	_	_
+7	as	_	_	_	_	_	_	_	_
+8	many	_	_	_	_	_	_	_	_
+9	citizens	_	_	_	_	_	_	_	_
+10	dey	_	_	_	_	_	_	_	_
+11	suffer	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = najia_5
+# text = Wit 30,000 naira (£18; $22) a month, many pipo no fit afford to chop better food or live for better house.
+1	Wit	_	_	_	_	_	_	_	_
+2	30,000	_	_	_	_	_	_	_	_
+3	naira	_	_	_	_	_	_	_	_
+4	(	_	_	_	_	_	_	_	_
+5	£18	_	_	_	_	_	_	_	_
+6	;	_	_	_	_	_	_	_	_
+7	$22	_	_	_	_	_	_	_	_
+8	)	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	month	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	many	_	_	_	_	_	_	_	_
+13	pipo	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	fit	_	_	_	_	_	_	_	_
+16	afford	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	chop	_	_	_	_	_	_	_	_
+19	better	_	_	_	_	_	_	_	_
+20	food	_	_	_	_	_	_	_	_
+21	or	_	_	_	_	_	_	_	_
+22	live	_	_	_	_	_	_	_	_
+23	for	_	_	_	_	_	_	_	_
+24	better	_	_	_	_	_	_	_	_
+25	house	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = najia_6
+# text = Tomatoes and pepper na major vegetable for Nigeria wey many households dey use cook.
+1	Tomatoes	_	_	_	_	_	_	_	_
+2	and	_	_	_	_	_	_	_	_
+3	pepper	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	major	_	_	_	_	_	_	_	_
+6	vegetable	_	_	_	_	_	_	_	_
+7	for	_	_	_	_	_	_	_	_
+8	Nigeria	_	_	_	_	_	_	_	_
+9	wey	_	_	_	_	_	_	_	_
+10	many	_	_	_	_	_	_	_	_
+11	households	_	_	_	_	_	_	_	_
+12	dey	_	_	_	_	_	_	_	_
+13	use	_	_	_	_	_	_	_	_
+14	cook	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+

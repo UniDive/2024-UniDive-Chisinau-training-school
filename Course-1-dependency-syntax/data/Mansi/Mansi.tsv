@@ -1,0 +1,205 @@
+# student = Csilla Horváth			
+# mail: csilla.horvath@helsinki.fi			
+# language = mns (Mansi,  Uralic)			
+# description = Three articles from the Mansi newspaper. Morphological analysis assisted with giellatekno infrastructure.			
+			
+# sent_id = 1			
+# text = Зоя Павловна Самбиндалова Ха̄льӯс район Шайтанкат (Ялпыӈ-нёл-па̄вылт) о̄лы.			
+# text_en = Zoya Pavlovna Sambindalova lives in Shaytanka (Holy-cape-village), Berezovki rayon.			
+# lang = mns			
+Зоя Павловна Самбиндалова	Zoya Pavlovna Sambindalova	N Prop Sg Nom	
+Ха̄льӯс	Berezovo	N Prop Sg Nom	
+район	rayon	N Sg Nom	
+Шайтанкат	Shaytanka	N Prop Sg Loc	
+(		PUNCT LEFT	
+Ялпыӈ-нёл-па̄вылт	Holy-cape-village	N Prop Sg Loc	
+)		PUNCT RIGHT	
+о̄лы	live	V Act Ind Prs ScSg3	
+.		CLB	
+			
+# sent_id = 2			
+# text = Ма̄ньщи э̄ква Малеевка па̄вылт самын патыс, ётыл омаге-а̄тяге ёт Шайтанка па̄вылн ва̄нтлас.			
+# text_en = The Mansi woman was born in Maleevka village, later she moved to Shaytanka village with her parents			
+# lang = mns			
+Ма̄ньщи	Mansi	A Sg Nom	
+э̄ква	woman	N Sg Nom	
+Малеевка	Maleekva	N Prop Sg Nom	
+па̄вылт	village	N Sg Loc	
+самын патыс	born	V Act Ind Prt ScSg3	самын патуӈкве 'to be born', literally 'to fall in the eye'.
+,		CLB	
+ётыл	later	Adv	
+омаге-а̄тяге	mother-father	N Du Nom PxSg3-N Du Nom PxSg3	literally her mothers, her fathers (Dual markers indicating that they belong together)
+ёт	with	Po	
+Шайтанка	Shaytanka	N Prop Sg Nom	
+па̄вылн	village	N Sg Lat	
+ва̄нтлас	move	V Act Ind Prt ScSg3	
+.		CLB	
+			
+# sent_id = 3			
+# text = Зоя Павловна такви о̄лупсатэ ос рӯтанэ урыл ма̄ньщи газетав ма̄гсыл тох потыртас:			
+# text_en = Thus Zoya Pavlovna talked to our Mansi newspaper about her life and her relatives.			
+# lang = mns			
+Зоя Павловна 	Zoya Pavlovna	N Prop Sg Nom	
+такви 	her own	Pron Refl Sg3 Nom	
+о̄лупсатэ 	life	N Sg Nom PxSg3	
+ос	and	CC	
+рӯтанэ 	relative	N Pl Nom PxSg3	
+урыл 	about	Po	
+ма̄ньщи 	Mansi	A Sg Nom	
+газетав 	newpaper	N Sg Nom PxPl1	
+ма̄гсыл 	for	Po	
+тох 	thus	Adv	
+потыртас	talk	V Act Ind Prt ScSg3	
+:		CLB	
+			
+# sent_id = 4			
+# text = Ам омам наме Евдокия Ефимовна Лихачёва о̄лыс.			
+# text_en = My mother's name was Yevdokiya Yefimovna Likhachova.			
+# lang = mns			
+Ам 	I	Pron Pers Sg1 Nom	
+омам 	mother	N Sg Nom PxSg1	
+наме 	name	N Sg Nom PxSg3	
+Евдокия Ефимовна Лихачёва	Yevdokiya Yefimovna Likhachova	N Prop Sg Nom	
+о̄лыс	was	V Act Ind Prt ScSg3	
+.		CLB	
+			
+# sent_id = 4			
+# text = Рӯтанум Пе̄с Шайтанка па̄вылт о̄лсыт.			
+# text_en = My relatives were from the old Shaytanka villages.			
+# lang = mns			
+Рӯтанум 	Relative	N Pl Nom PxSg1	
+Пе̄с 	ancient	A	Not sure whether Пе̄с Шайтанка or Пе̄с Шайтанка па̄выл is the actual name of a village, or  calling it "old" is just descriptive. As Shaytanka is the Russian name of the settlement, I decided to analyse Пе̄с as being and adjective rather than part of the proper name.
+Шайтанка 	Shaytanka	N Prop Sg Nom	
+па̄вылт 	village	N Sg Loc	
+о̄лсыт	live	V Act Ind Prt ScPl3	
+.		CLB	
+			
+# sent_id = 5			
+# text = Ты пе̄с па̄выл Шайтанканыл ат ве̄рыстат ӯнлыс.			
+# text_en = This old village is located five kilometres form [present-day] Shaytanka.			
+# lang = mns			
+Ты 	This	Det Sg Nom	
+пе̄с 	ancient	A	
+па̄выл 	village	N Sg Nom	
+Шайтанканыл 	Shaytanka	N Prop Sg Abl	
+ат 	five	Num Sg Nom	
+ве̄рыстат	kilometer	N Sg Loc	
+ӯнлыс	sit	V Act Ind Prt ScSg3	ӯнлуӈкве lit 'to sit'
+.		CLB	
+			
+# sent_id = 6 			
+# text = Омам потырта̄лыс, Лихачёвыт Нё̄р тапал е̄рныл тыг ёхтысыт.			
+# text_en = My mother used to say that the Likhachovs came here from the other side of the Ural.			
+# lang = mns			
+Омам 	Mother	N Sg Nom PxSg1	
+потырта̄лыс	talk repeatedly	V Act Ind Prt ScSg3	
+, 		CLB	
+Лихачёвыт	Likhachovs	N Prop Pl Nom	
+Нё̄р 	Ural	N Prop Sg Nom	lit 'mountain'
+тапал 	that side	A	
+е̄рныл 	side	N Sg Abl	
+тыг 	here	Adv	
+ёхтысыт	come	V Act Ind Prt ScPl3	
+.		CLB	
+			
+# sent_id = 7			
+# text = Яныг ащōйкам Ха̄льӯс пӯпколт савалап ня̄врамыг яныгмас, тав 1846 та̄лт самын патыс.			
+# text_en = My maternal grandfather grew up the the Beryozovo church internate as an orphan, he was born in 1846.			
+# lang = mns			
+Яныг 	Big	A	Not sure whether her "great maternal grandfather" is actually her great-grandfather on the mothers side or just a maternal grandfather that was great in some respect. I've never heard anyone using this term so I decided to analyse it as A + N.
+ащōйкам 	maternal grandfather	N Sg Nom PxSg1	
+Ха̄льӯс 	Berezovo	N Prop Sg Nom	
+пӯпколт 	church	N Sg Loc	
+савалап	orphan	A	
+ня̄врамыг	child	N Sg Tra	
+яныгмас	grow up	V Act Ind Prt ScSg3	
+, 		CLB	
+тав 	he	Pron Pers Sg3 Nom	
+1846			
+та̄лт 	year	N Sg Loc	
+самын патыс	born	V Act Ind Prt ScSg3	
+.		CLB	
+			
+# sent_id = 8			
+# text = А̄тям Павел Васильевич Самбиндалов наме о̄лыс.			
+# text_en = My father's name was Pavel Vasilevich Sambindalov.			
+# lang = mns			
+А̄тям 	Father	N Sg Nom PxSg1	
+Павел Васильевич Самбиндалов 	Pavel Vasilevich Sambindalov	N Prop Sg Nom	
+наме 	name	N Sg Nom PxSg3	
+о̄лыс	was	V Act Ind Prt ScSg3	
+.		CLB	
+			
+# sent_id = 9			
+# text = О̄пам Ма̄нья-сӯнт па̄вылныл тыг ёхтыс. 			
+# text_en = My paternal grandfather came here from Manyya-sunt village			
+# lang = mns			
+О̄пам 	Paternal grandfather	N Sg Nom PxSg1	
+Ма̄нья-сӯнт 	Manyya-sunt	N Prop Sg Nom	lit. The mouth of Many-ya [Small river]
+па̄вылныл	village	N Sg Abl	
+тыг 	here	Adv	
+ёхтыс	come	V Act Ind Prt ScSg3	
+. 		CLB	
+			
+# sent_id = 10			
+# text = То̄нт, улпыл, хӯл А̄с я̄т алыщлас ос о̄луӈкве тыт хультыс.			
+# text_en = Then, apparently, he was fishing on the Ob river and remained here to live.			
+# lang = mns			
+То̄нт	then	Adv	
+, 		CLB	
+улпыл	apparently	CC	
+, 		CLB	
+хӯл 	fish	N Sg Nom	
+А̄с 	Ob	N Prop Sg Nom	
+я̄т 	river	N Sg Loc	
+алыщлас 	kill	V Act Ind Prt ScSg3	
+ос 	and	CC	
+о̄луӈкве 	to live	V Inf	
+тыт 	here	Adv	
+хультыс	remain	V Act Ind Prt ScSg3	
+.		CLB	
+			
+# sent_id = 11			
+# text = Ма̄нья-сӯнтыт о̄лнэ рӯтанув ёт а̄тям ва̄йхатас, ам иӈ ня̄врамыг о̄лсум, хунь тав та̄н палтаныл ялыс.			
+# text_en = My father knew our relatives living in Manyya-sunt, I was still a child, when he went to them.			
+# lang = mns			
+Ма̄нья-сӯнтыт 	Manyya-sunt	N Prop Sg Loc	
+о̄лнэ 	living	V PrsPrc 	
+рӯтанув	relative	N Pl Nom PxPl1	
+ёт 	with	Po	
+а̄тям	father	N Sg Nom PxSg1	
+ва̄йхатас	know each other	V Act Ind Prt ScSg3	
+, 		CLB	
+ам 	I	Pron Pers Sg1 Nom	
+иӈ 	still	Adv	
+ня̄врамыг 	child	N Sg Tra	
+о̄лсум	was	V Act Ind Prt ScSg1	
+, 		CLB	
+хунь	when	Adv	
+тав 	he	Pron Pers Sg3 Nom	
+та̄н 	they	Pron Pers Pl3 Nom	
+палтаныл 	side	Po PxPl3	
+ялыс	go	V Act Ind Prt ScSg3	lit. 'to go and return repeatedly', perhaps indicating that he was visiting them more than once.
+.		CLB	
+			
+# sent_id = 12			
+# text = Ам тай та ма̄т о̄лнэ рӯтанум щар ат ва̄щиньтасанум, нас ва̄глум, тот Самбиндаловыт о̄лэ̄гыт.			
+# text_en = I didn't really know my relatives that were living there, I only know that Sambindalovs are living there.			
+# lang = mns			
+Ам 	I	Pron Pers Sg1 Nom	
+тай 	after all	Adv	
+та 	that	Det Sg Nom	
+ма̄т 	land	N Sg Loc	
+о̄лнэ 	living	V PrsPrc 	
+рӯтанум 	relative	N Pl Nom PxSg1	
+щар 	very much	Adv	
+ат 	no	Pcle Neg	
+ва̄щиньтасанум	know 	V Act Ind Prt ScSg1 OcPl	
+, 		CLB	
+нас 	only	Attr	
+ва̄глум	know	V Act Ind Prs ScSg1 OcSg	
+, 		CLB	
+тот 	there	Adv	
+Самбиндаловыт 	Sambindalov	N Prop Pl Nom	
+о̄лэ̄гыт	live	V Act Ind Prs ScPl3	
+.		CLB	

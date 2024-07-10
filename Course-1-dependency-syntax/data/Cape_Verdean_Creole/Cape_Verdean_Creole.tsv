@@ -1,0 +1,350 @@
+# student = Andrew Dyer		
+# mail: andrew.dyer@uni-saarland.de		
+# language = kea (Cape Verdean Creole / Kabuverdianu)		
+# description = Data from The Atlas of Pidgin and Creole Structures Online (APICS), Structure dataset 32: Cape Verdean Creole of São Vicente, based on data compiled by Dominika Swolkien, Universidade de Cabo Verde.		
+# url = https://apics-online.info/contributions/32		
+		
+		
+# sent_id = 1		
+# text = Na nha prinsip, koza k N gostá d'fazê senpr péska, senpr péska.		
+# translation = A thing I liked to do from the very beginning was always fishing, always fishing.		
+# speaker = PJL		
+1	Na	PREP
+2	nha	POSS
+3	prinsip	beginning
+4	,	PUNCT
+5	koza	thing
+6	k	REL
+7	N	1.SG
+8	gostá	like
+9	d'	PREP
+10	fazê	do
+11	senpr	always
+12	péska	fishing
+13	,	PUNCT
+14	senpr	always
+15	péska	fishing
+16	.	PUNCT
+		
+		
+# sent_id = 2		
+# text = Agóra, N te ben kontá ots koza tanbê fóra péska.		
+# translation = Now, I will also tell about other things, apart from fishing.		
+# speaker = PJL		
+1	Agóra	now
+2	,	PUNCT
+3	N	1.SG
+4	te	PRS
+5	ben	come
+6	kontá	tell
+7	ots	other.PL
+8	koza	thing
+9	tanbê	also
+10	fóra	outside
+11	péska	fishing
+12	.	PUNCT
+		
+		
+# sent_id = 3		
+# text = Na prinsip, de nha trabói ke nos mai tá inximá-nos éra katá páia, katá bósta - bo sabê kze ke e bósta, bósta d'váka?		
+# translation = In the beginning of my work, what our mother used to teach us was picking up straw, manure - do you know what manure is, cow's manure?		
+# speaker = PJL		
+1	Na	PREP
+2	prinsip	beginning
+3	,	PUNCT
+4	de	PREP
+5	nha	POSS
+6	trabói	work
+7	ke	REL
+8	nos	our
+9	mai	mother
+10	tá	PST.HAB
+11-12	inximá-nos	
+11	inximá	teach
+12	nos	1.PL
+13	éra	COP.PST
+14	katá	pick_up
+15	páia	straw
+16	,	PUNCT
+17	katá	pick_up
+18	bósta	manure
+19	-	PUNCT
+20	bo	2.SG
+21	sabê	know
+22	kze	what
+23	ke	COMP
+24	e	COP
+25	bósta	manure
+26	,	PUNCT
+27	bósta	manure
+28	d'	PREP
+29	váka	cow
+30	?	PUNCT
+		
+		
+#sent_id = 4		
+# text = Vendê pex, vendê lenha.		
+# translation = Selling fish, selling wood.		
+# speaker = PJL		
+1	Vendê	sell
+2	pex	fish
+3	vendê	sell
+4	lenha	wood
+5	.	PUNCT
+		
+		
+# sent_id = 5		
+# text = Tud es koza no tá fazê, katá, bá vendê na moráda.		
+# translation = Picking it up, going and selling it in the city, all these things we used to do.		
+# speaker = PJL		
+1	Tud	all
+2	es	DEM.PL
+3	koza	thing
+4	no	1.PL
+5	tá	PST.HAB
+6	fazê	do
+7	,	PUNCT
+8	katá	pick_up
+9	,	PUNCT
+10	bá	go
+11	vendê	sell
+12	na	PREP
+13	moráda	city
+14	.	PUNCT
+		
+		
+# sent_id = 6		
+# text = Má tontê k bosê tá vendê?		
+# translation = But for how much did you sell it?		
+# speaker = LL		
+1	Má	but
+2	tontê	how_much
+3	k	COMP
+4	bosê	2.SG
+5	tá	PST.HAB
+6	vendê	sell
+7	?	PUNCT
+		
+		
+# sent_id = 7		
+# text = K manera k bo tá vendê?		
+# translation = How did we sell it?		
+# speaker = PJL		
+1	K	what
+2	manera	way
+3	k	COMP
+4	bo	2.SG
+5	tá	PST.HAB
+6	vendê	sell
+7	?	PUNCT
+		
+		
+# sent_id = 8		
+# text = Uh huh…		
+# translation = Uh huh…		
+# speaker = LL		
+1	Uh	TAG
+2	huh	TAG
+3	…	PUNCT
+		
+		
+# sent_id = 9		
+# text = Éra fazid un montin na txon, dez toston kada montin, sin.		
+# translation = It was to make a little hill on the ground, ten toston each, yes.		
+# speaker = PJL		
+1	Éra	COP.PST
+2	fazid	make.PTCP
+3	un	DET
+4	montin	hill.little
+5	na	on
+6	txon	ground
+7	,	PUNCT
+8	dez	ten
+9	toston	toston(colonial_currency)
+10	kada	each
+11	montin	hill.little
+12	,	PUNCT
+13	sin	yes
+14	.	PUNCT
+		
+		
+# sent_id = 10		
+# text = Y mas uke bosê táva fazê para alén de...		
+# translation = And what else were you doing apart from...		
+# speaker = LL		
+1	Y	and
+2	mas	more
+3	uke	what
+4	bosê	2.SG
+5	táva	PST.HAB
+6	fazê	do
+7	para	apart
+8	alén	PREP
+9	de	PREP
+10	...	PUNCT
+		
+		
+# sent_id = 11		
+# text = Dpos enton N ben te kriá, N ben pô na vida d’már.		
+# translation = Later then I grew up and I entered the sea life.		
+# speaker = PJL		
+1	Dpos	later
+2	enton	then
+3	N	1.SG
+4	ben	come
+5	te	PROG
+6	kriá	grow_up
+7	,	PUNCT
+8	N	1.SG
+9	ben	come
+10	pô	put
+11	na	PREP
+12	vida	life
+13	d’	PREP
+14	már	sea
+15	.	PUNCT
+		
+		
+# sent_id = 12		
+# text = A bosê enton ka bá pa skóla, ne?		
+# translation = You didn’t go to school then, did you?		
+# speaker = LL		
+1	A	already
+2	bosê	2.SG
+3	enton	then
+4	ka	NEG
+5	bá	go
+6	pa	to
+7	skóla	school
+8	,	PUNCT
+9	ne	TAG
+10	?	PUNCT
+		
+		
+# sent_id = 13		
+# text = Nau, N bá pa skóla, N tiv dos óne d'skola.		
+# translation = No, I went to school; I had two years of schooling.		
+# speaker = PJL		
+1	Nau	no
+2	,	PUNCT
+3	N	1.SG
+4	bá	go
+5	pa	to
+6	skóla	school
+7	,	PUNCT
+8	N	1.SG
+9	tiv	had
+10	dos	two
+11	óne	year
+12	d'	PREP
+13	skola	school
+14	.	PUNCT
+		
+		
+# sent_id = 14		
+# text = Kze k N fazê, N fazê so nha primera klás, fui so.		
+# translation = What I did was to complete only my first grade, it was only this.		
+# speaker = PJL		
+1	Kze	what
+2	k	COMP
+3	N	1.SG
+4	fazê	do
+5	,	COMMA
+6	N	1.SG
+7	fazê	do
+8	so	only
+9	nha	1.SG.POSS
+10	primera	first
+11	klás	grade
+12	,	COMMA
+13	fui	COP
+14	so	only
+15	.	PUNCT
+		
+		
+# sent_id = 15		
+# text = Y manera k e vida d’péska?		
+# translation = And how is the life of fishing?		
+# speaker = LL		
+1	Y	and
+2	manera	way
+3	k	COMP
+4	e	COP
+5	vida	life
+6	d’	PREP
+7	péska	fishing
+8	?	PUNCT
+		
+		
+# sent_id = 16		
+# text = Vida d’péska na prinsip fui … éra grand koza, na prinsip.		
+# translation = At the beginning the life of fishing was a big thing, in the beginning.		
+# speaker = PJL		
+1	Vida	life
+2	d’	PREP
+3	péska	fishing
+4	na	PREP
+5	prinsip	beginning
+6	fui	COP.PST
+7	…	PUNCT
+8	éra	COP.PST
+9	grand	big
+10	koza	thing
+11	,	COMMA
+12	na	PREP
+13	prinsip	beginning
+14	.	PUNCT
+		
+		
+# sent_id = 17		
+# text = Agóra péska ka ta dá k pex … ta un bokód pok.		
+# translation = But nowadays fishing isn't lucrative because the fish are a little scarce.		
+# speaker = PJL		
+1	Agóra	now
+2	péska	fishing
+3	ka	NEG
+4	ta	PRS.HAB
+5	dá	give
+6	k	COMP
+7	pex	fish
+8	…	PUNCT
+9	ta	COP
+10	un	DET
+11	bokód	little
+12	pok	little
+13	.	PUNCT
+		
+		
+# sent_id = 18		
+# text = Má tud jent te dzê purke un ves tinha mas pex agó ten pok.		
+# translation = But everybody says that in past times there were a lot of fish and now there are few.		
+# speaker = LL		
+1	Má	but
+2	tud	all
+3	jent	people
+4	te	PRS.HAB
+5	dzê	say
+6	purke	because
+7	un	DET
+8	ves	time
+9	tinha	had
+10	mas	more
+11	pex	fish
+12	agó	now
+13	ten	have
+14	pok	little
+15	.	PUNCT
+		
+		
+# sent_id = 19		
+# text = Má modke, gó ten mas peskador?		
+# translation = But why, are there more fishermen now?		
+# speaker = LL		
+1	Má	but
+2	modke	why
+3	,	PUNCT
+4	gó	now
+5	ten	have
+6	mas	more
+7	peskador	fisherman
+8	?	PUNCT

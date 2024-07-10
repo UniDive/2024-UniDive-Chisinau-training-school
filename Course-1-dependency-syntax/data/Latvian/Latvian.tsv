@@ -1,0 +1,200 @@
+# student = Agute Klints		
+# mail: agute.klints@gmail.com		
+# language = lv (Latvian)		
+# description = Source text published in Wikipedia		
+		
+# sent_id = 1		
+# text = Pirts ir telpa vai celtne, kas paredzēta cilvēka ķermeņa mazgāšanai (tīrīšanai) ar vienlaicīgu vai pamīšus ūdens un karsta gaisa vai tvaika iedarbību.		
+# text_en = Sauna is a room or a building designed to wash (clean) the human body with simultaneous or alternating exposure to water and hot air or steam.		
+# lang = lv		
+Pirts	sauna	NOUN
+ir	be	AUX
+telpa	room	NOUN
+vai	or	CCONJ
+celtne	building	NOUN
+,	,	PUNCT
+kas	that	PRON
+paredzēta	designe	VERB
+cilvēka	human	NOUN
+ķermeņa	body	NOUN
+mazgāšanai	washing	NOUN
+(	(	PUNCT
+tīrīšanai	cleaning	NOUN
+)	)	PUNCT
+ar	with	ADP
+vienlaicīgu	simultaneous	ADJ
+vai	or	CCONJ
+pamīšus	alternating	ADV
+ūdens	water	NOUN
+un	and	CCONJ
+karsta	hot	ADJ
+gaisa	air	NOUN
+vai	or	CCONJ
+tvaika	steam	NOUN
+iedarbību	exposure	NOUN
+.	.	PUNCT
+		
+# sent_id = 2		
+# text = Pirts kā procedūra ir ķermeņa pakļaušana augstai temperatūrai ar mērķi izsaukt svīšanu.		
+# text_en = A sauna as a procedure is exposing the body to high temperatures for the purpose of summoning sweats.		
+# lang = lv		
+Pirts	sauna	NOUN
+kā	as	SCONJ
+procedūra	procedure	NOUN
+ir	be	AUX
+ķermeņa	body	NOUN
+pakļaušana	exposing	NOUN
+augstai	high	ADJ
+temperatūrai	temperature	NOUN
+ar	with	ADP
+mērķi	purpose	NOUN
+izsaukt	summon	VERB
+svīšanu	sweating	NOUN
+.	.	PUNCT
+		
+# sent_id = 3		
+# text = Ar sviedriem no organisma tiek izvadītas nevajadzīgas vielas.		
+# text_en = With sweat, unnecessary substances are removed from the body.		
+# lang = lv		
+Ar	with	ADP
+sviedriem	sweat	NOUN
+no	from	ADP
+organisma	body	NOUN
+tiek	-	AUX
+izvadītas	remove	VERB
+nevajadzīgas	unnecessary	ADJ
+vielas	substance	NOUN
+.	.	PUNCT
+		
+# sent_id = 4		
+# text = Karstums kalpo arī kā muskuļus atslābinošs un muskuļu sāpes remdējošs līdzeklis.		
+# text_en = Heat also serves as a muscle relaxing and muscle pain relief.		
+# lang = lv		
+Karstums	heat	NOUN
+kalpo	serve	VERB
+arī	also	PART
+kā	as	SCONJ
+muskuļus	muscle	NOUN
+atslābinošs	relax	VERB
+un	and	CCONJ
+muskuļu	muscle	NOUN
+sāpes	pain	NOUN
+remdējošs	soothe	VERB
+līdzeklis	aid	NOUN
+.	.	PUNCT
+		
+# sent_id = 5		
+# text = Izšķir sausās pirtis, kas radušās pagājušajā gadsimtā, un slapjās jeb tvaika pirtis, kuru kopējās vēsturiskās saknes meklējamas gan Somijā, gan Krievijā, gan Baltijā.		
+# text_en = A distinction is drawn between dry baths, which originated in the last century, and wet or steam baths, whose common historical roots are found in Finland, Russia and the Baltics.		
+# lang = lv		
+Izšķir	separate	VERB
+sausās	dry	ADJ
+pirtis	sauna	NOUN
+,	,	PUNCT
+kas	which	PRON
+radušās	originate	VERB
+pagājušajā	last	VERB
+gadsimtā	century	NOUN
+,	,	PUNCT
+un	and	CCONJ
+slapjās	wet	ADJ
+jeb	or	CCONJ
+tvaika	steam	NOUN
+pirtis	sauna	NOUN
+,	,	PUNCT
+kuru	which	PRON
+kopējās	common	ADJ
+vēsturiskās	historical	ADJ
+saknes	root	NOUN
+meklējamas	search	VERB
+gan		CCONJ
+Somijā	Finland	PROPN
+,	,	PUNCT
+gan		CCONJ
+Krievijā	Russia	PROPN
+,	,	PUNCT
+gan		CCONJ
+Baltijā	Baltics	PROPN
+.	.	PUNCT
+		
+# sent_id = 6		
+# text = Sausās un slapjās pirts galvenā atšķirība ir gaisa temperatūrā un gaisa mitrumā.		
+# text_en = The main difference between dry and wet sauna is in air temperature and air humidity.		
+# lang = lv		
+Sausās	dry	ADJ
+un	and	CCONJ
+slapjās	wet	ADJ
+pirts	sauna	NOUN
+galvenā	main	ADJ
+atšķirība	difference	NOUN
+ir	be	AUX
+gaisa	air	NOUN
+temperatūrā	temperature	NOUN
+un	and	CCONJ
+gaisa	air	NOUN
+mitrumā	humidity	NOUN
+.	.	PUNCT
+		
+# sent_id = 7		
+# text = Pirts ir sena cilvēku higiēnas sastāvdaļa.		
+# text_en = Sauna is an ancient part of human hygiene.		
+# lang = lv		
+Pirts	sauna	NOUN
+ir	be	AUX
+sena	ancient	ADJ
+cilvēku	human	NOUN
+higiēnas	hygiene	NOUN
+sastāvdaļa	part	NOUN
+.	.	PUNCT
+		
+# sent_id = 8		
+# text = Tiek uzskatīts, ka komfortablas pirtis cēluši jau senajā Indijā, Ķīnā, Ēģiptē.		
+# text_en = Comfortable baths are believed to have been built in ancient India, China, Egypt.		
+# lang = lv		
+Tiek	-	AUX
+uzskatīts	believe	VERB
+,	,	PUNCT
+ka	that	SCONJ
+komfortablas	comfortable	ADJ
+pirtis	sauna	NOUN
+cēluši	build	VERB
+jau	already	ADV
+senajā	ancient	ADJ
+Indijā	India	PROPN
+,	,	PUNCT
+Ķīnā	China	PROPN
+,	,	PUNCT
+Ēģiptē	Egypt	PROPN
+.	.	PUNCT
+		
+# sent_id = 9		
+# text = Senajā Grieķijā Hipokrats pusei pacientu esot izrakstījis pirts procedūras.		
+# text_en = In ancient Greece, Hippocrates allegedly prescribed baths to half of his patients.		
+# lang = lv		
+Senajā	ancient	ADJ
+Grieķijā	Greece	PROPN
+Hipokrats	Hippocrates	PROPN
+pusei	half	NOUN
+pacientu	patient	NOUN
+esot	be	AUX
+izrakstījis	prescribe	VERB
+pirts	sauna	NOUN
+procedūras	procedure	NOUN
+.	.	PUNCT
+		
+# sent_id = 10		
+# text = Pirtis bija ne tikai higiēnisks, bet arī sociāls kultūras elements.		
+# text_en = As well as being hygienic, baths were also a social cultural element.		
+# lang = lv		
+Pirts	sauna	NOUN
+bija	be	AUX
+ne	not	PART
+tikai	only	PART
+higiēnisks	hygienic	ADJ
+,	,	PUNCT
+bet	but	CCONJ
+arī	also	PART
+sociāls	social	ADJ
+kultūras	cultural	NOUN
+elements	element	NOUN
+.	.	PUNCT

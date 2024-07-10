@@ -1,0 +1,265 @@
+# student = Siriluck Rattananiyomkul			
+# mail: leky40@hotmail.com			
+# language = tha (Standard Thai)			
+# description = Source text from 3 paragraphs of a Thai article about health from one Thai newspaper website			
+			
+# sent_id = 1			
+# text = เพราะร่างกายคนเราไม่เหมือนเครื่องยนต์ อวัยวะของเรามีความสัมพันธ์กัน 			
+# text_en = Because our body is not like an engine, our organs are related to each other.			
+# lang = tha			
+เพราะ	because	SCONJ	
+ร่างกาย	body	NOUN	
+คน	person	NOUN	
+เรา	we	PRON	
+ไม่	not	PART	
+เหมือน	be-like	VERB / ADJ	
+เครื่องยนต์	engine	NOUN	
+อวัยวะ	organ	NOUN	
+ของ	of	ADP	
+เรา	we	PRON	
+มี	have	VERB	
+ความ	(nominalizer)	NOUN	
+สัมพันธ์	be-related	VERB	
+กัน	together	ADV	
+			
+			
+			
+			
+			
+			
+# sent_id = 2			
+# text = เจ็บจุดหนึ่งอาจส่งผลต่ออวัยวะส่วนอื่น เช่น ล้มแล้วกระดูกสะโพกหัก หรือศีรษะแตกเลือดออกในสมอง นำมาสู่ภาวะทุพพลภาพ			
+# text_en = Hurting one organ may affect other organs, such as hip fractures, or bleeding in a brain for skull fractures causing a disabled condition.			
+# lang = tha			
+เจ็บ	hurt	VERB	
+จุด	point	NOUN	
+หนึ่ง	one	NUM	
+อาจ	may	AUX	
+ส่ง	send	VERB	
+ผล	result	NOUN	
+ต่อ	to	ADP	
+อวัยวะ	organ	NOUN	
+ส่วน	part	NOUN	
+อื่น	other	ADJ	
+เช่น	for-example	ADP	
+ล้ม	fall	VERB	
+แล้ว	already	ADV	
+กระดูก	bone	NOUN	
+สะโพก	hip	NOUN	
+หัก	break	VERB	
+หรือ	or 	CCONJ	
+ศีรษะ	head	NOUN	
+แตก	break / split	VERB	
+เลือด	blood	NOUN	
+ออก	out	VERB	
+ใน	in	ADP	
+สมอง	brain	NOUN	
+นำ	bring	VERB	
+มา	come	VERB	
+สู่	toward	VERB	
+ภาวะ	condition	NOUN	
+ทุพพลภาพ	disabled	ADJ	
+			
+# sent_id = 3			
+# text = ปัจจุบันประเทศไทยได้เข้าสู่สังคมผู้สูงอายุแบบสมบูรณ์ (Aged Society) 			
+# text_en = At present, Thailand has approached the ageing society completely.			
+# lang = tha			
+ปัจจุบัน	present	NOUN	
+ประเทศ	country	NOUN	
+ไทย	Thai	PROPN	
+ได้	(expressing the past time)	AUX	
+เข้า	enter	VERB	
+สู่	toward	ADP	
+สังคม	society	NOUN	
+ผู้	person	NOUN	
+สูงอายุ	aged	ADJ	
+แบบ	form / pattern	NOUN	
+สมบูรณ์	be-complete / perfect	VERB / ADJ	
+(		PUNCT	
+Aged		ADJ	
+Society		NOUN	
+)		PUNCT	
+			
+# sent_id = 4			
+# text = ผู้สูงอายุนับเป็น 18.94% ของประชากรทั้งหมด 			
+# text_en =  Older people comprise 18.94 % of the entire population.			
+# lang = tha			
+ผู้	person	NOUN	
+สูงอายุ	aged	ADJ	
+นับ	regard	VERB	
+เป็น	BE	ADP	
+18.94		NUM	
+%		PUNCT	
+ของ	of	ADP	
+ประชากร	population	NOUN	
+ทั้งหมด	all	ADJ	
+			
+# sent_id = 5			
+# text = และมีแนวโน้มที่จะเพิ่มมากขึ้นในทุกๆ ปี 			
+# text_en = And there is a tendency to be incresed greatly in every year.			
+# lang = tha			
+และ	and	CCONJ	
+มี	have	VERB	
+แนวโน้ม	tendency	NOUN	
+ที่	which	PRON	
+จะ	will	AUX	
+เพิ่ม	increase	VERB	
+มาก	very	ADV	
+ขึ้น	up	ADV	
+ใน	in	ADP	
+ทุก	every	DET	(quantifier)
+ๆ	(Thai punctuation for repeating)	PUNCT	
+ปี	year	NOUN	
+			
+# sent_id = 6			
+# text = ดังนั้น การทำความเข้าใจและเตรียมตัวเพื่อใช้ชีวิตอยู่ในสังคมผู้สูงอายุอย่างมีคุณภาพ จึงเป็นเรื่องสำคัญ			
+# text_en = Therefore, understanding and self-preparing to live in the ageing society with qualities are important.			
+# lang = tha			
+ดังนั้น	thereby	ADV	
+การ	(nominalizer)	NOUN	
+ทำ	make	VERB	
+ความ	(nominalizer)	NOUN	
+เข้าใจ	understand	VERB	
+และ	and	CCONJ	
+เตรียมตัว	prepare	VERB	
+เพื่อ	for	ADP	
+ใช้	use	VERB	
+ชีวิต	life	NOUN	
+อยู่	stay	VERB	
+ใน	in	ADP	
+สังคม	society	NOUN	
+ผู้	person	NOUN	
+สูงอายุ	aged	ADJ	
+อย่าง	method / way	NOUN	
+มี	have	VERB	
+คุณภาพ	quality	NOUN	
+จึง	therefore /then	ADV	
+เป็น	BE	AUX	
+เรื่อง	story	NOUN	
+สำคัญ	important	ADJ	
+			
+# sent_id = 7			
+# text = หากพูดถึงสังคมผู้สูงอายุแล้ว สิ่งหนึ่งที่หลีกหนีไม่ได้คือเรื่องสุขภาพ 			
+# text_en = If we talk about the ageing society, one thing which we cannot avoid is health.			
+# lang = tha			
+หาก	if	SCONJ	
+พูด	speak	VERB	
+ถึง	to	ADP	
+สังคม	society	NOUN	
+ผู้	person	NOUN	
+สูงอายุ	aged	ADJ	
+แล้ว	then	ADV	
+สิ่ง	thing	NOUN	
+หนึ่ง	one	NUM	
+ที่	which	PRON	
+หลีก	avoid	VERB	
+หนี	escape	VERB	
+ไม่	not	PART	
+ได้	can	VERB	
+คือ	that is	CCONJ	
+เรื่อง	story	NOUN	
+สุขภาพ	health	NOUN	
+			
+# sent_id = 8			
+# text = ซึ่งนอกจากการรักษาและป้องกันโรคแล้ว การล้มในผู้สูงอายุเกิดขึ้นง่าย ใกล้ตัว และรุนแรงกว่าที่เราคิด เพราะฉะนั้นจึงควรทำความเข้าใจถึงสาเหตุและเตรียม พร้อมป้องกัน “การหกล้ม” ในผู้สูงอายุ 			
+# text_en = Apart from cure and prevention,  falls in oler people happen easily, very often, and  more severely than we expect. Therefore, we should understand what causes falls and what we should prepare to prervent falls in older people promptly.			
+# lang = tha			
+ซึ่ง		PART	
+นอกจาก	apart from	ADP	
+การ	(nominalizer)	NOUN	
+รักษา	heal	VERB	
+และ	and	CCONJ	
+ป้องกัน	protect	VERB	
+โรค	diesease	NOUN	
+แล้ว	then	ADV	
+การ	(nominalizer)	NOUN	
+ล้ม	fall	VERB	
+ใน	in	ADP	
+ผู้	person	NOUN	
+สูงอายุ	aged	ADJ	
+เกิด	happen	VERB	
+ขึ้น	(placed after a word to stress the meaning of the preceding word)	ADV	
+ง่าย	easy	ADV	
+ใกล้ตัว	every time onne turns around	ADV	
+และ	and	CCONJ	
+รุนแรง	severe	ADV	
+กว่า	than	ADP	
+ที่	what	PRON	
+เรา	we	PRON	
+คิด	think	VERB	
+เพราะฉะนั้น	therefore	SCONJ	
+จึง	then	ADV	
+ควร	should	AUX	
+ทำ	make	VERB	
+ความ	(nominalizer)	NOUN	
+เข้าใจ	understand	VERB	
+ถึง	to	ADP	
+สาเหตุ	cause	NOUN	
+และ	and	CCONJ	
+เตรียม	prepare	VERB	
+พร้อม	ready	ADV	
+ป้องกัน	protect	VERB	
+"		PUNCT	
+การ	(nominalizer)	NOUN	
+หกล้ม	fall	VERB	
+"		PUNCT	
+ใน	in	ADP	
+ผู้	person	NOUN	
+สูงอายุ	aged	ADJ	
+			
+			
+			
+# sent_id = 9			
+# text = การพลัดตกหกล้มถือเป็นอุบัติเหตุที่พบบ่อย อีกทั้งยังมีความรุนแรงมากกว่าในคนทั่วไป ทำให้เกิดผลกระทบอวัยวะอื่น รวมถึงกระทบการใช้ชีวิตประจำวันของสมาชิกในครอบครัว ที่ต้องแบ่งเวลามาดูแลผู้สูงอายุอย่างใกล้ชิดขึ้น			
+# text_en = Tumbles and falls in older people are considered the accidents which can be encountered often. They are also much more severe than in younger people. The accidents can affect the older people's body organs, including the way their family members live their lives each day owing to the necessity for paying their more close attention to the older people.			
+# lang = tha			
+การ	(nominalizer)	NOUN	
+พลัด	tumble	VERB	
+ตก	fall	VERB	
+หกล้ม	fall	VERB	
+ถือ	consider	VERB	
+เป็น	BE	ADP	
+อุบัติเหตุ	accident	NOUN	
+ที่	which	PRON	
+พบ	find	VERB	
+บ่อย	often	ADV	
+อีก	again	ADV	
+ทั้ง	also	ADV	
+ยัง	still	SCONJ	
+มี	have	VERB	
+ความ	(nominalizer)	NOUN	
+รุนแรง	severe	VERB	
+มาก	very	ADV	
+กว่า	than	ADV	
+ใน	in	ADP	
+คน	person	NOUN	
+ทั่วไป	common	ADJ	
+ทำให้	cause	VERB	
+เกิด	happen 	VERB	
+ผล	rersult	NOUN	
+กระทบ	affect	VERB	
+อวัยวะ	organ	NOUN	
+อื่น	other	ADJ	
+รวม	include	VERB	
+ถึง	to	ADP	
+กระทบ	affect	VERB	
+การ	(nominalizer)	NOUN	
+ใช้	use	VERB	
+ชีวิต	life	NOUN	
+ประจำ	regular	ADP	
+วัน	day	NOUN	
+ของ	of	ADP	
+สมาชิก	member	NOUN	
+ใน	in	ADP	
+ครอบครัว	family	NOUN	
+ที่	which	PRON	
+ต้อง	must	AUX	
+แบ่ง	divide	VERB	
+เวลา	time	NOUN	
+มา	come	VERB	
+ดูแล	take care	VERB	
+ผู้	person	NOUN	
+สูงอายุ	aged	ADJ	
+อย่าง	method / way	NOUN	
+ใกล้ชิด	close / intimate	ADJ	
+ขึ้น	(placed after a word to stress the meaning of the preceding word)	ADV	

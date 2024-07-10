@@ -1,0 +1,161 @@
+# student = Enriketa Sogutlu			
+# mail: esogutlu@beder.edu.al			
+# language = sqi (Albanian)			
+#description = Source text published in wikipedia                			
+			
+# sent_id = 1			
+# text = Me poezinë e tij lirike dhe epike Naim Frashëri u bë poeti kombëtar i popullit shqiptar.			
+# text_en = With his lyric and epic poetry Naim Frashëri became Albanian people's national poet.			
+# lang = sqi			
+me	with	ADP	Case=Acc
+poezinë	poetry	NOUN	Case=Acc|Definite=Def |Gender=Fem|Number=Sing
+e		DET	Gender=Fem|Number=Sing|Det=poss
+tij	his	PRON	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs
+Naim	Naim	PROPN	Case=Nom|Definite=Ind |Gender=Masc|Number=Sing
+Frashëri	Frashëri	PROPN	Case=Nom
+u		AUX	Tense=Past
+bë	became	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act
+poeti	poet	NOUN	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+kombëtar	national	ADJ	Gender=Masc|Number=Sing
+i	of	DET	Gender=Masc |Number=Sing
+popullit	people	NOUN	Case=Gen|Definite=Def |Gender=Masc|Number=Sing
+shqiptar	Albanian	ADJ	Gender=Masc|Number=Sing
+.	.	PUNCT	
+			
+# sent_id = 2			
+# text = Veprat në gjuhën shqipe filloi t'i botonte në vitin 1886.			
+# text_en = He started to publish his work in the Albanian language in the year 1886.			
+# lang = sqi			
+veprat	works	NOUN	Case=Acc|Definite=Def |Gender=Fem|Number=Plur
+në	in	ADP	Case=Acc
+gjuhën	language	NOUN	Case=Acc|Definite=Def |Gender=Fem|Number=Sing
+shqipe	albanian	ADJ	Gender=Fem|Number=Sing
+filloi	started	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act
+t'	to	PART	
+i		PRON	Case=Acc|Gender=Fem|Number=Plur
+botonte	publish	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act
+në	in	ADP	Case=Acc
+vitin	year	NOUN	Case=Acc|Definite=Def |Gender=Masc|Number=Sing
+1886	1886	NUM	
+.	.	PUNCT	
+			
+# sent_id = 3			
+# text = Tema patriotike nuk ishte më në qendër të letërsisë.			
+# text_en = The patriotic theme was no longer at the center of literature.			
+# lang = al			
+tema	theme	NOUN	Case=Nom|Definite=Def |Gender=Fem|Number=Sing
+patriotike	patriotic	ADJ	Gender=Fem|Number=Sing
+nuk	no	PART	Neg=True
+ishte	be	COP	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act
+më	longer	PART	
+në	in	ADP	Case=Acc
+qendër	center	NOUN	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing
+të	of	DET	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing
+letërsisë	literature	NOUN	Case=Gen|Definite=Def |Gender=Fem|Number=Sing
+.	.	PUNCT	
+			
+# sent_id = 4			
+# text = La gjurmë të thella.			
+# text_en = He left deep traces.			
+# lang = al			
+la	left	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act
+gjurmë	traces	NOUN	Case=Acc|Definite=Ind |Gender=Fem|Number=Plur
+të		DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|Det=Adj
+thella	DEEP	ADJ	Gender=Fem|Number=Plur
+.	.	PUNCT	
+			
+# sent_id = 5			
+# text = Në Shqipëri u shfaqën talente të reja në poezi.			
+# text_en = New talents in poetry appeared in Albania			
+# lang = al			
+në	in	ADP	
+shqipëri	albania	PROPN	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing
+u		AUX	
+shfaqën	appeared	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act
+talente	talents	NOUN	Case=Nom|Definite=Ind |Gender=Fem|Number=Plur
+të		DET	Case=Nom|Deinite=Ind|Gender=Masc|Number=Plur|Det=Adj
+reja	new	ADJ	Gender=Masc|Number=Plur
+			
+# sent_id = 6			
+# text = Ai u bë përfaqësuesi kryesor i letërsisë shqipe dhe shkrimtar i rëndësishëm botëror.			
+# text_en = He became the main representative of Albanian literature and an important world writer.			
+# lang = al			
+ai	he	PRON	Case=Nom|Gender=Masc|Number=Sing|Pers=3|PronType=Pers
+u		AUX	
+bë	became	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act
+përfaqësuesi	representative	NOUN	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+kryesor	main	ADJ	Gender=Masc|Number=Sing
+i	of	DET	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+letërsisë	literature	NOUN	Case=Gen|Definite=Def |Gender=Fem|Number=Sing
+shqipe	albanian	ADJ	Gender=Fem
+dhe	and	CCONJ	
+shkrimtar	writer	NOUN	Case=Nom|Definite=Ind |Gender=Masc|Number=Sing
+i		DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Det=Adj
+rëndësishëm	important	ADJ	Gender=Masc|Number=Sing
+botëror	world	ADJ	Gender=Masc|Number=Sing
+.	.	PUNCT	
+			
+# sent_id = 7			
+# text = Brezi i ri i shkrimtarëve solli një frymë të re realiste.			
+# text_en = The new generation of writers brought a new realistic spirit.			
+# lang = al			
+brezi	generation	NOUN	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+i		DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Det=Adj
+ri	new	ADJ	Gender=Masc|Number=Sing
+i	of	DET	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+shkrimtarëve	writers	NOUN	Case=Gen|Definite=Def |Gender=Masc|Number=Plur
+solli	brought	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act
+një	a	DET	Gender=Fem
+frymë	spirit	NOUN	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing
+të		DET	Case=Acc|Definite=Ind |Gender=Fem|Number=Sing|Det=adj
+re	new	ADJ	Gender=Fem|Number=Sing
+realiste	realistic	ADJ	Gender=Fem|Number=Sing
+.		PUNCT	
+			
+# sent_id = 8			
+# text = Librat e tij janë përkthyer në shumë gjuhë.			
+# text_en = His books have been translated into many languages.			
+# lang = al			
+librat	books	NOUN	Case=Nom|Definite=Def |Gender=Masc|Number=Plur
+e		DET	Case=Nom|Definite=Def |Gender=Masc|Number=Plur
+tij	his	PRON	Case=Nom|Gender=Masc|Number=Plur|PronType=Poss
+janë	have_been	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass
+përkthyer	translated	VERB	VerbForm=Part
+në	into	ADP	Case=Acc
+shumë	many	DET	Number=Plur
+gjuhë	languages	NOUN	Case=Acc|Definite=Ind |Gender=Fem|Number=Plur
+.	.	PUNCT	
+			
+# sent_id = 9			
+# text = Arsimi është procesi i përvetësimit të njohurive, aftësive, vlerave, besimeve dhe zakoneve.			
+# text_en = Education is the process of acquiring knowledge, skills, values, beliefs and habits.			
+# lang = al			
+arsimi	education	NOUN	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+është	be	COP	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act
+procesi	process	NOUN	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+i	of	DET	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+përvetësimit	acquiring	NOUN	Case=Gen|Definite=Def |Gender=Masc|Number=Sing
+të	of	DET	Case=Gen|Definite=Def |Gender=Masc|Number=Sing
+njohurive	knowledge	NOUN	Case=Gen|Definite=Def |Gender=Fem|Number=Plur
+,	,	PUNCT	
+aftësive	skills	NOUN	Case=Gen|Definite=Def |Gender=Fem|Number=Plur
+,	,	PUNCT	
+vlerave	values	NOUN	Case=Gen|Definite=Def |Gender=Fem|Number=Plur
+,	,	PUNCT	
+besimeve	beliefs	NOUN	Case=Gen|Definite=Def |Gender=Masc|Number=Plur
+dhe	and	CCONJ	
+zakoneve	habits	NOUN	Case=Gen|Definite=Def |Gender=Masc|Number=Plur
+.	.	PUNCT	
+			
+# sent_id = 10			
+# text = Arsimi i mesëm nuk është i detyrueshëm.			
+# text_en = Secondary education is not compulsory.			
+# lang = al			
+arsimi	education	NOUN	Case=Nom|Definite=Def |Gender=Masc|Number=Sing
+i		DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Det=Adj
+mesëm	secondary	ADJ	Gender=Masc|Number=Sing
+nuk	not	PART	Neg=True
+është	be	COP	Aspect=Imp|Mood=Ind|Number=Singr|Person=3|Tense=Pres|Voice=Act
+i		DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Det=Adj
+detyrueshëm	compulsory	ADJ	Gender=Masc|Number=Sing
+.	.	PUNCT	
