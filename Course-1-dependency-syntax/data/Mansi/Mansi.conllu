@@ -1,0 +1,202 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1
+# text = Зоя Павловна Самбиндалова Ха̄льӯс район Шайтанкат (Ялпыӈ-нёл-па̄вылт) о̄лы.
+# text_en = Zoya Pavlovna Sambindalova lives in Shaytanka (Holy-cape-village), Berezovki rayon.
+# lang = mns
+1	Зоя Павловна Самбиндалова	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Zoya Pavlovna Sambindalova
+2	Ха̄льӯс	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Berezovo
+3	район	_	N Sg Nom	_	_	_	_	_	Gloss=rayon
+4	Шайтанкат	_	N Prop Sg Loc	_	_	_	_	_	Gloss=Shaytanka
+5	(	_	PUNCT LEFT	_	_	_	_	_	Gloss=_
+6	Ялпыӈ-нёл-па̄вылт	_	N Prop Sg Loc	_	_	_	_	_	Gloss=Holy-cape-village
+7	)	_	PUNCT RIGHT	_	_	_	_	_	Gloss=_
+8	о̄лы	_	V Act Ind Prs ScSg3	_	_	_	_	_	Gloss=live
+9	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 2
+# text = Ма̄ньщи э̄ква Малеевка па̄вылт самын патыс, ётыл омаге-а̄тяге ёт Шайтанка па̄вылн ва̄нтлас.
+# text_en = The Mansi woman was born in Maleevka village, later she moved to Shaytanka village with her parents
+# lang = mns
+1	Ма̄ньщи	_	A Sg Nom	_	_	_	_	_	Gloss=Mansi
+2	э̄ква	_	N Sg Nom	_	_	_	_	_	Gloss=woman
+3	Малеевка	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Maleekva
+4	па̄вылт	_	N Sg Loc	_	_	_	_	_	Gloss=village
+5	самын патыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Comment=самын патуӈкве 'to be born', literally 'to fall in the eye'.|Gloss=born
+6	,	_	CLB	_	_	_	_	_	Gloss=_
+7	ётыл	_	Adv	_	_	_	_	_	Gloss=later
+8	омаге-а̄тяге	_	N Du Nom PxSg3-N Du Nom PxSg3	_	_	_	_	_	Comment=literally her mothers, her fathers (Dual markers indicating that they belong together)|Gloss=mother-father
+9	ёт	_	Po	_	_	_	_	_	Gloss=with
+10	Шайтанка	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Shaytanka
+11	па̄вылн	_	N Sg Lat	_	_	_	_	_	Gloss=village
+12	ва̄нтлас	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=move
+13	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 3
+# text = Зоя Павловна такви о̄лупсатэ ос рӯтанэ урыл ма̄ньщи газетав ма̄гсыл тох потыртас:
+# text_en = Thus Zoya Pavlovna talked to our Mansi newspaper about her life and her relatives.
+# lang = mns
+1	Зоя Павловна 	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Zoya Pavlovna
+2	такви 	_	Pron Refl Sg3 Nom	_	_	_	_	_	Gloss=her own
+3	о̄лупсатэ 	_	N Sg Nom PxSg3	_	_	_	_	_	Gloss=life
+4	ос	_	CC	_	_	_	_	_	Gloss=and
+5	рӯтанэ 	_	N Pl Nom PxSg3	_	_	_	_	_	Gloss=relative
+6	урыл 	_	Po	_	_	_	_	_	Gloss=about
+7	ма̄ньщи 	_	A Sg Nom	_	_	_	_	_	Gloss=Mansi
+8	газетав 	_	N Sg Nom PxPl1	_	_	_	_	_	Gloss=newpaper
+9	ма̄гсыл 	_	Po	_	_	_	_	_	Gloss=for
+10	тох 	_	Adv	_	_	_	_	_	Gloss=thus
+11	потыртас	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=talk
+12	:	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 4
+# text = Ам омам наме Евдокия Ефимовна Лихачёва о̄лыс.
+# text_en = My mother's name was Yevdokiya Yefimovna Likhachova.
+# lang = mns
+1	Ам 	_	Pron Pers Sg1 Nom	_	_	_	_	_	Gloss=I
+2	омам 	_	N Sg Nom PxSg1	_	_	_	_	_	Gloss=mother
+3	наме 	_	N Sg Nom PxSg3	_	_	_	_	_	Gloss=name
+4	Евдокия Ефимовна Лихачёва	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Yevdokiya Yefimovna Likhachova
+5	о̄лыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=was
+6	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 4
+# text = Рӯтанум Пе̄с Шайтанка па̄вылт о̄лсыт.
+# text_en = My relatives were from the old Shaytanka villages.
+# lang = mns
+1	Рӯтанум 	_	N Pl Nom PxSg1	_	_	_	_	_	Gloss=Relative
+2	Пе̄с 	_	A	_	_	_	_	_	Comment=Not sure whether Пе̄с Шайтанка or Пе̄с Шайтанка па̄выл is the actual name of a village, or  calling it "old" is just descriptive. As Shaytanka is the Russian name of the settlement, I decided to analyse Пе̄с as being and adjective rather than part of the proper name.|Gloss=ancient
+3	Шайтанка 	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Shaytanka
+4	па̄вылт 	_	N Sg Loc	_	_	_	_	_	Gloss=village
+5	о̄лсыт	_	V Act Ind Prt ScPl3	_	_	_	_	_	Gloss=live
+6	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 5
+# text = Ты пе̄с па̄выл Шайтанканыл ат ве̄рыстат ӯнлыс.
+# text_en = This old village is located five kilometres form [present-day] Shaytanka.
+# lang = mns
+1	Ты 	_	Det Sg Nom	_	_	_	_	_	Gloss=This
+2	пе̄с 	_	A	_	_	_	_	_	Gloss=ancient
+3	па̄выл 	_	N Sg Nom	_	_	_	_	_	Gloss=village
+4	Шайтанканыл 	_	N Prop Sg Abl	_	_	_	_	_	Gloss=Shaytanka
+5	ат 	_	Num Sg Nom	_	_	_	_	_	Gloss=five
+6	ве̄рыстат	_	N Sg Loc	_	_	_	_	_	Gloss=kilometer
+7	ӯнлыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Comment=ӯнлуӈкве lit 'to sit'|Gloss=sit
+8	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 6
+# text = Омам потырта̄лыс, Лихачёвыт Нё̄р тапал е̄рныл тыг ёхтысыт.
+# text_en = My mother used to say that the Likhachovs came here from the other side of the Ural.
+# lang = mns
+1	Омам 	_	N Sg Nom PxSg1	_	_	_	_	_	Gloss=Mother
+2	потырта̄лыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=talk repeatedly
+3	, 	_	CLB	_	_	_	_	_	Gloss=_
+4	Лихачёвыт	_	N Prop Pl Nom	_	_	_	_	_	Gloss=Likhachovs
+5	Нё̄р 	_	N Prop Sg Nom	_	_	_	_	_	Comment=lit 'mountain'|Gloss=Ural
+6	тапал 	_	A	_	_	_	_	_	Gloss=that side
+7	е̄рныл 	_	N Sg Abl	_	_	_	_	_	Gloss=side
+8	тыг 	_	Adv	_	_	_	_	_	Gloss=here
+9	ёхтысыт	_	V Act Ind Prt ScPl3	_	_	_	_	_	Gloss=come
+10	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 7
+# text = Яныг ащōйкам Ха̄льӯс пӯпколт савалап ня̄врамыг яныгмас, тав 1846 та̄лт самын патыс.
+# text_en = My maternal grandfather grew up the the Beryozovo church internate as an orphan, he was born in 1846.
+# lang = mns
+1	Яныг 	_	A	_	_	_	_	_	Comment=Not sure whether her "great maternal grandfather" is actually her great-grandfather on the mothers side or just a maternal grandfather that was great in some respect. I've never heard anyone using this term so I decided to analyse it as A + N.|Gloss=Big
+2	ащōйкам 	_	N Sg Nom PxSg1	_	_	_	_	_	Gloss=maternal grandfather
+3	Ха̄льӯс 	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Berezovo
+4	пӯпколт 	_	N Sg Loc	_	_	_	_	_	Gloss=church
+5	савалап	_	A	_	_	_	_	_	Gloss=orphan
+6	ня̄врамыг	_	N Sg Tra	_	_	_	_	_	Gloss=child
+7	яныгмас	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=grow up
+8	, 	_	CLB	_	_	_	_	_	Gloss=_
+9	тав 	_	Pron Pers Sg3 Nom	_	_	_	_	_	Gloss=he
+10	1846	_	_	_	_	_	_	_	Gloss=_
+11	та̄лт 	_	N Sg Loc	_	_	_	_	_	Gloss=year
+12	самын патыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=born
+13	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 8
+# text = А̄тям Павел Васильевич Самбиндалов наме о̄лыс.
+# text_en = My father's name was Pavel Vasilevich Sambindalov.
+# lang = mns
+1	А̄тям 	_	N Sg Nom PxSg1	_	_	_	_	_	Gloss=Father
+2	Павел Васильевич Самбиндалов 	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Pavel Vasilevich Sambindalov
+3	наме 	_	N Sg Nom PxSg3	_	_	_	_	_	Gloss=name
+4	о̄лыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=was
+5	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 9
+# text = О̄пам Ма̄нья-сӯнт па̄вылныл тыг ёхтыс.
+# text_en = My paternal grandfather came here from Manyya-sunt village
+# lang = mns
+1	О̄пам 	_	N Sg Nom PxSg1	_	_	_	_	_	Gloss=Paternal grandfather
+2	Ма̄нья-сӯнт 	_	N Prop Sg Nom	_	_	_	_	_	Comment=lit. The mouth of Many-ya [Small river]|Gloss=Manyya-sunt
+3	па̄вылныл	_	N Sg Abl	_	_	_	_	_	Gloss=village
+4	тыг 	_	Adv	_	_	_	_	_	Gloss=here
+5	ёхтыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=come
+6	. 	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 10
+# text = То̄нт, улпыл, хӯл А̄с я̄т алыщлас ос о̄луӈкве тыт хультыс.
+# text_en = Then, apparently, he was fishing on the Ob river and remained here to live.
+# lang = mns
+1	То̄нт	_	Adv	_	_	_	_	_	Gloss=then
+2	, 	_	CLB	_	_	_	_	_	Gloss=_
+3	улпыл	_	CC	_	_	_	_	_	Gloss=apparently
+4	, 	_	CLB	_	_	_	_	_	Gloss=_
+5	хӯл 	_	N Sg Nom	_	_	_	_	_	Gloss=fish
+6	А̄с 	_	N Prop Sg Nom	_	_	_	_	_	Gloss=Ob
+7	я̄т 	_	N Sg Loc	_	_	_	_	_	Gloss=river
+8	алыщлас 	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=kill
+9	ос 	_	CC	_	_	_	_	_	Gloss=and
+10	о̄луӈкве 	_	V Inf	_	_	_	_	_	Gloss=to live
+11	тыт 	_	Adv	_	_	_	_	_	Gloss=here
+12	хультыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=remain
+13	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 11
+# text = Ма̄нья-сӯнтыт о̄лнэ рӯтанув ёт а̄тям ва̄йхатас, ам иӈ ня̄врамыг о̄лсум, хунь тав та̄н палтаныл ялыс.
+# text_en = My father knew our relatives living in Manyya-sunt, I was still a child, when he went to them.
+# lang = mns
+1	Ма̄нья-сӯнтыт 	_	N Prop Sg Loc	_	_	_	_	_	Gloss=Manyya-sunt
+2	о̄лнэ 	_	V PrsPrc	_	_	_	_	_	Gloss=living
+3	рӯтанув	_	N Pl Nom PxPl1	_	_	_	_	_	Gloss=relative
+4	ёт 	_	Po	_	_	_	_	_	Gloss=with
+5	а̄тям	_	N Sg Nom PxSg1	_	_	_	_	_	Gloss=father
+6	ва̄йхатас	_	V Act Ind Prt ScSg3	_	_	_	_	_	Gloss=know each other
+7	, 	_	CLB	_	_	_	_	_	Gloss=_
+8	ам 	_	Pron Pers Sg1 Nom	_	_	_	_	_	Gloss=I
+9	иӈ 	_	Adv	_	_	_	_	_	Gloss=still
+10	ня̄врамыг 	_	N Sg Tra	_	_	_	_	_	Gloss=child
+11	о̄лсум	_	V Act Ind Prt ScSg1	_	_	_	_	_	Gloss=was
+12	, 	_	CLB	_	_	_	_	_	Gloss=_
+13	хунь	_	Adv	_	_	_	_	_	Gloss=when
+14	тав 	_	Pron Pers Sg3 Nom	_	_	_	_	_	Gloss=he
+15	та̄н 	_	Pron Pers Pl3 Nom	_	_	_	_	_	Gloss=they
+16	палтаныл 	_	Po PxPl3	_	_	_	_	_	Gloss=side
+17	ялыс	_	V Act Ind Prt ScSg3	_	_	_	_	_	Comment=lit. 'to go and return repeatedly', perhaps indicating that he was visiting them more than once.|Gloss=go
+18	.	_	CLB	_	_	_	_	_	Gloss=_
+
+# sent_id = 12
+# text = Ам тай та ма̄т о̄лнэ рӯтанум щар ат ва̄щиньтасанум, нас ва̄глум, тот Самбиндаловыт о̄лэ̄гыт.
+# text_en = I didn't really know my relatives that were living there, I only know that Sambindalovs are living there.
+# lang = mns
+1	Ам 	_	Pron Pers Sg1 Nom	_	_	_	_	_	Gloss=I
+2	тай 	_	Adv	_	_	_	_	_	Gloss=after all
+3	та 	_	Det Sg Nom	_	_	_	_	_	Gloss=that
+4	ма̄т 	_	N Sg Loc	_	_	_	_	_	Gloss=land
+5	о̄лнэ 	_	V PrsPrc	_	_	_	_	_	Gloss=living
+6	рӯтанум 	_	N Pl Nom PxSg1	_	_	_	_	_	Gloss=relative
+7	щар 	_	Adv	_	_	_	_	_	Gloss=very much
+8	ат 	_	Pcle Neg	_	_	_	_	_	Gloss=no
+9	ва̄щиньтасанум	_	V Act Ind Prt ScSg1 OcPl	_	_	_	_	_	Gloss=know
+10	, 	_	CLB	_	_	_	_	_	Gloss=_
+11	нас 	_	Attr	_	_	_	_	_	Gloss=only
+12	ва̄глум	_	V Act Ind Prs ScSg1 OcSg	_	_	_	_	_	Gloss=know
+13	, 	_	CLB	_	_	_	_	_	Gloss=_
+14	тот 	_	Adv	_	_	_	_	_	Gloss=there
+15	Самбиндаловыт 	_	N Prop Pl Nom	_	_	_	_	_	Gloss=Sambindalov
+16	о̄лэ̄гыт	_	V Act Ind Prs ScPl3	_	_	_	_	_	Gloss=live
+17	.	_	CLB	_	_	_	_	_	Gloss=_
+

@@ -1,0 +1,260 @@
+# student = Nikolett Mus		
+# mail: mus.nikolett@gmail.com		
+# language = yrk (yrk-tun, Tundra Nenets, Samoyedic, Uralic)		
+# description = "Route description 1": the data were collected via a modified version of the original HCRC map task (https://groups.inf.ed.ac.uk/maptask) implemented for one speaker (the speaker was the Instruction Giver, and I as the fieldworker was the Instruction Follower); the map was simplified and the labelled features (number of them) were made more familiar to cultural circumstances. The text was recorded in 2017 in Moscow.		
+		
+# sent_id = 1		
+# text = Маряд' мюня нудм'.		
+# text_en = I stand behind the fence.		
+# lang = yrk-tun		
+Маряд'	fence.gen	N
+мюня	behind	Postp
+нудм'.	stand.1sg	V
+		
+# sent_id = 2		
+# text = Тикахана сидя ты таняӈаха".		
+# text_en = There are two reindeer there.		
+# lang = yrk-tun		
+Тикахана	there	Adv
+сидя	two	Num
+ты	reindeer	N
+таняӈаха".	exist.3du	V
+		
+# sent_id = 3		
+# text = Сидя тэхэ' няд маряд' нимня маряд' тяха' санэйв'.		
+# text_en = I jump over the fence away from the two reindeer.		
+# lang = yrk-tun		
+Сидя	two	Num
+тэхэ'	reindeer.du	N
+няд	at.abl	Postp
+маряд'	fence.gen	N
+нимня	top.prol	N
+маряд'	fence.gen	N
+тяха'	over	Postp
+санэйв'.	jump.1sg.refl	V
+		
+# sent_id = 4		
+# text = Сана"махадани' тамна тяха' нэкалӈав.		
+# text_en = After I jump I go on.		
+# lang = yrk-tun		
+Сана"махадани'	jump.pfv.an.abl.obl.1sg	
+тамна	even	Adv
+тяха'	further	Adv
+нэкалӈав.	pull.1sg.sg	V
+		
+# sent_id = 5		
+# text = Нерни' няна пирця харадм' манэ"ӈадм'.		
+# text_en = I notice a tall tower in front of me.		
+# lang = yrk-tun		
+Нерни'	in.front.of.gen.1sg	Postp
+няна	1sg.dat	Pron
+пирця	tall	Adj
+харадм'	house.acc	N
+манэ"ӈадм'.	see.1sg	V
+		
+# sent_id = 6		
+# text = Махалэйда мятрев' саблюй.		
+# text_en = Its roof is peaked like a tent.		
+# lang = yrk-tun		
+Махалэйда	roof.3sg	N
+мятрев'	tent.equ	N
+саблюй.	peak	Adj
+		
+# sent_id = 7		
+# text = Сидя сидеранда си, нёнда си таня.		
+# text_en = It has two windows and a door.		
+# lang = yrk-tun		
+Сидя	two	Num
+сидеранда	window.gen.3sg	N
+си,	hole	N
+нёнда	door.gen.3sg	N
+си	hole	N
+таня.	exist.3sg	V
+		
+# sent_id = 8		
+# text = Нёнда си танцянзавэй.		
+# text_en = Its door has stairs (“its door is bestaired”).		
+# lang = yrk-tun		
+Нёнда	door.gen.3sg	N
+си	hole	N
+танцянзавэй.	stairs.com	N
+		
+# sent_id = 9		
+# text = Танця' сер' танэйв'.		
+# text_en = I go up the stairs.		
+# lang = yrk-tun		
+Танця'	stairs	N
+сер'	thing	N
+танэйв'.	go.up.1sg.refl	V
+		
+# sent_id = 10		
+# text = Нё' сивня мяттюдм'.		
+# text_en = I enter through the door.		
+# lang = yrk-tun		
+Нё'	door.gen	N
+сивня	hole.prol	N
+мяттюдм'.	tent.dat_step.in.1sg	V
+		
+# sent_id = 11		
+# text = Маха саблюй харад' мюмня ирт' хаядм'.		
+# text_en = I go through the tower with the sharp roof.		
+# lang = yrk-tun		
+Маха	roof	N
+саблюй	peak	Adj
+харад'	house.gen	N
+мюмня	through	Postp
+ирт'	straight	Adv
+хаядм'.	go.1sg	V
+		
+# sent_id = 12		
+# text = Няр" мадав.		
+# text_en = I cross it.		
+# lang = yrk-tun		
+Няр"	across	Adv
+мадав.	pass.across.1sg.sg	V
+		
+# sent_id = 13		
+# text = Няби нё' сивня тарпыв'.		
+# text_en = I walk out the other door.		
+# lang = yrk-tun		
+Няби	other	Cnj
+нё'	door.gen	N
+сивня	hole.prol	N
+тарпыв'.	walk.out.1sg.refl	V
+		
+# sent_id = 14		
+# text = Харадм' хэхэдёйтав.		
+# text_en = I cross the house.		
+# lang = yrk-tun		
+Харадм'	house.acc	N
+хэхэдёйтав.	run.across.1sg.sg	V
+		
+# sent_id = 15		
+# text = Нё' сим' нэв, танця' сер' ха"амыв'.		
+# text_en = I open the door and go down the stairs.		
+# lang = yrk-tun		
+Нё'	door.gen	N
+сим'	hole.acc	N
+нэв,	open.1sg.sg	V
+танця'	stairs	N
+сер'	thing	N
+ха"амыв'.	go.down.1sg.refl	V
+		
+# sent_id = 16		
+# text = Яда нэкалӈав, маханякубта мэв.		
+# text_en = I walk and turn to the right.		
+# lang = yrk-tun		
+Яда	on.foot	Adv
+нэкалӈав,	pull.1sg.sg	V
+маханякубта	right.side	N
+мэв.	take.1sg.sg	V
+		
+# sent_id = 17		
+# text = Маханякубта' мимани' сер' яха' таркавна ӈадимядм'.		
+# text_en = While I am walking on the right side, I arrive to the fork of the river.		
+# lang = yrk-tun		
+Маханякубта'	right.side.gen	N
+мимани'	go.ipfv.an.gen.1sg	AN
+сер'	thing	N
+яха'	river.gen	N
+таркавна	fork.prol	N
+ӈадимядм'.	appear.1sg	V
+		
+# sent_id = 18		
+# text = Няби яха' таркам' ӈохолё мадав.		
+# text_en = I swim across one fork of the river.		
+# lang = yrk-tun		
+Няби	other	Cnj
+яха'	river.gen	N
+таркам'	fork.acc	N
+ӈохолё	swim.cvb	CVB
+мадав.	pass.across.1sg.sg	V
+		
+# sent_id = 19		
+# text = Тарканда пыя' ни' танэйв'.		
+# text_en = I climb after the end of the fork of the river.		
+# lang = yrk-tun		
+Тарканда	fork.gen.3sg	N
+пыя'	end.gen	N
+ни'	at	Postp
+танэйв'.	rise.1sg.refl	V
+		
+# sent_id = 20		
+# text = Тарканда пыям' мада"махадани' ӈани' ӈохолё нэкалӈав, яхам' мадав.		
+# text_en = After I walk across the headland I keep swimming, I cross the river.		
+# lang = yrk-tun		
+Тарканда	fork.gen.3sg	N
+пыям'	end.acc	N
+мада"махадани'	pass.across.ipfv.an.abl.1sg	AN
+ӈани'	again	Cnj
+ӈохолё	swim.cvb	CVB
+нэкалӈав,	pull.1sg.sg	V
+яхам'	river.acc	N
+мадав.	pass.across.1sg.sg	V
+		
+# sent_id = 21		
+# text = Тадтикахад ӈани' ялъява" нерни' няна пям' манэ"ӈадм'.		
+# text_en = While I am walking I see a tree in front of me.		
+# lang = yrk-tun		
+Тадтикахад	afterwards	Adv
+ӈани'	again	Cnj
+ялъява"	walk.ipfv.an.gen	AN
+нерни'	in.front.of.gen.1sg	Postp
+няна	1sg.dat	Pron
+пям'	tree.acc	N
+манэ"ӈадм'.	see.1sg	V
+		
+# sent_id = 22		
+# text = Пям' маханяӈы хэвувнанда яля' пырдари' сюртев.		
+# text_en = I walk around the tree on the right against the sun.		
+# lang = yrk-tun		
+Пям'	tree.acc	N
+маханяӈы	from.right	Adv
+хэвувнанда	side.pros.3sg	N
+яля'	sun.gen	N
+пырдари'	against	Adj
+сюртев.	go.around.1sg.sg	N
+		
+# sent_id = 23		
+# text = Тамна тяха" ялъяв', ядвани' сер' пулм' манэ"ӈадм'.		
+# text_en = I keep walking, while I am walking, I see a bridge.		
+# lang = yrk-tun		
+Тамна	even	Adv
+тяха"	further	Adv
+ялъяв',	walk.1sg.refl	V
+ядвани'	walk.ipfv.an.gen.1sg	AN
+сер'	thing	N
+пулм'	bridge.acc	N
+манэ"ӈадм'.	see.1sg	V
+		
+# sent_id = 24		
+# text = Пул' сер' яхам' няби' ня' мадав.		
+# text_en = I cross the river on the bridge to the other side.		
+# lang = yrk-tun		
+Пул'	bridge.gen	N
+сер'	thing	N
+яхам'	river.acc	N
+няби'	other	Cnj
+ня'	to	Postp
+мадав.	pass.across.1sg.sg	V
+		
+# sent_id = 25		
+# text = Тадтикахад сятанякубта' мэхэя тамна тяха' ялъяв'.		
+# text_en = Afterwards I keep walking turning to the left hand side.		
+# lang = yrk-tun		
+Тадтикахад	afterwards	Adv
+сятанякубта'	left.side.gen	N
+мэхэя	take.cvb	CVB
+тамна	even	Adv
+тяха'	further	Adv
+ялъяв'.	walk.1sg.refl	V
+		
+# sent_id = 26		
+# text = Тадтикахад маряд' нё сивня тарпыв'.		
+# text_en = Then, I go out the gate of the fence.		
+# lang = yrk-tun		
+Тадтикахад	afterwards	Adv
+маряд'	fence.gen.2sg	N
+нё	door	N
+сивня	hole.prol	N
+тарпыв'.	go.out.1sg.refl	V

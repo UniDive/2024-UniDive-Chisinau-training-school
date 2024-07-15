@@ -1,0 +1,86 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = najia_1
+# text = Di high cost of tomatoes and pepper don become serious issue for Nigeria wey don put citizens for difficult situation.
+1	Di	_	_	_	_	_	_	_	_
+2	high	_	_	_	_	_	_	_	_
+3	cost	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	tomatoes	_	_	_	_	_	_	_	_
+6	and	_	_	_	_	_	_	_	_
+7	pepper	_	_	_	_	_	_	_	_
+8	don	_	_	_	_	_	_	_	_
+9	become	_	_	_	_	_	_	_	_
+10	serious	_	_	_	_	_	_	_	_
+11	issue	_	_	_	_	_	_	_	_
+12	for	_	_	_	_	_	_	_	_
+13	Nigeria	_	_	_	_	_	_	_	_
+14	wey	_	_	_	_	_	_	_	_
+15	don	_	_	_	_	_	_	_	_
+16	put	_	_	_	_	_	_	_	_
+17	citizens	_	_	_	_	_	_	_	_
+18	for	_	_	_	_	_	_	_	_
+19	difficult	_	_	_	_	_	_	_	_
+20	situation	_	_	_	_	_	_	_	_
+
+# sent_id = najia_2
+# text = Now, e no dey possible for pipo to prepare di soup wey dem want and how dem want am witout spending at least 5000 naira (£230, $300) and above.
+1	Now	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	dey	_	_	_	_	_	_	_	_
+5	possible	_	_	_	_	_	_	_	_
+6	for	_	_	_	_	_	_	_	_
+7	pipo	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	prepare	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	soup	_	_	_	_	_	_	_	_
+12	wey	_	_	_	_	_	_	_	_
+13	dem	_	_	_	_	_	_	_	_
+14	want	_	_	_	_	_	_	_	_
+15	and	_	_	_	_	_	_	_	_
+16	how	_	_	_	_	_	_	_	_
+17	dem	_	_	_	_	_	_	_	_
+18	want	_	_	_	_	_	_	_	_
+19	am	_	_	_	_	_	_	_	_
+20	witout	_	_	_	_	_	_	_	_
+21	spending	_	_	_	_	_	_	_	_
+22	at	_	_	_	_	_	_	_	_
+23	least	_	_	_	_	_	_	_	_
+24	5000	_	_	_	_	_	_	_	_
+25	naira	_	_	_	_	_	_	_	_
+26	(	_	_	_	_	_	_	_	_
+27	£230	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	$300	_	_	_	_	_	_	_	_
+30	)	_	_	_	_	_	_	_	_
+31	and	_	_	_	_	_	_	_	_
+32	above	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = najia_3
+# text = BBC report how some families dey spend plenty money on vegetables and still dey struggle to manage to cook for dia family.
+1	BBC	_	_	_	_	_	_	_	_
+2	report	_	_	_	_	_	_	_	_
+3	how	_	_	_	_	_	_	_	_
+4	some	_	_	_	_	_	_	_	_
+5	families	_	_	_	_	_	_	_	_
+6	dey	_	_	_	_	_	_	_	_
+7	spend	_	_	_	_	_	_	_	_
+8	plenty	_	_	_	_	_	_	_	_
+9	money	_	_	_	_	_	_	_	_
+10	on	_	_	_	_	_	_	_	_
+11	vegetables	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	still	_	_	_	_	_	_	_	_
+14	dey	_	_	_	_	_	_	_	_
+15	struggle	_	_	_	_	_	_	_	_
+16	to	_	_	_	_	_	_	_	_
+17	manage	_	_	_	_	_	_	_	_
+18	to	_	_	_	_	_	_	_	_
+19	cook	_	_	_	_	_	_	_	_
+20	for	_	_	_	_	_	_	_	_
+21	dia	_	_	_	_	_	_	_	_
+22	family	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+

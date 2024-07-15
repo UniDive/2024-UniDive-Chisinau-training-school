@@ -1,0 +1,119 @@
+# student = Stavros Bompolas				
+# mail: s.bompolas@athenarc.gr				
+# language = Lesbian, el (Greek)				
+# description = This is an example of the format we expect for data provided by students for the UniDive training school.				
+# For each sentence, "# sent_id', "# text" and "# text_en" are required, any other field can be added				
+# For each token: col1 = token in the language, col2 = English translation or Gloss, col3 (optional) = POS, col4 (optional) = comment				
+				
+# sent_id = 1				
+# text = Τι να κάνου βρε μάνα;				
+# text_en = What should I do, mom?				
+# lang = Lesbian				
+Τι	What	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	
+να	should	AUX		
+κάνου	I do	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Voice=Act	
+βρε	particle used for emphasis	INTJ		
+μάνα	mom	NOUN	Case=Voc|Gender=Fem|Number=Sing	
+;	?	PUNCT		
+				
+# sent_id = 2				
+# text = Τα τουν κάνου;				
+# text_en = What should I do with him?				
+# lang = Lesbian				
+Τα	What should	PRON		Here, 'Τα' is a combination of the interrogative pronoun 'Τι' (as seen in line 12) and the auxiliary 'να' (line 13). Both forms are attested in the sources. How should we treat them?
+τουν	him	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PersPronType=We|PronType=Prs	
+κάνω	I do	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Voice=Act	
+;	?	PUNCT		
+				
+# sent_id = 3				
+# text = Είδι του μ-πατέρα τ'.				
+# text_en = He saw his father.				
+# lang = Lesbian				
+Είδι	He saw	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	
+του	the	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	
+μ-πατέρα	father	NOUN	Case=Acc|Gender=Masc|Number=Sing	This "μ-" is sometimes used by speakers to indicate the voicing of the following consonant after the final "-ν" of the definite article, which is now reanalyzed as part of the noun, i.e., τουν πατέρα [tun pa'tera] > του-ν-πατέρα [tu-n-pa'tera] > του μ-πατέρα [tu m-patera]. See and compare also lines 44 and 45 in sent_id = 4. How should we handle these cases (e.g., tokenization, lemmatization)?
+τ'	his	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	
+.		PUNCT		
+				
+# sent_id = 4				
+# text = Mι παρούγδ'σι στουν πατέρα μ'.				
+# text_en = He handed me over to my father.				
+# lang = Lesbian				
+Mι	Me	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	
+παρούγδ'σι	handed over	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	
+στουν	to the			How should we treat prepositional articles (e.g., tokenization, lemmatization, features)?
+πατέρα	father	NOUN	Case=Acc|Gender=Masc|Number=Sing	
+μ'	my	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	
+.	.	PUNCT		
+				
+# sent_id = 5				
+# text = Τόσα χρόνια πιράσαν που πέθανι η γι-άντρας τ'ς κι ακόμα αχαμπλουδιμέν' η Μυρσίν.				
+# text_en = So many years have passed since her husband died and Mirsini is still veiled.				
+# lang = Lesbian				
+Τόσα	So	DET	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	
+χρόνια	years	NOUN	Case=Nom|Gender=Neut|Number=Plur	
+πιράσαν	have passed	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	
+που	since	SCONJ		
+πέθανι	died	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	
+η	the	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	Although in Standard Modern Greek, the definite articles for masculine (ο [o]), feminine (η [i]), and neuter (το [to]) in the nominative singular are distinct, in Lesbian Greek there is only a distinction between masculine/feminine and neuter. Specifically, the form of the feminine article has prevailed for both masculine and feminine genders. Furthermore, in the rest of the inflectional paradigm, the distinction between grammatical genders is maintained.   Should we retain the distinction between masculine and feminine in the column of morphological features for the nominative case, even though the same form is used?
+γι-άντρας	husband	NOUN	Case=Nom|Gender=Masc|Number=Sing	Epenthesis (such as γι- [ʝ-]) between a functional word (line 58) and a word (line 59) is very common in the dialect to achieve a CVCV sequence. How should we handle this null phonetic element (see also line 74 for the same word without this phonetic element)? What approach should we take for tokenization and lemmatization?
+τ'ς	her	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	
+κι	and	CCONJ		
+ακόμα	still	ADV		
+αχαμπλουδιμέν'	vieled	ADJ	Case=Nom|Gender=Fem|Number=Sing	
+η	the	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	
+Μυρσίν.	Mirsini	PROPN	Case=Nom|Gender=Fem|Number=Sing	
+.	.	PUNCT		
+				
+# sent_id = 6				
+# text = Είδα ν-τουν άντρα μ’.				
+# text_en = I saw my husband.				
+# lang = Lesbian				
+Είδα	Ι saw	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	
+ν-τουν	the	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	Once again, voicing is indicated on the word using ν-.
+άντρα	husband	NOUN	Case=Acc|Gender=Masc|Number=Sing	
+μ’	my	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	
+.	.	PUNCT		
+
+# sent_id = 7				
+# text = Eίνι στη δ'λειά τ'.				
+# text_en = He/She/It is at his/her/its job.				
+# lang = Lesbian				
+Είνι	He/She/It is	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	
+στη	at the		Case=Acc|Gender=Fem|Number=Sing	
+δ’λειά	job	NOUN	Case=Acc|Gender=Fem|Number=Sing	Comparing sent_id = 7 & 8, you can see that in the dialectal sources, apostrophes are not used systematically due to the lack of standardization. In Standard Modern Greek, apostrophes are used to mark the loss of vowels only at word boundaries. However, in the dialect, apostrophes are used to indicate vowel loss both within words and at word boundaries. Since the deletion of unstressed /i/ and /e/ in the dialect follows a rule, apostrophes, when used, are quite frequent. However, this usage is not consistent across all sources (compare with line 94). The same variability applies to the use of dashes (as seen in lines 54 and 39).    How should we handle these characters in terms of tokenization and lemmatization? Should we keep all this variation documented in the writing system of the different sources?
+τ’	his/her/its	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	
+.	.	PUNCT		
+				
+# sent_id = 8				
+# text = Ισύ λόγιαζι τη δλειά σ'.				
+# text_en = Mind your business.				
+# lang = Lesbian				
+Ισύ	You	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	
+λόγιαζι	mind	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=3|Tense=Past|Voice=Act	
+τη	the	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	
+δλειά	business	NOUN	Case=Acc|Gender=Fem|Number=Sing	See line 83.
+σ'	your	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	
+.	.	PUNCT		
+				
+# sent_id = 9				
+# text = Η Βασίλ’ς δε νταγιαντίζιτι πλ-ια.				
+# text_en = Vasilis is not bearable anymore.				
+# lang = Lesbian				
+Η	The	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	
+Βασίλ’ς	Vasilis	PROPN	Case=Nom|Gender=Masc|Number=Sing	
+δε	not	PART	ParticleType=Neg	
+νταγιαντίζιτι	is bearable	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	Due to the history of the dialect, numerous Turkish borrowings are documented. However, the dialect integrates borrowed verbs in two ways: (a) with a derivational suffix (i.e., -ιζ- [-iz]), as exemplified here, or (b) without a derivational suffix, as in line 117 of the next example (sent_id = 10). Consequently, there would be two different lemmas (νταγιαντίζω [daʝa'ndizo] and νταγιαντώ [daʝa'ndo]) that mean exactly the same thing. Is this the correct approach to handle such cases? Variation in (verb) loan integration is also observed in many other languages and dialects.
+πλ-ια	anymore	ADV		
+.	.	PUNCT		
+				
+# sent_id = 10				
+# text = Τη φτώχεια ποιος την νταγιαντεί;				
+# text_en = Who can endure poverty?				
+# lang = Lesbian				
+Τη	The	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	
+φτώχεια	poverty	NOUN	Case=Acc|Gender=Fem|Number=Sing	
+ποιος	who	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int	
+την	it	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	
+νταγιαντεί	endure	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	See the comment of line 105.
+;	?	PUNCT		

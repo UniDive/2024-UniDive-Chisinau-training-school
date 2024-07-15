@@ -1,0 +1,356 @@
+# student = Marta Sartor			
+# mail = marta.sartor@ilc.cnr.it			
+# language = it (Italian)			
+# description = data from L1 italian learners sourced from the CItA corpus (Barbagli et al., 2016)			
+			
+			
+# sent_id = assignmentA_1			
+# text = La pubblicità è nata dopo la 2ª guerra mondiale, la pubblicità è stata creata soprattutto per sponsorizzare i prodotti che nascevano all’epoca.			
+# text_en = Advertising was born after the 2nd World War, advertising was created mainly to sponsor the products that were being born at the time.			
+# lang = it			
+La	the		
+pubblicità	advertising		
+è	bear		
+nata	_		
+dopo	after		
+la	the		
+2ª	2nd		
+guerra	world		
+mondiale	war		
+,	,		
+la	the		
+pubblicità	advertising		
+è	create		
+stata	_		
+creata	_		
+soprattutto	mainly		
+per	to		
+sponsorizzare	sponsor		
+i	the		
+prodotti	products		
+che	that		
+nascevano	bear		
+all’	at the		
+epoca	time		
+.	.		
+			
+# sent_id = assignmentA_2			
+# text = Prima della pubblicità c’erano dei mini filmini che imparavano la lingua italiana perché in quei periodi non c’era molta cultura e la pubblicità approfittava per insegnare l’italiano.			
+# text_en = Before advertising there were some mini little movies which learned the Italian language because at that times there wasn’t much culture and advertising took advantage to teach Italian.			
+# lang = it			
+Prima	Before		
+della	of the		
+pubblicità	advertsing		
+c’	LOC		
+erano	be		
+dei	some		
+mini	mini		
+filmini	little movies		very informal term
+che	that		
+imparavano	learn		Lexical error: the correct verb would be ‘teach’
+la	the		
+lingua	language		
+italiana	Italian		
+perché	because		
+in	in		
+quei	this		
+periodi	period		
+non	not		
+c’	LOC		
+era	is		
+molta	much		
+cultura	culture		
+e	and		
+la	the		
+pubblicità	advertising		
+approfittava	take advantage		the verb lacks the necessary argument describing what the advertising took advantage of; in this case, it would likely be the particle ‘ne’ (of which)
+per	to		
+insegnare	teach		
+l’	the		
+italiano	Italian		
+.	.		
+			
+# sent_id = assignmentA_3			
+# text = La pubblicità si è evoluta a tal punto che si trasmette nei cinema durante la proiezione dei film, c’era come un “flash” che condizionava la gente che subito dopo andava a comprare il prodotto che era stato “trasmesso”.			
+# text_en = Advertising evolved to such an extent that it was broadcast in theaters during the showing of movies, there was like a "flash" that conditioned people who immediately afterwards went to buy the product that had been "broadcast."			
+# lang = it			
+La	The		
+pubblicità	advertising		
+si	REFL		
+è	evolve		
+evoluta	_		
+a	to the extent		
+tal	_		
+punto	_		
+che	that		
+si	IMPERS		
+trasmette	broadcast		
+nei	in the		
+cinema	movie theatre		
+durante	during		
+la	the		
+proiezione	showing		
+dei	of the		
+film,	movie		
+c’	LOC		
+era	be		
+come	like		
+un	a		
+“			
+flash	flash		
+”			
+che	that		
+condizionava	condition		
+la	the		
+gente	people		
+che	that		
+subito	immediately		
+dopo	after		
+andava	go		
+a	to		
+comprare	buy		
+il	the		
+prodotto	product		
+che	that		
+era	transmit		
+stato	_		
+trasmesso	_		
+“			
+.			
+			
+# sent_id = assignmentA_4			
+# text = La pubblicità si è voluta man mano fino ad arrivare ai nostri giorni durante questo “svolgimento” parallelamente alla storia della pubblicità per opera di Marconi l’invenzione della radio altro sponsor per la pubblicità.			
+# text_en = Advertising has gradually volved to reach the present day during this "development" concurrently to the history of advertising through the work of Marconi the invention of the radio another sponsor for advertising.			
+# lang = it			
+La	the		
+pubblicità	advertising		
+si	REFL		
+è	evolve		
+voluta	_		Incorrect form: it’s spelled ‘evoluta’
+man	progressively		
+mano	_		
+fino	up to		
+ad	_		
+arrivare	arrive		
+ai	to the		
+nostri	our		
+giorni	day		
+durante	during		
+questo	this		
+“			
+svolgimento	unfolding		Lexically imprecise
+”			
+parallelamente	concurrently		
+alla	to the		
+storia	history		
+della	of the		
+pubblicità	advertising		
+per	by		
+opera	work		
+di	of the		
+Marconi	Marconi		
+l’	the		
+invenzione	invention		
+della	of the		
+radio	radio		
+altro	other		
+sponsor	sponsor		
+per	for		
+la	the		
+pubblicità	advertising		
+.			
+			
+# sent_id = assignmentA_5			
+# text = In seguito una rivoluzione che ha compreso tutto il globo è la tv questo è uno strumento che vedono e usano tutti, dove vengono trasmessi programmi televisivi a volte interessanti o sciocchi anche in essa vengono trasmesse pubblicità che secondo me l’influenza sulle persone è poca dato che tanto anche se fosse interessata non si hanno i soldi.			
+# text_en = Then a revolution that has included the entire globe is the TV this is a tool that everyone sees and uses, where television programs sometimes interesting or silly are broadcast advertising is broadcast there also which in my opinion the influence on people is little since even if s/he were interested there is no money.			
+# lang = it			
+In	afterwards		
+seguito	_		
+una	a		
+rivoluzione	revolution		
+che	that		
+ha	include		Wrong lexical choice: should be ‘coinvolto’/’incluso’ (affected)
+compreso	_		
+tutto	all		
+il	the		
+globo	globe		
+è	is		
+la	the		
+tv	TV		
+questo	this		
+è	be		
+uno	a		
+strumento	instrument		
+che	that		
+vedono	see		
+e	and		
+usano	use		
+tutti	everybody		
+,			
+dove	where		
+vengono	broadcast		
+trasmessi	_		
+programmi	programs		
+televisivi	for tv		
+a	sometimes		
+volte	_		
+interessanti	interesting		
+o	or		
+sciocchi	silly		
+anche	even		
+in	on		
+essa	it		
+vengono	broadcast		
+trasmesse	_		
+pubblicità	advertising		
+che	that		
+secondo	according to		
+me	me		
+l’	the		
+influenza	influence		
+sulle	on the		
+persone	people		
+è	is		
+poca	little		
+dato	since		
+che	_		
+tanto	anyway		
+anche	even if		
+se	_		
+fosse	be		
+interessata	interested		
+non	NEG		
+si	IMPERS		
+hanno	have		
+i	the		
+soldi	money		
+.			
+			
+# sent_id = assignmentB_1			
+# text = Ho capelli neri, orecchie un po a sventola ciglie lunghe, sopracciglia corte, viso ovale, un po ciccione e dei occhi neri.			
+# text_en = I have black hair, slightly protruding ears long eyelashes, short eyebrows, oval face, a bit chubby and some black eyes.			
+# lang = it			
+Ho	have		
+capelli	hair		
+neri	black		
+,			
+orecchie	ear		
+un	a bit		orthografical error: it’s spelled <<un po’>>
+po	_		
+a	sticky		
+sventola	_		
+ciglie	eyelash		
+lunghe	long		
+,			
+sopracciglia	eyebrow		
+corte	short		
+,			
+viso	face		
+ovale	oval		
+,			
+un	a bit		orthografical error: it’s spelled <<un po’>>
+po	_		
+ciccione	chubby		
+e	and		
+dei	some		the morphological agreement is incorrect (should be ‘degli’); also, the partitive article is incorrect with this phrase.
+occhi	eye		
+neri	black		
+.			
+			
+# sent_id = assignmentB_2			
+# text = Quando mi arrabbio lancio tutto per aria e se proprio mi arrabbio faccio la mia casa “sottosopra” cosa che accade raramente.			
+# text_en = When I get angry I throw everything about and if I get real mad I turn my house “upside down”, which rarely happens.			
+# lang = it			
+Quando	when		
+mi	REFL		
+arrabbio	become angry		
+lancio	throw		lanciare per aria’, like the similar ‘buttare per aria’, are colloquial expressions which litterally translate to ‘throw about the air’ and mean ‘turn things upside down’, generally by frantically rummaging or in a fit of rage.
+tutto	everything		
+per	PREP		
+aria	air		
+e	and		
+se	if		
+proprio	really		
+mi	REFL		
+arrabbio	become angry		
+faccio	make		
+la	the		
+mia	my		
+casa	house		
+“			
+sottosopra	upside down		
+”			
+cosa	which		
+che	_		
+accade	happen		
+raramente	rarely		
+.			
+			
+# sent_id = assignmentB_3			
+# text = Io di solito mi vesto con i jeans e una camicia.			
+# text_en = I usually wear jeans and a shirt.			
+# lang = it			
+Io	I		
+di	usually		
+solito	_		
+mi	REFL		
+vesto	wear		
+con	with		
+i	the		
+jeans	jeans		
+e	and		
+una	a		
+camicia	shirt		
+.			
+			
+# sent_id = assignmentB_4			
+# text = Quando scrivo un tema o un altra cosa i miei compagni dicono che la mia caligrafia è brutta, ma io la considero bella!			
+# text_en = When I write an essay or something else, my classmates say my handwriting is ugly, but I consider it beautiful!			
+# lang = it			
+Quando	when		
+scrivo	write		
+un	a		
+tema	essay		
+o	or		
+un	a		orthografical error: it’s spelled <<un’>> because it’s feminine
+altra	other		
+cosa	thing		
+i	the		
+miei	my		
+compagni	classmates		
+dicono	say		
+che	that		
+la	the		
+mia	my		
+caligrafia	handwriting		spelling error: it’s ‘calligraphy’.
+è	is		wrong mood: should be subjunctive, ‘sia’
+brutta	ugly		
+,			
+ma	but		
+io	I		
+la	it		
+considero	consider		
+bella	beautiful		
+!			
+			
+# sent_id = assignmentB_5			
+# text = Io con i miei amici mi comporto normalmente però, alcune volte dicono di essere strano.			
+# text_en = I behave myself normally with my friends but, sometimes they say to be weird.			
+# lang = it			
+Io	I		
+con	with		
+i	the		
+miei	my		
+amici	friend		
+mi	REFL		pleonasm
+comporto	behave		
+normalmente	normally		
+però	but		
+,			
+alcune	sometimes		
+volte	_		
+dicono	say		
+di	to		
+essere	be		wrong verbal conjugation: the subject changes and dhould be expressed: ‘che io sia strano’
+strano	weird		
+.			

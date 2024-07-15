@@ -1,0 +1,143 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1/1096
+# text = č̣ṭ ⸗śn rn nfr n(.i҆) Wni҆ś pn n Rꜥw
+# text_en = They will tell the good name of this Unas (certainly) to Re
+# lang = pcm
+1	č̣ṭ	č̣ṭ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	rn	rn	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
+4	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nmod	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+8	n	n	ADP	Cons.st	Case=Dat	9	case	_	_
+9	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	iobj	_	_
+
+# sent_id = 2/1154
+# text = ḫnn ⸗f m ḫprr m nś.t šw.t i҆m.(i҆)t wi҆ꜣ ⸗k Rꜥw
+# text_en = He alights (certainly) as a beetle on the empty throne which is in your bark, Re
+# lang = pcm
+1	ḫnn	ḫnn	VERB	SFC|Pres|Aug|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
+4	ḫprr	ḫprr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
+7	šw.t	šw.t	ADJ	VERB	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
+8	i҆m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	6	amod	_	_
+9	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
+11	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	vocative	_	_
+
+# sent_id = 3/1334
+# text = tkn.t ⸗k n tkn ⸗k I҆kn-hi҆
+# text_en = Your approach is for the one you approach, Ikenhi
+# lang = pcm
+1	tkn.t	tkn	NOUN	Inf	Gender=Masc|VerbForm=Inf	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Cons.st	Case=Ben	4	case	_	_
+4	tkn	tkn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:outer	_	_
+6-7	I҆kn-hi҆	_	_	_	_	_	_	_	_
+6	I҆kn	I҆kn	PROPN	_	Gender=Masc	4	vocative	_	_
+7	hi҆	hi҆	NOUN	_	Gender=Masc|Number=Sing	6	flat	_	_
+
+# sent_id = 4/50
+# text = nfr w(i҆) Tti҆ ḥtp i҆t ⸗f Gb(b) ḥr ⸗f
+# text_en = How goodly is Teti with whom his father, Geb, is content
+# lang = pcm
+1	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓄤𓂋
+2	w(i҆)	wi҆	INTJ	_	_	1	discourse	_	Hiero=𓅱
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
+4	ḥtp	ḥtp	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	3	acl	_	Hiero=𓊵(:𓏏*𓊪)
+5	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Hiero=𓇋𓏏
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
+7	Gb(b)	Gbb	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓅭𓃀
+8	ḥr	ḥr	ADP	Pron.st	Case=Cau	9	case	_	Hiero=𓁷:𓂋
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	Hiero=𓆑
+
+# sent_id = 5/172
+# text = Wśr(.w) Wni҆ś m n ⸗k ḥnḳ pr i҆m ⸗k
+# text_en = Osiris Unas, take for yourself the ferment that came from you
+# lang = pcm
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	Hiero=𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	Hiero=𓎡
+6	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	Hiero=𓎛(𓈖:𓈎)
+7	pr	pri̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	Hiero=𓉐:𓂋
+8	i҆m	m	ADP	Pron.st	Case=Abl	9	case	_	Hiero=𓇋𓅓
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	Hiero=𓎡
+
+# sent_id = 6/203
+# text = Wśr(.w) N(i҆).t m n ⸗k č̣bꜥ Śtẖ ś:mꜣꜣ i҆r.t Ḥr.w ḥč̣.t
+# text_en = Osiris Neith, take for yourself the finger of Seth which causes the white Eye of Horus to see
+# lang = pcm
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
+2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	Hiero=(𓈖:𓏏)𓋌
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	Hiero=𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	Hiero=𓎡
+6	č̣bꜥ	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	Hiero=𓂭
+7	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	Hiero=𓋴(𓏏:𓈙)
+8	ś:mꜣꜣ	mꜣꜣ	VERB	ADJ|Voice=Cau	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	Hiero=𓋴𓌳𓄿𓄿
+9	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	8	obj	_	Hiero=𓁹
+10	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	9	nmod	_	Hiero=𓅃
+11	ḥč̣.t	ḥč̣	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	Hiero=𓌉𓏏
+
+# sent_id = 7/390
+# text = n(.i҆) św mꜣꜣ.i҆
+# text_en = He belongs to the seer
+# lang = pcm
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	Hiero=𓈖
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	Hiero=𓇓𓅱
+3	mꜣꜣ.i҆	mꜣꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	Hiero=(𓌴:𓁹)𓄿𓄿𓇋
+
+# sent_id = 8/1083
+# text = m ⸗k Tti҆ pḥ.n ⸗f ḳꜣw p.t mꜣ.n św ḥnmm.t śi҆ꜣ.n św mśk.tt
+# text_en = Look, Teti has reached the height of heaven after the sun-folk saw him and the night-bark recognized him
+# lang = pcm
+1	m	m	PART	_	_	4	discourse	_	𓅓
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	dislocated	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
+4	pḥ.n	pḥ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓊪𓎛𓂻𓈖
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Hiero=𓆑
+6	ḳꜣw	ḳꜣw.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	4	obj	_	Hiero=𓈎𓄿𓄫𓅱
+7	p.t	p.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	6	nmod	_	Hiero=(𓊪*𓏏:)𓇯
+8	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	Hiero=(𓌴:𓁹)𓄿𓈖
+9	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Hiero=𓇓𓅱
+10	ḥnmm.t	ḥnmm.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Coll	8	nsubj	_	Hiero=(𓎛*𓆼:)𓈖𓅓𓅓(𓏏:UniC=No)
+11	śi҆ꜣ.n	śi҆ꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	Hiero=𓋴𓇋𓋷𓄿𓈖
+12	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Hiero=𓇓𓅱
+13	mśk.tt	mśḳ.ti҆t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	11	nsubj	_	Hiero=𓋴𓅓(𓎡(:𓏏*𓏏))UniC=No
+
+# sent_id = 9/895
+# text = i҆r tm ⸗k i҆r(.w) ś.t n Wni҆ś i҆r.kꜣ Wni҆ś fꜣ.t m i҆t ⸗f Gb(b)
+# text_en = If you don't make a place for me, Unas will make a curse (?) on his father Geb
+# lang = pcm
+1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	𓇋:𓂋
+2	tm	tm	VERB	SFC|Sub|Hierocl=Yes	Mood=Sub|Polarity=Neg|VerbForm=Fin	8	advcl	_	Hiero=𓏏:𓍃:𓂜
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Hiero=𓎡
+4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	obl	_	Hiero=𓁹
+5	ś.t	ś.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	4	obj	_	Hiero=𓊨𓏤
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	Hiero=𓈖
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	iobj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
+8	i҆r.kꜣ	i҆ri̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓁹(𓎡:𓄿)
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
+10	fꜣ.t	fꜣ.t	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	Hiero=(𓆑:𓄿)𓏏
+11	m	m	ADP	Cons.st	_	12	case	_	Hiero=𓅓
+12	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=𓇋𓏏
+13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	Hiero=𓆑
+14	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	12	appos	_	Hiero=𓅭𓃀
+
+# sent_id = 10/202
+# text = i҆m ⸗k <ś:>fḫḫ(.w) i҆m ⸗f
+# text_en = You shall not let loose of him
+# lang = pcm
+1	i҆m	i҆mi̯	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	0	root	_	Hiero=𓇋𓅓
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
+3	<ś:>fḫḫ(.w)	fḫḫ	VERB	NegCom|Voice=Cau	VerbForm=Inf	2	obl	_	Hiero=𓆑(:𓐍*𓐍)
+4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	Hiero=𓇋𓅓
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	Hiero=𓆑
+
